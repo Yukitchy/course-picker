@@ -1,0 +1,15 @@
+{
+ "浅草・上野": ["asakusa", "sensoji", "kappabashi", "ueno", "shinobazu", "tokyo national museum", "yanaka"],
+ "銀座・丸の内・日比谷": ["ginza", "itoya", "kabuki", "marunouchi", "tokyo station", "imperial palace", "hibiya", "ichigokan"],
+ "築地・豊洲・湾岸": ["tsukiji", "hamarikyu", "toyosu", "teamlab", "senkyaku"],
+ "両国・墨田": ["ryogoku", "hokusai", "kokugikan", "edo-tokyo museum", "kyu-yasuda", "chanko"],
+ "原宿・渋谷": ["harajuku", "takeshita", "omotesando", "meiji", "yoyogi", "shibuya"],
+ "代官山・中目黒": ["daikanyama", "nakameguro", "log road"],
+ "新宿": ["shinjuku", "metropolitan government", "tsunahachi", "gyoen"],
+ "秋葉原・神田・御茶ノ水": ["akihabara", "radio kaikan", "mandarake complex", "kanda", "ochanomizu", "koyama kyugu", "disk union ochanomizu"],
+ "池袋・巣鴨": ["ikebukuro", "shiinamachi", "animate", "sunshine city", "sugamo", "toudoukan"],
+ "中野・吉祥寺・三鷹": ["nakano", "kichijoji", "ghibli"],
+ "品川・川崎・横浜": ["品川", "川崎", "チネチッタ", "横浜", "桜木町", "shinagawa"],
+ "京都": ["kyoto", "uji", "byodoin", "nishiki", "gion"],
+ "大阪": ["osaka", "namba", "den den", "dotonbori", "takarazuka", "usj", "kansai"]
+}

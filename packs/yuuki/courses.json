@@ -148,6 +148,10 @@
    "食べ歩き・グルメ",
    "庭園・自然",
    "歩き少なめ"
+  ],
+  "areas": [
+   "浅草・上野",
+   "築地・豊洲・湾岸"
   ]
  },
  {
@@ -291,6 +295,9 @@
    "食べ歩き・グルメ",
    "博物館・アート",
    "雨の日OK"
+  ],
+  "areas": [
+   "築地・豊洲・湾岸"
   ]
  },
  {
@@ -441,6 +448,9 @@
    "寺社・歴史",
    "買い物",
    "街歩き"
+  ],
+  "areas": [
+   "原宿・渋谷"
   ]
  },
  {
@@ -601,6 +611,10 @@
   "genres": [
    "庭園・自然",
    "街歩き"
+  ],
+  "areas": [
+   "原宿・渋谷",
+   "代官山・中目黒"
   ]
  },
  {
@@ -712,6 +726,9 @@
    "庭園・自然",
    "博物館・アート",
    "スポーツ・武道"
+  ],
+  "areas": [
+   "両国・墨田"
   ]
  },
  {
@@ -822,6 +839,10 @@
   },
   "genres": [
    "食べ歩き・グルメ"
+  ],
+  "areas": [
+   "銀座・丸の内・日比谷",
+   "築地・豊洲・湾岸"
   ]
  },
  {
@@ -932,6 +953,10 @@
    "買い物",
    "庭園・自然",
    "歩き少なめ"
+  ],
+  "areas": [
+   "銀座・丸の内・日比谷",
+   "築地・豊洲・湾岸"
   ]
  },
  {
@@ -1068,6 +1093,9 @@
   "genres": [
    "食べ歩き・グルメ",
    "庭園・自然"
+  ],
+  "areas": [
+   "築地・豊洲・湾岸"
   ]
  },
  {
@@ -1208,6 +1236,9 @@
    "博物館・アート",
    "スポーツ・武道",
    "雨の日OK"
+  ],
+  "areas": [
+   "両国・墨田"
   ]
  },
  {
@@ -1359,6 +1390,10 @@
    "音楽・ライブ",
    "庭園・自然",
    "街歩き"
+  ],
+  "areas": [
+   "銀座・丸の内・日比谷",
+   "原宿・渋谷"
   ]
  },
  {
@@ -1487,6 +1522,9 @@
    "寺社・歴史",
    "買い物",
    "食べ歩き・グルメ"
+  ],
+  "areas": [
+   "浅草・上野"
   ]
  },
  {
@@ -1616,6 +1654,9 @@
    "食べ歩き・グルメ",
    "庭園・自然",
    "歩き少なめ"
+  ],
+  "areas": [
+   "新宿"
   ]
  },
  {
@@ -1636,12 +1677,12 @@
     "Ends a few minutes from your hotel",
     "$250 · the day"
    ],
-   "why": "You will have been awake since a quarter past four and had lunch already in Hibiya. This course is built so that the moving after that is done sitting down: a temple in the morning district, then a boat that carries you back down the Sumida and drops you almost at your door. Nothing here needs booking and nothing here is far.",
+   "why": "You will have been awake since a quarter past four and had lunch already. This course is built so that the moving after that is done sitting down: a temple in the morning district, then a boat that carries you back down the Sumida and drops you almost at your door. Nothing here needs booking and nothing here is far.",
    "steps": [
     [
      "13:15",
-     "After lunch in Hibiya",
-     "Lunch finishes a few minutes from the hotel. About 25 minutes by train from there to Asakusa. You can sleep on it."
+     "After lunch",
+     "About 25 minutes by train from Ginza to Asakusa. You can sleep on it."
     ],
     [
      "13:45",
@@ -1765,6 +1806,10 @@
    "食べ歩き・グルメ",
    "庭園・自然",
    "歩き少なめ"
+  ],
+  "areas": [
+   "浅草・上野",
+   "築地・豊洲・湾岸"
   ]
  },
  {
@@ -1789,7 +1834,7 @@
    "steps": [
     [
      "13:30",
-     "After lunch in Hibiya",
+     "After lunch",
      "About 20 minutes by train to Toyosu, the same line you took at dawn."
     ],
     [
@@ -1898,6 +1943,9 @@
    "食べ歩き・グルメ",
    "博物館・アート",
    "歩き少なめ"
+  ],
+  "areas": [
+   "築地・豊洲・湾岸"
   ]
  },
  {
@@ -1922,8 +1970,8 @@
    "steps": [
     [
      "13:15",
-     "After lunch in Hibiya",
-     "About 20 minutes by train from Hibiya to Harajuku."
+     "After lunch",
+     "About 20 minutes by train from Ginza to Harajuku."
     ],
     [
      "13:45",
@@ -2039,6 +2087,9 @@
    "買い物",
    "庭園・自然",
    "街歩き"
+  ],
+  "areas": [
+   "原宿・渋谷"
   ]
  },
  {
@@ -2172,6 +2223,9 @@
    "食べ歩き・グルメ",
    "庭園・自然",
    "博物館・アート"
+  ],
+  "areas": [
+   "浅草・上野"
   ]
  },
  {
@@ -2311,6 +2365,9 @@
    "寺社・歴史",
    "博物館・アート",
    "歩き少なめ"
+  ],
+  "areas": [
+   "銀座・丸の内・日比谷"
   ]
  },
  {
@@ -2458,6 +2515,10 @@
   "genres": [
    "買い物",
    "食べ歩き・グルメ"
+  ],
+  "areas": [
+   "浅草・上野",
+   "銀座・丸の内・日比谷"
   ]
  },
  {
@@ -2619,6 +2680,10 @@
    "買い物",
    "街歩き",
    "スポーツ・武道"
+  ],
+  "areas": [
+   "代官山・中目黒",
+   "秋葉原・神田・御茶ノ水"
   ]
  },
  {
@@ -2775,6 +2840,11 @@
    "食べ歩き・グルメ",
    "街歩き",
    "スポーツ・武道"
+  ],
+  "areas": [
+   "代官山・中目黒",
+   "秋葉原・神田・御茶ノ水",
+   "池袋・巣鴨"
   ]
  },
  {
@@ -2930,6 +3000,11 @@
    "買い物",
    "街歩き",
    "スポーツ・武道"
+  ],
+  "areas": [
+   "原宿・渋谷",
+   "代官山・中目黒",
+   "秋葉原・神田・御茶ノ水"
   ]
  },
  {
@@ -2991,6 +3066,9 @@
   "genres": [
    "音楽・ライブ",
    "雨の日OK"
+  ],
+  "areas": [
+   "品川・川崎・横浜"
   ]
  },
  {
@@ -3055,6 +3133,9 @@
   },
   "genres": [
    "音楽・ライブ"
+  ],
+  "areas": [
+   "品川・川崎・横浜"
   ]
  },
  {
@@ -3120,6 +3201,9 @@
   "genres": [
    "音楽・ライブ",
    "食べ歩き・グルメ"
+  ],
+  "areas": [
+   "品川・川崎・横浜"
   ]
  },
  {
@@ -3261,6 +3345,9 @@
    "買い物",
    "食べ歩き・グルメ",
    "街歩き"
+  ],
+  "areas": [
+   "秋葉原・神田・御茶ノ水"
   ]
  },
  {
@@ -3390,6 +3477,9 @@
   "genres": [
    "アニメ・マンガ",
    "博物館・アート"
+  ],
+  "areas": [
+   "池袋・巣鴨"
   ]
  },
  {
@@ -3509,6 +3599,9 @@
    "アニメ・マンガ",
    "買い物",
    "博物館・アート"
+  ],
+  "areas": [
+   "中野・吉祥寺・三鷹"
   ]
  },
  {
@@ -3640,6 +3733,10 @@
    "アニメ・マンガ",
    "食べ歩き・グルメ",
    "博物館・アート"
+  ],
+  "areas": [
+   "品川・川崎・横浜",
+   "京都"
   ]
  },
  {
@@ -3772,6 +3869,9 @@
    "食べ歩き・グルメ",
    "庭園・自然",
    "博物館・アート"
+  ],
+  "areas": [
+   "京都"
   ]
  },
  {
@@ -3902,6 +4002,9 @@
    "アニメ・マンガ",
    "食べ歩き・グルメ",
    "博物館・アート"
+  ],
+  "areas": [
+   "大阪"
   ]
  },
  {
@@ -4010,6 +4113,9 @@
   },
   "genres": [
    "買い物"
+  ],
+  "areas": [
+   "大阪"
   ]
  },
  {
@@ -4126,6 +4232,10 @@
    "買い物",
    "食べ歩き・グルメ",
    "街歩き"
+  ],
+  "areas": [
+   "浅草・上野",
+   "銀座・丸の内・日比谷"
   ]
  },
  {
@@ -4138,6 +4248,7 @@
   "note": "",
   "key": "sakatsu",
   "page_only": true,
-  "genres": []
+  "genres": [],
+  "areas": []
  }
 ]

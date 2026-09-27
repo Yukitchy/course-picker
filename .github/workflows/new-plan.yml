@@ -1,0 +1,33 @@
+name: new-plan
+on:
+  issues:
+    types: [opened]
+permissions:
+  contents: write
+  issues: write
+jobs:
+  build:
+    if: startsWith(github.event.issue.title, '[new-plan]') && github.event.issue.user.login == github.repository_owner
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Read the request
+        env:
+          BODY: ${{ github.event.issue.body }}
+        run: |
+          python3 -c "import json,os,re; m=re.search(r'\`\`\`json\s*(\{.*?\})\s*\`\`\`', os.environ['BODY'], re.S); json.dump(json.loads(m.group(1)), open('/tmp/plan.json','w'))"
+      - name: Build the page
+        id: new
+        run: python3 engine/new.py --from-issue /tmp/plan.json && python3 engine/catalog.py
+      - name: Publish
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A && git commit -m "New plan: ${{ steps.new.outputs.dir }} (#${{ github.event.issue.number }})" && git push
+      - name: Reply
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue comment ${{ github.event.issue.number }} --body "できました（公開まで1〜2分）: https://yukitchy.github.io/course-picker/${{ steps.new.outputs.dir }}/
+          見出し・時刻・集合場所の細かい調整と、店の営業日の再確認は Claude に「${{ steps.new.outputs.dir }} を仕上げて」と頼んでください。"
+          gh issue close ${{ github.event.issue.number }}

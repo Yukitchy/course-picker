@@ -7,6 +7,8 @@
 - `engine/find.py 語...` 台帳を検索（AND・部分一致・ジャンル名も可）
 - ジャンルは `packs/<pack>/genres.json` のキーワードで自動で付く（経由地のホテル名は判定しない・店名は食べ歩きだけに使う）
 - `engine/new.py <出力先> <key>...` 選んだコースで新しい選択ページのたたき台を作る（`page.json` の TODO を埋めて `python3 build.py`）
+- 一覧ページで「＋選ぶ」→「新しいプランを作る」→ GitHub issue を送信すると、Actions（`.github/workflows/new-plan.yml`）が `plans/<slug>/` に作って公開し、URLを返信する（オーナー本人の issue だけ動く）
+- エリアは `packs/<pack>/areas.json`（出発と帰着が同じ地点＝宿は判定しない）
 
 新しいページを出したら `packs/<pack>/sources.json` に1行足して extract → catalog。
 他人が使う時は `packs/<自分>/sources.json` を作るだけ。

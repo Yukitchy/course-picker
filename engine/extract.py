@@ -48,13 +48,18 @@ for s in json.load(open(PACK / 'sources.json')):
         rows.append(r)
     print(f'{repo.name}: {len(items)}')
 GEN = json.load(open(PACK / 'genres.json')) if (PACK / 'genres.json').exists() else {}
+AREA = json.load(open(PACK / 'areas.json')) if (PACK / 'areas.json').exists() else {}
 for r in rows:
     c = r.get('course') or {}
-    stops = [x for x in c.get('stops', []) if 'hotel' not in x.lower()]
+    stops = list(c.get('stops', []))
+    if len(stops) > 2 and stops[0] == stops[-1]: stops = stops[1:-1]  # 出発して戻る場所=宿
+    stops = [x for x in stops if 'hotel' not in x.lower()]
     base = json.dumps([c.get('name'), c.get('tag'), c.get('chips'), stops], ensure_ascii=False).lower()
     food = base + json.dumps([f[0] for f in c.get('food', []) if f], ensure_ascii=False).lower()
     def hit(k, b):
         return re.search(r'\b' + re.escape(k.lower()) + r'\b', b) if k.isascii() else k.lower() in b
     r['genres'] = [g for g, kws in GEN.items() if any(hit(k, food if g == '食べ歩き・グルメ' else base) for k in kws)]
+    allstops = json.dumps(stops + [c.get('name'), c.get('tag')], ensure_ascii=False).lower()
+    r['areas'] = [g for g, kws in AREA.items() if any(hit(k, allstops) for k in kws)]
 json.dump(rows, open(PACK / 'courses.json', 'w'), ensure_ascii=False, indent=1)
 print('->', PACK / 'courses.json', len(rows))
