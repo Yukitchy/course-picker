@@ -1,0 +1,13 @@
+{
+ "寺社・歴史": ["sensoji", "shrine", "temple", "jingu", "myojin", "edo", "hokusai", "castle", "kabuki", "byodoin", "imperial palace"],
+ "アニメ・マンガ": ["manga", "anime", "ghibli", "doraemon", "tezuka", "akihabara", "mandarake", "animate", "nakano broadway", "den den", "tokiwa", "ave mujica"],
+ "音楽・ライブ": ["metal", "guitar", "record", "rock", "brass band", "rockabilly", "ブルク", "チネチッタ", "t・ジョイ", "劇場"],
+ "買い物": ["shopping", "gifts", "kappabashi", "itoya", "takeshita", "record", "mandarake", "broadway", "something to take home", "shop"],
+ "食べ歩き・グルメ": ["ramen", "tsukiji", "sushi", "kaiseki", "matcha", "soba", "tempura", "tsunahachi", "chanko", "nishiki", "dotonbori", "崎陽軒", "senkyaku banrai", "food samples"],
+ "庭園・自然": ["garden", "gyoen", "park", "pond", "river", "uji", "forest"],
+ "博物館・アート": ["museum", "teamlab", "art"],
+ "街歩き": ["on foot", "daikanyama", "nakameguro", "yanaka", "harajuku", "omotesando", "side streets", "more time to walk", "the district, floor by floor"],
+ "スポーツ・武道": ["wrestling", "kyudo", "kokugikan", "chanko", "sumo"],
+ "雨の日OK": ["indoor", "any weather", "雨に濡れない"],
+ "歩き少なめ": ["least walking", "almost no walking", "mostly sitting", "no trains at all", "sit down"]
+}

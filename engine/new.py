@@ -3,7 +3,7 @@
 python3 engine/new.py <出力フォルダ> <key> [<key> ...] [--pack yuuki]
 例: python3 engine/new.py ~/lisa-tokyo-day patrick-tokyo-day:A rick-tokyo-oct5:F manga-week:3
 コースは並べた順に A,B,C… に振り直す。page.json の TODO を埋めて python3 build.py。"""
-import json, os, pathlib, shutil, subprocess, sys
+import json, os, pathlib, re, shutil, subprocess, sys
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 a = sys.argv[1:]; pack = 'yuuki'
 if '--pack' in a: i = a.index('--pack'); pack = a[i + 1]; del a[i:i + 2]
@@ -17,6 +17,7 @@ out.mkdir(parents=True, exist_ok=True)
 courses, ph = [], {}
 for n, k in enumerate(keys):
     cid = chr(65 + n); c = dict(rows[k]['course']); c['id'] = cid; c['from'] = k
+    c['chips'] = [x for x in c.get('chips', []) if not re.search(r'[$¥€£]|\d+\s*(円|yen|usd)', x, re.I)]
     courses.append(c); ph[cid] = rows[k].get('photos') or {}
 page = {'title': 'TODO: Tokyo, <day>: courses for <guest>', 'kicker': 'TODO: Tokyo · <Weekday>, <Month> <d>',
         'h1': 'TODO: short headline, <span class="nb">second half.</span>', 'lead': 'TODO: one sentence about the day.',

@@ -4,6 +4,9 @@ import html, json, pathlib, sys
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 pack = sys.argv[1] if len(sys.argv) > 1 else 'yuuki'
 rows = json.load(open(ROOT / 'packs' / pack / 'courses.json'))
+import collections, re
+PRICE = re.compile(r'[$¥€£]|\d+\s*(円|yen|usd)', re.I)
+GC = collections.Counter(g for r in rows for g in r.get('genres', []))
 e = lambda s: html.escape(str(s or ''))
 ST = {'decided': '決定', 'done': '実施済み', 'proposed': '提案'}
 
@@ -16,13 +19,14 @@ def card(r):
     img = ((r.get('photos') or {}).get('card') or {}).get('thumb', '')
     st = r.get('status', ''); dec = st.startswith('decided') and (st == 'decided' or st.endswith(':' + str(c.get('id'))))
     badge = ST['decided'] if dec else ST.get(st.split(':')[0], st)
-    chips = ''.join(f'<li>{e(x)}</li>' for x in c.get('chips', []))
+    chips = ''.join(f'<li>{e(x)}</li>' for x in c.get('chips', []) if not PRICE.search(x))
+    gl = ''.join(f'<span>{e(g)}</span>' for g in r.get('genres', []))
     stops = ' → '.join(e(x) for x in c.get('stops', [])[1:5])
-    q = ' '.join(map(str, [c.get('name'), c.get('tag'), ' '.join(c.get('chips', [])), ' '.join(c.get('stops', [])), r['area'], r['guest'], r['key']]))
-    return (f'<article class="cc{" dec" if dec else ""}" data-q="{e(q)}">'
+    q = ' '.join(map(str, [c.get('name'), c.get('tag'), ' '.join(x for x in c.get('chips', []) if not PRICE.search(x)), ' '.join(c.get('stops', [])), r['area'], r['guest'], r['key']]))
+    return (f'<article class="cc{" dec" if dec else ""}" data-q="{e(q)}" data-g="{e("|".join(r.get("genres", [])))}">'
             + (f'<img src="{e(img)}" alt="" loading="lazy">' if img else '<div class="noimg">No photo</div>')
             + f'<span class="cb"><span class="meta">{e(r["area"])} · {e(r["guest"])} · {e(r.get("note") or r["date"])}<b class="st">{e(badge)}</b></span>'
-            f'<strong>{e(c.get("name"))}</strong><span class="tag">{e(c.get("tag"))}</span><ul class="ch">{chips}</ul>'
+            f'<strong>{e(c.get("name"))}</strong><span class="tag">{e(c.get("tag"))}</span><span class="gl">{gl}</span><ul class="ch">{chips}</ul>'
             f'<span class="stops">{stops}</span>'
             f'<span class="row"><a href="{e(url)}#detail-{e(c.get("id"))}" target="_blank" rel="noopener">元のページで見る ↗</a>'
             f'<button type="button" class="key" data-k="{e(r["key"])}">{e(r["key"])}</button></span></span></article>')
@@ -42,6 +46,11 @@ h1{{font-weight:800;font-size:clamp(30px,5vw,46px);line-height:1.08;letter-spaci
 .how b{{display:block;margin-bottom:4px}} .how code{{background:#f3efe4;border-radius:4px;padding:1px 6px;font-size:13px}}
 #q{{width:100%;font:inherit;font-size:16px;padding:12px 14px;border:2px solid var(--ink);border-radius:8px;background:#fff;margin:0 0 8px}}
 .count{{font-size:13px;color:var(--mute);margin:0 0 16px}}
+.genres{{display:flex;flex-wrap:wrap;gap:6px;margin:4px 0 10px}}
+.genres button{{font:inherit;font-size:13px;font-weight:600;background:#fff;color:var(--ink);border:1px solid var(--line);border-radius:999px;padding:6px 12px;cursor:pointer}}
+.genres button i{{font-style:normal;color:var(--mute);font-weight:400;margin-left:2px}}
+.genres button.on{{background:var(--ink);color:#fff;border-color:var(--ink)}} .genres button.on i{{color:#ccc}}
+.gl{{display:flex;flex-wrap:wrap;gap:4px}} .gl span{{font-size:11.5px;font-weight:600;color:var(--acc);background:#eef5f0;border-radius:4px;padding:1px 7px}}
 .grid{{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}}
 .cc{{display:flex;flex-direction:column;background:var(--card);border:1px solid var(--line);border-radius:10px;overflow:hidden;color:inherit;text-decoration:none}}
 .cc.dec{{border:2px solid var(--acc)}} .cc[hidden]{{display:none}}
@@ -65,15 +74,18 @@ h1{{font-weight:800;font-size:clamp(30px,5vw,46px);line-height:1.08;letter-spaci
 </style></head><body><div class="wrap">
 <p class="kicker">Course picker · model courses</p>
 <h1>モデルコース棚</h1>
-<p class="lead">これまでゲストに出したコース選択ページの全コース。{pages}ページ・{n}コース。緑枠は採用されたコース。</p>
+<p class="lead">これまでゲストに出したコース選択ページの全コース。{pages}ページ・{n}コース。緑枠は採用されたコース。ジャンルは1コースに複数付きます。</p>
 <div class="how"><b>使い回し方</b>Claudeに「モデルコース棚から〇〇っぽいのを出して」と言えば候補が出ます。気に入ったコースの <code>ページ名:記号</code> をタップしてコピーし、「これで新しい提案ページ作って」と渡せば、たたき台がすぐ出来ます。</div>
 <input id="q" type="search" placeholder="絞り込み（例: asakusa / teamlab / rick / ramen）" autocomplete="off">
+<div class="genres" id="genres"><button type="button" class="on" data-g="">すべて</button>{''.join(f'<button type="button" data-g="{e(g)}">{e(g)} <i>{n}</i></button>' for g, n in GC.most_common())}</div>
 <p class="count" id="count"></p>
 <div class="grid" id="grid">{''.join(card(r) for r in rows)}</div>
 </div>
 <script>
 var q=document.getElementById('q'),cs=[].slice.call(document.querySelectorAll('.cc')),ct=document.getElementById('count');
-function f(){{var w=q.value.toLowerCase().split(/\\s+/).filter(Boolean),n=0;cs.forEach(function(c){{var s=c.dataset.q.toLowerCase(),ok=w.every(function(x){{return s.indexOf(x)>=0}});c.hidden=!ok;if(ok)n++}});ct.textContent=n+' 件'}}
+var gb=[].slice.call(document.querySelectorAll('.genres button')),g='';
+gb.forEach(function(b){{b.addEventListener('click',function(){{g=(g===b.dataset.g)?'':b.dataset.g;gb.forEach(function(x){{x.classList.toggle('on',x.dataset.g===g)}});f()}})}});
+function f(){{var w=q.value.toLowerCase().split(/\\s+/).filter(Boolean),n=0;cs.forEach(function(c){{var s=c.dataset.q.toLowerCase(),ok=w.every(function(x){{return s.indexOf(x)>=0}})&&(!g||(c.dataset.g||'').split('|').indexOf(g)>=0);c.hidden=!ok;if(ok)n++}});ct.textContent=n+' 件'}}
 q.addEventListener('input',f);f();
 document.querySelectorAll('.key').forEach(function(b){{b.addEventListener('click',function(){{navigator.clipboard.writeText(b.dataset.k).then(function(){{b.classList.add('ok');var t=b.textContent;b.textContent='コピーした';setTimeout(function(){{b.classList.remove('ok');b.textContent=t}},1200)}})}})}});
 </script></body></html>'''

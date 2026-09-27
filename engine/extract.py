@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """各ページの build.py を書き込み無しで実行し、コースを1つの台帳に吸い上げる。
 python3 engine/extract.py [pack]  -> packs/<pack>/courses.json"""
-import builtins, io, json, os, pathlib, sys
+import builtins, io, json, os, pathlib, re, sys
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 PACK = ROOT / 'packs' / (sys.argv[1] if len(sys.argv) > 1 else 'yuuki')
@@ -47,5 +47,14 @@ for s in json.load(open(PACK / 'sources.json')):
         if isinstance(p, dict): r['photos'] = plain(p)
         rows.append(r)
     print(f'{repo.name}: {len(items)}')
+GEN = json.load(open(PACK / 'genres.json')) if (PACK / 'genres.json').exists() else {}
+for r in rows:
+    c = r.get('course') or {}
+    stops = [x for x in c.get('stops', []) if 'hotel' not in x.lower()]
+    base = json.dumps([c.get('name'), c.get('tag'), c.get('chips'), stops], ensure_ascii=False).lower()
+    food = base + json.dumps([f[0] for f in c.get('food', []) if f], ensure_ascii=False).lower()
+    def hit(k, b):
+        return re.search(r'\b' + re.escape(k.lower()) + r'\b', b) if k.isascii() else k.lower() in b
+    r['genres'] = [g for g, kws in GEN.items() if any(hit(k, food if g == '食べ歩き・グルメ' else base) for k in kws)]
 json.dump(rows, open(PACK / 'courses.json', 'w'), ensure_ascii=False, indent=1)
 print('->', PACK / 'courses.json', len(rows))
