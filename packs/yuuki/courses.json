@@ -1,459 +1,5 @@
 [
  {
-  "url": "https://yukitchy.github.io/tokyo-arrival-day/",
-  "guest": "Katz family (5)",
-  "date": "2026-12-21",
-  "area": "Tokyo",
-  "status": "proposed",
-  "page": "tokyo-arrival-day",
-  "note": "",
-  "key": "tokyo-arrival-day:A",
-  "course": {
-   "id": "A",
-   "name": "Asakusa & the river",
-   "tag": "Sit down and see Tokyo",
-   "chips": [
-    "Least walking",
-    "40 minutes on a boat",
-    "No tickets needed"
-   ],
-   "why": "The lowest-walking option. Half of the tour is spent sitting on a boat, so a jet-lagged family can still enjoy it.",
-   "steps": [
-    [
-     "9:00",
-     "Leave the hotel",
-     "Taxi or train to Asakusa while the streets are still quiet. About 30 minutes from central Tokyo."
-    ],
-    [
-     "9:20",
-     "Senso-ji temple and Nakamise street",
-     "Tokyo&rsquo;s oldest temple. Photos at the big red lantern, incense smoke, first snacks of the trip. The pier is a 5-minute walk from the temple."
-    ],
-    [
-     "10:40",
-     "Sumida river cruise, about 40 minutes",
-     "Everyone sits. Bridges, the skyline, Tokyo Skytree behind you. Kids can nap."
-    ],
-    [
-     "11:30",
-     "Hama-rikyu gardens",
-     "A short, flat walk in a 400-year-old garden. Tea house on the pond if energy allows."
-    ],
-    [
-     "12:30",
-     "Lunch",
-     "See the three picks below. Tsukiji is a 10-minute walk from the garden gate."
-    ],
-    [
-     "14:00",
-     "Back at the hotel",
-     "Nap time."
-    ]
-   ],
-   "stops": [
-    "Asakusa Station Tokyo",
-    "Sensoji Temple",
-    "Asakusa Pier Tokyo Cruise",
-    "Hamarikyu Gardens",
-    "Tsukiji Outer Market"
-   ],
-   "moves": "Hotel → Asakusa about 30 min by train. Temple → pier 5 min on foot. Boat 40 min. Garden → Tsukiji 10 min on foot. Tsukiji → hotel about 20 min.",
-   "food": [
-    [
-     "Daikokuya Tempura",
-     "Asakusa · tendon since 1887",
-     "A bowl of tempura over rice in a wooden old-town building. Fast, filling, no menu anxiety.",
-     "Daikokuya Tempura Asakusa"
-    ],
-    [
-     "Asakusa Imahan Kokusai-dori",
-     "Asakusa · sukiyaki",
-     "Beef cooked at your table in a private tatami room. The splurge option, and a calm place for five people.",
-     "Asakusa Imahan Kokusaidori Honten"
-    ],
-    [
-     "Tsukiji Outer Market",
-     "Tsukiji · street food",
-     "Ten minutes from the garden. Grilled scallops, tamagoyaki, strawberry daifuku. Everyone picks their own.",
-     "Tsukiji Outer Market"
-    ]
-   ],
-   "good": "Little walking. Works at any energy level. Great photos.",
-   "mind": "December river wind is cold, so bring layers. Boat times for Dec 21 to be confirmed.",
-   "links": [
-    [
-     "Senso-ji (official)",
-     "https://www.senso-ji.jp/english/"
-    ],
-    [
-     "Tokyo Cruise (official)",
-     "https://www.suijobus.co.jp/en/"
-    ],
-    [
-     "Hama-rikyu gardens",
-     "https://www.tokyo-park.or.jp/teien/en/hama-rikyu/"
-    ]
-   ]
-  },
-  "photos": {
-   "card": {
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Sensoji0387.jpg/960px-Sensoji0387.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "title": "Sensoji0387.jpg",
-    "lic": "Public domain",
-    "score": 9,
-    "note": "仲見世を着物の人たちが歩いている・人が主役"
-   },
-   "detail": [
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Tokyo_Cruise_Ship_Himiko.jpg/960px-Tokyo_Cruise_Ship_Himiko.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "title": "Tokyo Cruise Ship Himiko.jpg",
-     "lic": "CC BY-SA 3.0",
-     "score": 7,
-     "note": "未来的な水上バス「ヒミコ」・コースの目玉"
-    },
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Tokio_Hamarikyu-Garten-20091017-RM-141110.jpg/960px-Tokio_Hamarikyu-Garten-20091017-RM-141110.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "title": "File:Tokio Hamarikyu-Garten-20091017-RM-141110.jpg",
-     "lic": "CC BY-SA 4.0",
-     "score": 7,
-     "note": "浜離宮の飛び石を歩く人"
-    }
-   ],
-   "food": [
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Rice_bowl_topped_with_shrimp_tempura_%288281030764%29.jpg/960px-Rice_bowl_topped_with_shrimp_tempura_%288281030764%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "title": "Rice bowl topped with shrimp tempura (8281030764).jpg",
-     "lic": "CC BY-SA 2.0",
-     "score": 8,
-     "note": "天丼そのもの"
-    },
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Kajikaso_Dinner_Sukiyaki.JPG/960px-Kajikaso_Dinner_Sukiyaki.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "title": "Kajikaso Dinner Sukiyaki.JPG",
-     "lic": "CC BY-SA 4.0",
-     "score": 8,
-     "note": "すき焼き鍋が湯気を上げている"
-    },
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/%E5%92%8C%E7%89%9B_%E5%B1%8B%E5%8F%B0_2015_%2831948446406%29.jpg/960px-%E5%92%8C%E7%89%9B_%E5%B1%8B%E5%8F%B0_2015_%2831948446406%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "title": "和牛 屋台 2015 (31948446406).jpg",
-     "lic": "CC BY 2.0",
-     "score": 8,
-     "note": "和牛串の屋台と売り子・場外市場らしさ"
-    }
-   ]
-  },
-  "genres": [
-   "寺社・歴史",
-   "食べ歩き・グルメ",
-   "庭園・自然",
-   "歩き少なめ"
-  ],
-  "areas": [
-   "浅草・上野",
-   "築地・豊洲・湾岸"
-  ]
- },
- {
-  "url": "https://yukitchy.github.io/tokyo-arrival-day/",
-  "guest": "Katz family (5)",
-  "date": "2026-12-21",
-  "area": "Tokyo",
-  "status": "proposed",
-  "page": "tokyo-arrival-day",
-  "note": "",
-  "key": "tokyo-arrival-day:B",
-  "course": {
-   "id": "B",
-   "name": "teamLab Planets & Toyosu",
-   "tag": "Indoor wow, one place only",
-   "chips": [
-    "Indoor, any weather",
-    "One place all morning",
-    "Tickets needed"
-   ],
-   "why": "One venue for the whole morning, then lunch next door. Nothing depends on the weather, and the water rooms wake everyone up.",
-   "steps": [
-    [
-     "9:00",
-     "Leave the hotel",
-     "Train or taxi to Toyosu. About 25 minutes from central Tokyo."
-    ],
-    [
-     "9:30",
-     "teamLab Planets, about 2 hours",
-     "Barefoot digital art museum. You walk through water and light, and the rooms react to you."
-    ],
-    [
-     "11:45",
-     "Toyosu Senkyaku Banrai",
-     "Edo-style food street beside the fish market. A 10-minute walk from the museum."
-    ],
-    [
-     "13:00",
-     "Free time or an early return",
-     "There is a rooftop hot-spring footbath in the same building."
-    ],
-    [
-     "14:00",
-     "Back at the hotel",
-     "Nap time."
-    ]
-   ],
-   "stops": [
-    "Toyosu Station Tokyo",
-    "teamLab Planets TOKYO",
-    "Toyosu Senkyaku Banrai"
-   ],
-   "moves": "Hotel → Shin-Toyosu about 25 min by train. Station → museum 1 min on foot. Museum → food street 10 min on foot. Toyosu → hotel about 25 min.",
-   "food": [
-    [
-     "Sushi Dai",
-     "Toyosu Market · sushi",
-     "The market&rsquo;s most famous sushi counter. Worth it, but the queue is long, so we go straight there or skip it.",
-     "Sushi Dai Toyosu Market"
-    ],
-    [
-     "Daiwa Sushi",
-     "Toyosu Market · sushi",
-     "The other market classic, usually a shorter wait than Sushi Dai. Chef-picked sets.",
-     "Daiwa Sushi Toyosu Market"
-    ],
-    [
-     "Mekiki Yokocho, Senkyaku Banrai",
-     "Toyosu · food street",
-     "Twenty small shops under one roof: rice bowls, grilled seafood, wagyu skewers, ice cream. Easiest with five people and different appetites.",
-     "Toyosu Senkyaku Banrai Mekiki Yokocho"
-    ]
-   ],
-   "good": "Weatherproof. Only two moves all morning. The single most memorable spot for kids.",
-   "mind": "December tickets sell out, so we book early. You get wet up to the knees, and shorts are provided. Bright immersive rooms can be a lot for a very tired child.",
-   "links": [
-    [
-     "teamLab Planets (official)",
-     "https://www.teamlab.art/e/planets/"
-    ],
-    [
-     "Watch the rooms in motion (teamLab official channel)",
-     "https://www.youtube.com/@teamLabART"
-    ],
-    [
-     "Toyosu Senkyaku Banrai (official)",
-     "https://toyosu-senkyakubanrai.jp/"
-    ]
-   ]
-  },
-  "photos": {
-   "card": {
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/At_teamLab_Planets_%2848277793276%29.jpg/960px-At_teamLab_Planets_%2848277793276%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "title": "At teamLab Planets (48277793276).jpg",
-    "lic": "CC BY-SA 2.0",
-    "score": 10,
-    "note": "クリスタルの部屋で自撮りする2人・9/8ユウキ選定（0番）"
-   },
-   "detail": [
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Japan_2024-04-28_%2853893216070%29.jpg/1280px-Japan_2024-04-28_%2853893216070%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "title": "File:Japan 2024-04-28 (53893216070).jpg",
-     "lic": "CC BY 2.0",
-     "score": 9,
-     "note": "空中に浮かぶ蘭と緑の花園・詳細側"
-    },
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Kaisen-don_%288126073697%29.jpg/960px-Kaisen-don_%288126073697%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "title": "Kaisen-don (8126073697).jpg",
-     "lic": "CC BY 2.0",
-     "score": 9,
-     "note": "色とりどりの海鮮丼"
-    }
-   ],
-   "food": [
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/010_Sushi_master_in_Kyoto%2C_Japan_-_sushi_chef_%E5%AF%BF%E5%8F%B8%E8%81%B7%E4%BA%BA.jpg/960px-010_Sushi_master_in_Kyoto%2C_Japan_-_sushi_chef_%E5%AF%BF%E5%8F%B8%E8%81%B7%E4%BA%BA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "title": "010 Sushi master in Kyoto, Japan - sushi chef 寿司職人.jpg",
-     "lic": "CC BY 3.0",
-     "score": 9,
-     "note": "寿司職人がカウンターで握っている"
-    },
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Panfried_Salmon_Nigiri_-_Shira_Nui_AUD4.50_each_%284759206623%29.jpg/960px-Panfried_Salmon_Nigiri_-_Shira_Nui_AUD4.50_each_%284759206623%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "title": "Panfried Salmon Nigiri - Shira Nui AUD4.50 each (4759206623).jpg",
-     "lic": "CC BY-SA 2.0",
-     "score": 8,
-     "note": "光る握り寿司のアップ"
-    },
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Kaisendon.jpg/960px-Kaisendon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "title": "Kaisendon.jpg",
-     "lic": "CC BY-SA 4.0",
-     "score": 9,
-     "note": "海老・いくら・帆立の海鮮丼"
-    }
-   ]
-  },
-  "genres": [
-   "食べ歩き・グルメ",
-   "博物館・アート",
-   "雨の日OK"
-  ],
-  "areas": [
-   "築地・豊洲・湾岸"
-  ]
- },
- {
-  "url": "https://yukitchy.github.io/tokyo-arrival-day/",
-  "guest": "Katz family (5)",
-  "date": "2026-12-21",
-  "area": "Tokyo",
-  "status": "proposed",
-  "page": "tokyo-arrival-day",
-  "note": "",
-  "key": "tokyo-arrival-day:C",
-  "course": {
-   "id": "C",
-   "name": "Meiji shrine, Harajuku & Shibuya",
-   "tag": "Morning light to reset jet lag",
-   "chips": [
-    "Best for jet lag",
-    "Outdoors, no tickets",
-    "Most photogenic"
-   ],
-   "why": "Daylight is the fastest jet-lag fix. A quiet forest walk first, then the colourful side of Tokyo once the family is properly awake.",
-   "steps": [
-    [
-     "9:00",
-     "Leave the hotel",
-     "Train or taxi to Harajuku. About 20 minutes from central Tokyo."
-    ],
-    [
-     "9:20",
-     "Meiji Jingu shrine",
-     "A flat walk through a forest in the middle of the city, benches along the way. Sunday mornings are calm."
-    ],
-    [
-     "10:30",
-     "Takeshita street",
-     "Harajuku&rsquo;s teen street opens up. Crepes, character shops, photo booths."
-    ],
-    [
-     "12:00",
-     "Lunch on Omotesando",
-     "Sit-down lunch away from the crowd, 10 minutes on foot."
-    ],
-    [
-     "13:00",
-     "Shibuya scramble crossing",
-     "Cross it once, watch it from above, then head back."
-    ],
-    [
-     "14:00",
-     "Back at the hotel",
-     "Nap time."
-    ]
-   ],
-   "stops": [
-    "Harajuku Station Tokyo",
-    "Meiji Jingu Shrine",
-    "Takeshita Street Harajuku",
-    "Omotesando Tokyo",
-    "Shibuya Scramble Crossing"
-   ],
-   "moves": "Hotel → Harajuku about 20 min by train. Shrine walk 10 min each way. Harajuku → Omotesando 10 min on foot. Omotesando → Shibuya 12 min on foot. Shibuya → hotel about 20 min.",
-   "food": [
-    [
-     "Marion Crepes",
-     "Takeshita street · crepes",
-     "The stand that started the Harajuku crepe. Thirty fillings on the photo menu, eaten while walking.",
-     "Marion Crepes Takeshita Street Harajuku"
-    ],
-    [
-     "Maisen Aoyama",
-     "Omotesando · tonkatsu",
-     "Breaded pork cutlet in a converted bathhouse. Sit-down, quiet, and easy for children.",
-     "Maisen Aoyama Honten"
-    ],
-    [
-     "Uobei Shibuya Dogenzaka",
-     "Shibuya · conveyor sushi",
-     "You order on a tablet and the plates fly to your seat on a rail. Cheap, fast, and kids ask to go back.",
-     "Uobei Shibuya Dogenzaka"
-    ]
-   ],
-   "good": "No tickets needed. Easy to shorten if anyone fades. Best course for jet lag.",
-   "mind": "Sunday Harajuku gets crowded after 11:00. A bit more walking than course A.",
-   "links": [
-    [
-     "Meiji Jingu (official)",
-     "https://www.meijijingu.or.jp/en/"
-    ],
-    [
-     "Takeshita street",
-     "https://www.google.com/maps/search/?api=1&query=Takeshita+Street+Harajuku"
-    ],
-    [
-     "Shibuya crossing",
-     "https://www.google.com/maps/search/?api=1&query=Shibuya+Scramble+Crossing"
-    ]
-   ]
-  },
-  "photos": {
-   "card": {
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Traditional_wedding_at_Meiji-jingu%2C_2006-10-29.jpg/960px-Traditional_wedding_at_Meiji-jingu%2C_2006-10-29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "title": "Traditional wedding at Meiji-jingu, 2006-10-29.jpg",
-    "lic": "CC BY-SA 2.0",
-    "score": 10,
-    "note": "明治神宮の結婚式の行列・赤い傘と着物。日曜の朝に実際に見られる"
-   },
-   "detail": [
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Takeshita_Dori%2C_Harajuku_%2844191369751%29.jpg/960px-Takeshita_Dori%2C_Harajuku_%2844191369751%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "title": "Takeshita Dori, Harajuku (44191369751).jpg",
-     "lic": "CC BY 2.0",
-     "score": 9,
-     "note": "マリオンクレープの店頭に人だかり"
-    },
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Shibuya_scramble_av_night_from_Stream.jpg/960px-Shibuya_scramble_av_night_from_Stream.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "title": "Shibuya scramble av night from Stream.jpg",
-     "lic": "CC0",
-     "score": 8,
-     "note": "スクランブル交差点を上から・渡る人が見える"
-    }
-   ],
-   "food": [
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Marion_Cr%C3%AApes_in_Harajuku_Takeshita_2.jpg/960px-Marion_Cr%C3%AApes_in_Harajuku_Takeshita_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "title": "Marion Crêpes in Harajuku Takeshita 2.jpg",
-     "lic": "CC0",
-     "score": 9,
-     "note": "手に持ったクレープ・食べている感"
-    },
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Pork_loin_cutlet_set_meal_of_Katsuya.jpg/960px-Pork_loin_cutlet_set_meal_of_Katsuya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "title": "Pork loin cutlet set meal of Katsuya.jpg",
-     "lic": "CC0",
-     "score": 8,
-     "note": "とんかつ定食"
-    },
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Conveyor_belt_sushi_at_Mashiro_Sushi.jpg/960px-Conveyor_belt_sushi_at_Mashiro_Sushi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "title": "Conveyor belt sushi at Mashiro Sushi.jpg",
-     "lic": "CC BY-SA 4.0",
-     "score": 9,
-     "note": "回転寿司のレーンを流れる色とりどりの皿"
-    }
-   ]
-  },
-  "genres": [
-   "寺社・歴史",
-   "買い物",
-   "街歩き"
-  ],
-  "areas": [
-   "原宿・渋谷"
-  ]
- },
- {
   "url": "https://yukitchy.github.io/shibuya-walk/",
   "guest": "Tree",
   "date": "2026-10-09",
@@ -1667,92 +1213,101 @@
   "status": "proposed",
   "page": "rick-tokyo-oct5",
   "note": "Oct 5-6",
-  "key": "rick-tokyo-oct5:A",
+  "key": "rick-tokyo-oct5:G",
   "course": {
-   "id": "A",
-   "name": "Asakusa, and the river home",
-   "tag": "Old temple, river boat, garden",
+   "id": "G",
+   "name": "Ginza, on foot from the table",
+   "tag": "Stationery, a food hall, a rooftop garden, tea",
    "chips": [
-    "Mostly sitting down",
-    "Ends a few minutes from your hotel",
-    "$250 · the day"
+    "On foot from lunch",
+    "Shopping and gifts",
+    "Ends 10 min from your hotel"
    ],
-   "why": "You will have been awake since a quarter past four and had lunch already. This course is built so that the moving after that is done sitting down: a temple in the morning district, then a boat that carries you back down the Sumida and drops you almost at your door. Nothing here needs booking and nothing here is far.",
+   "why": "This goes with any of the five lunches. You stand up from the table and the afternoon is already around you: everything below is inside one neighbourhood, flat, and about two kilometres end to end, with a seat every forty minutes. It is the shopping afternoon &mdash; paper, pens, a food hall, sweets to carry back &mdash; with a garden on a roof in the middle of it. From lunch 4 in Nihonbashi it starts with a ten-minute taxi; from the others you walk.",
    "steps": [
     [
-     "13:15",
-     "After lunch",
-     "About 25 minutes by train from Ginza to Asakusa. You can sleep on it."
+     "13:30",
+     "Itoya, Ginza 2-chome",
+     "Twelve floors of paper and pens in one narrow building, since 1904. Letter sets, washi paper, fountain pens, wrapping &mdash; gifts that pack flat. There is a café on the top floor if you want to sit before you start."
     ],
     [
-     "13:45",
-     "Senso-ji, Asakusa",
-     "Tokyo&rsquo;s oldest temple, founded in 628. You come in under a five-metre paper lantern, down a street of stalls selling rice crackers and fans that has been a shopping street for three hundred years. Flat the whole way, benches in the courtyard."
+     "14:30",
+     "Mitsukoshi, the basement food hall",
+     "Five minutes down the main street. Two floors under the department store of wagashi, tea, pickles, rice crackers and bento from every part of Japan, most of it boxed to travel. The easiest place in Tokyo to buy food gifts, and I translate the counters."
     ],
     [
-     "15:00",
-     "Something sweet on Nakamise",
-     "Melon bread straight out of the oven, or a bag of hot senbei. We eat as we walk back to the pier."
+     "15:15",
+     "Kimuraya, across the crossing",
+     "The bakery that invented the sweet-bean bun in 1874, on the corner of the Ginza crossing under the clock tower. A paper bag of five for the hotel room."
     ],
     [
-     "15:40",
-     "The boat down the Sumida",
-     "Forty minutes on the water. Twelve bridges, each one a different colour, the Skytree behind you and the city sliding past. You are sitting the whole way and there is a toilet on board."
+     "15:30",
+     "Ginza Six, the roof",
+     "A department store with a garden on top, free, open to anyone. Benches, trees, and the whole of Ginza below you. Then the art bookshop on the sixth floor, which is worth a look even if you buy nothing."
     ],
     [
-     "16:30",
-     "Hama-rikyu Gardens",
-     "The boat lands inside a 400-year-old shogun&rsquo;s garden with saltwater ponds. Flat gravel paths, benches all the way round, the skyline standing over the pines."
+     "16:20",
+     "Tea at Nakamura Tokichi",
+     "On the fourth floor of the same building: a tea house from Uji, near Kyoto, that has been selling matcha since 1854. A bowl of tea, or a matcha jelly and ice cream, sitting down. This is the rest before the walk home."
+    ],
+    [
+     "16:50",
+     "Takumi, the folk-craft shop",
+     "Seven minutes on, in Ginza 8-chome, a small shop that has sold Japanese folk craft since 1933: hand-made ceramics, textiles, and the wooden kokeshi dolls and small painted toys from country workshops. If the little dolls Linda bought before are what you like, this is the Ginza shop for them. Open Monday 11:00&ndash;19:00."
     ],
     [
      "17:15",
-     "Tea over the pond, if you want it",
-     "A tea house on stilts out over the water. Matcha whisked in front of you with a seasonal sweet. Entirely optional."
-    ],
-    [
-     "18:00",
      "Back at the hotel",
-     "Fifteen minutes on foot, or one short taxi."
+     "About eight minutes on foot from Takumi, or a five-minute taxi."
     ]
    ],
    "stops": [
-    "The Blossom Hibiya Tokyo",
-    "Sensoji Temple Asakusa",
-    "Asakusa Pier Tokyo Cruise",
-    "Hamarikyu Gardens",
+    "Ginza Itoya",
+    "Ginza Mitsukoshi",
+    "Ginza Kimuraya",
+    "GINZA SIX",
+    "Ginza Takumi",
     "The Blossom Hibiya Tokyo"
    ],
-   "moves": "Hotel &rarr; Asakusa about 25 min by train. Temple on foot. Pier is 5 min from the temple. Boat to Hama-rikyu 40 min. Garden &rarr; hotel 15 min on foot.",
+   "moves": "Lunch &rarr; Itoya on foot (5&ndash;15 min, or a 10-min taxi from Nihonbashi). Itoya &rarr; Mitsukoshi 5 min. Mitsukoshi &rarr; Kimuraya across the crossing. Kimuraya &rarr; Ginza Six 5 min. Ginza Six &rarr; Takumi 7 min. Takumi &rarr; hotel about 8 min on foot or a short taxi.",
    "food": [
     [
-     "Daikokuya Tempura",
-     "Asakusa &middot; tempura over rice",
-     "Frying the same dark sesame-oil tempura since 1887. Prawns over rice in a lacquer bowl. There is usually a queue and it moves.",
-     "Daikokuya Tempura Asakusa"
+     "Nakamura Tokichi, Ginza Six 4F",
+     "Ginza &middot; matcha, sitting down",
+     "Uji tea house since 1854. Matcha whisked in front of you, or the matcha jelly with ice cream and red beans, about ¥1,000&ndash;1,800. Open Monday 10:30&ndash;20:30.",
+     "Nakamura Tokichi Ginza Six"
     ],
     [
-     "Asakusa Imahan",
-     "Asakusa &middot; sukiyaki",
-     "Beef cooked at your table in a shallow iron pan, dipped in raw egg. Founded 1895, and the room is quiet and seated.",
-     "Asakusa Imahan Kokusaidori"
+     "Kimuraya",
+     "Ginza 4-chome &middot; the original sweet-bean bun",
+     "Soft bread around sweet red bean paste, a cherry blossom pressed into the top, since 1874. About ¥200 each; a bag of five travels fine to the hotel.",
+     "Ginza Kimuraya"
     ],
     [
-     "Nakamise street stalls",
-     "Asakusa &middot; snacks as you walk",
-     "Melon bread, grilled rice crackers, sweet bean cakes shaped like the temple gate. A few hundred yen each, eaten standing.",
-     "Nakamise Dori Asakusa"
+     "Mitsukoshi depachika",
+     "Ginza &middot; the basement food hall",
+     "Wagashi, tea, pickles and bento from all over Japan, boxed to carry &mdash; the place to buy food gifts. Open Monday 10:00&ndash;20:00.",
+     "Ginza Mitsukoshi depachika"
     ]
    ],
-   "good": "The most rest per hour of the three. Almost all of the distance is covered sitting on a boat or a train, and you finish within walking distance of your bed.",
-   "mind": "The last boat of the day leaves in the late afternoon, so this course cannot start much later than 13:00. If the weather turns, the boat still runs &mdash; the deck is covered.",
+   "good": "No trains, no taxis unless you want one, and the day ends within sight of your hotel. The right afternoon for a couple who like shops and a kitchen more than a shrine.",
+   "mind": "Everything here is open on Monday the 5th; nothing needs booking. If at four o&rsquo;clock you would rather have a garden than a bookshop, Hama-rikyu &mdash; a 400-year-old shogun&rsquo;s garden with a tea house on the pond &mdash; is a fifteen-minute walk south, last entry 16:30, ¥300. Say so on the day and we go there instead.",
    "links": [
     [
-     "Senso-ji (official)",
-     "https://www.senso-ji.jp/english/"
+     "Takumi folk craft (official)",
+     "http://www.ginza-takumi.co.jp/"
     ],
     [
-     "Tokyo Cruise water bus",
-     "https://www.suijobus.co.jp/en/"
+     "Itoya (official)",
+     "https://www.ito-ya.co.jp/"
+    ],
+    [
+     "Ginza Six (official)",
+     "https://ginza6.tokyo/"
+    ],
+    [
+     "Ginza Mitsukoshi (official)",
+     "https://www.mistore.jp/store/ginza.html"
     ],
     [
      "Hama-rikyu Gardens",
@@ -1762,609 +1317,54 @@
   },
   "photos": {
    "card": {
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Kaminarimon%2C_Sensoji_%282521999969%29.jpg/960px-Kaminarimon%2C_Sensoji_%282521999969%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "title": "Kaminarimon, Sensoji (2521999969).jpg",
-    "lic": "CC BY-SA 2.0"
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/GINZA_SIX_Atrium_View_201912.jpg/960px-GINZA_SIX_Atrium_View_201912.jpg",
+    "title": "GINZA SIX Atrium View 201912.jpg",
+    "lic": "CC BY 4.0"
    },
    "detail": [
     {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/%22Himiko%22_Tokyo_Cruise_Boat_%40_Sumida_River_%40_Tsukishima_Island_%40_Tokyo_%289493079356%29.jpg/960px-%22Himiko%22_Tokyo_Cruise_Boat_%40_Sumida_River_%40_Tsukishima_Island_%40_Tokyo_%289493079356%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "title": "\"Himiko\" Tokyo Cruise Boat @ Sumida River @ Tsukishima Island @ Tokyo (9493079356).jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Saturday_in_Ginza.jpg/960px-Saturday_in_Ginza.jpg",
+     "title": "Saturday in Ginza.jpg",
      "lic": "CC BY 2.0"
     },
     {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Tokio_Hamarikyu-Garten-20091017-RM-141110.jpg/960px-Tokio_Hamarikyu-Garten-20091017-RM-141110.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "title": "Tokio Hamarikyu-Garten-20091017-RM-141110.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/GINZA_SIX_Roof_Garden_201806.jpg/960px-GINZA_SIX_Roof_Garden_201806.jpg",
+     "title": "GINZA SIX Roof Garden 201806.jpg",
      "lic": "CC BY-SA 4.0"
     },
     {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Kaminarimon_Gate_of_Sensoji_Temple.JPG/960px-Kaminarimon_Gate_of_Sensoji_Temple.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "title": "Kaminarimon Gate of Sensoji Temple.JPG",
-     "lic": "CC BY-SA 4.0"
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Ginza_Six_TSUTAYA_BOOKS_201706.jpg/960px-Ginza_Six_TSUTAYA_BOOKS_201706.jpg",
+     "title": "Ginza Six TSUTAYA BOOKS 201706.jpg",
+     "lic": "CC BY 2.0"
+    },
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Hamarikyu_garden_110925_1.jpg/960px-Hamarikyu_garden_110925_1.jpg",
+     "title": "Hamarikyu garden 110925 1.jpg",
+     "lic": "CC0"
     }
    ],
    "food": [
     {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Rice_bowl_topped_with_shrimp_tempura_%288281030764%29.jpg/960px-Rice_bowl_topped_with_shrimp_tempura_%288281030764%29.jpg",
-     "title": "Rice bowl topped with shrimp tempura (8281030764).jpg",
-     "lic": "CC BY-SA 2.0"
+     "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/13/Tokyo_Parfait_-_lots_of_matcha_with_adzuki_hidden_on_the_bottom._%2814226988754%29.jpg",
+     "title": "Tokyo Parfait - lots of matcha with adzuki hidden on the bottom. (14226988754).jpg",
+     "lic": "CC BY 2.0"
     },
     {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Beef_pot_teishoku_of_Matsuya.jpg/960px-Beef_pot_teishoku_of_Matsuya.jpg",
-     "title": "Beef pot teishoku of Matsuya.jpg",
-     "lic": "CC0"
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Ginza-Kimuraya-Sakura-Anpan---2023-11-28_001.jpg/960px-Ginza-Kimuraya-Sakura-Anpan---2023-11-28_001.jpg",
+     "title": "Ginza-Kimuraya-Sakura-Anpan---2023-11-28 001.jpg",
+     "lic": "CC BY 4.0"
     },
     {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Melon_bread_%28with_chocolate_chips%29_2023-11-05.jpg/960px-Melon_bread_%28with_chocolate_chips%29_2023-11-05.jpg",
-     "title": "Melon bread (with chocolate chips) 2023-11-05.jpg",
-     "lic": "CC0"
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/%E9%8A%80%E5%BA%A7_%E5%A4%A9%E4%B8%80_2010_%284673838729%29.jpg/960px-%E9%8A%80%E5%BA%A7_%E5%A4%A9%E4%B8%80_2010_%284673838729%29.jpg",
+     "title": "銀座 天一 2010 (4673838729).jpg",
+     "lic": "CC BY 2.0"
     }
    ]
   },
   "genres": [
-   "寺社・歴史",
-   "食べ歩き・グルメ",
-   "庭園・自然",
-   "歩き少なめ"
-  ],
-  "areas": [
-   "浅草・上野",
-   "築地・豊洲・湾岸"
-  ]
- },
- {
-  "url": "https://yukitchy.github.io/rick-tokyo-oct5/",
-  "guest": "Rick & Linda",
-  "date": "2026-10-05",
-  "area": "Tokyo",
-  "status": "proposed",
-  "page": "rick-tokyo-oct5",
-  "note": "Oct 5-6",
-  "key": "rick-tokyo-oct5:B",
-  "course": {
-   "id": "B",
-   "name": "teamLab, and almost no walking",
-   "tag": "Dark rooms, water, light",
-   "chips": [
-    "Indoors and cool",
-    "The least walking of the three",
-    "$250 · the day"
-   ],
-   "why": "If the market has finished you off, this is the course that asks least of your legs. It is one building, indoors, dark and cool, and you are back at the hotel before dinner. It is also in Toyosu &mdash; the same direction you will already have travelled that morning, so nothing about the trains is new.",
-   "steps": [
-    [
-     "13:30",
-     "After lunch",
-     "About 20 minutes by train to Toyosu, the same line you took at dawn."
-    ],
-    [
-     "14:00",
-     "teamLab Planets, Toyosu",
-     "You take your shoes off at the door and walk through the work barefoot. One room is ankle-deep warm water with projected koi that scatter when you move; another is a mirrored hall of hanging lights; another is a floor of orchids overhead. It is about an hour and a half at a slow pace."
-    ],
-    [
-     "15:45",
-     "Coffee and a sit down",
-     "There is a garden and a tea room in the same building."
-    ],
-    [
-     "16:30",
-     "Toyosu Senkyaku Banrai",
-     "Ten minutes on foot. A wooden market-town building beside the fish market with food stalls on two floors and a rooftop footbath looking over the bay. Free, and you can sit with your feet in hot water and do nothing."
-    ],
-    [
-     "17:30",
-     "Back at the hotel",
-     "About 20 minutes."
-    ]
-   ],
-   "stops": [
-    "The Blossom Hibiya Tokyo",
-    "teamLab Planets TOKYO",
-    "Toyosu Senkyaku Banrai",
-    "The Blossom Hibiya Tokyo"
-   ],
-   "moves": "Hotel &rarr; Toyosu about 20 min. Everything after that is within ten minutes on foot. Toyosu &rarr; hotel about 20 min.",
-   "food": [
-    [
-     "Toyosu Senkyaku Banrai stalls",
-     "Toyosu &middot; seafood bowls",
-     "Tuna, salmon roe and sea urchin over rice, from the market next door. Counter seats, around ¥2,000&ndash;4,000.",
-     "Toyosu Senkyaku Banrai"
-    ],
-    [
-     "Ramen at the market",
-     "Toyosu &middot; noodles",
-     "A bowl of pork-bone broth ramen in the same building. Cheap, hot, and about ten minutes to eat.",
-     "Toyosu Senkyaku Banrai ramen"
-    ],
-    [
-     "teamLab tea room",
-     "Inside the museum &middot; tea and ice cream",
-     "Matcha and soft serve, with a flower that opens in your cup as you drink. Sit-down, air-conditioned, right where you are.",
-     "teamLab Planets TOKYO"
-    ]
-   ],
-   "good": "Four hours, one building, almost no walking, and something you cannot see anywhere else in the world. The best answer if the 4:15 start has cost you more than you expected.",
-   "mind": "Tickets are timed and sell out, so I book the slot as soon as you choose this. You walk barefoot and one room is shin-deep in water &mdash; wear something that rolls up, and skip it if either of you is unsteady on wet floors.",
-   "links": [
-    [
-     "teamLab Planets TOKYO (official)",
-     "https://www.teamlab.art/e/planets/"
-    ],
-    [
-     "Toyosu Senkyaku Banrai",
-     "https://toyosu-senkyakubanrai.jp/en/"
-    ]
-   ]
-  },
-  "photos": {
-   "card": {
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Teamlab_toyosu.jpg/960px-Teamlab_toyosu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "title": "Teamlab toyosu.jpg",
-    "lic": "CC0"
-   },
-   "detail": [
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Toyosu_Senkyaku_Banrai.jpg/960px-Toyosu_Senkyaku_Banrai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "title": "Toyosu Senkyaku Banrai.jpg",
-     "lic": "CC BY-SA 4.0"
-    },
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Toyosu_Senkyaku_Banrai_1F_Festival_Plaza_2024.JPG/960px-Toyosu_Senkyaku_Banrai_1F_Festival_Plaza_2024.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "title": "Toyosu Senkyaku Banrai 1F Festival Plaza 2024.JPG",
-     "lic": "CC BY 4.0"
-    },
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Toyosu_Senkyaku_Banrai_2F_2024.JPG/960px-Toyosu_Senkyaku_Banrai_2F_2024.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "title": "Toyosu Senkyaku Banrai 2F 2024.JPG",
-     "lic": "CC BY 4.0"
-    }
-   ],
-   "food": [
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Kaisen-don_%288126073697%29.jpg/960px-Kaisen-don_%288126073697%29.jpg",
-     "title": "Kaisen-don (8126073697).jpg",
-     "lic": "CC BY 2.0"
-    },
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Char_Siu_Tonkotsu_Ramen_-_Shogun_Ramen_2023-10-11.jpg/960px-Char_Siu_Tonkotsu_Ramen_-_Shogun_Ramen_2023-10-11.jpg",
-     "title": "Char Siu Tonkotsu Ramen - Shogun Ramen 2023-10-11.jpg",
-     "lic": "CC0"
-    },
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Matcha_Ice_Cream.jpg/960px-Matcha_Ice_Cream.jpg",
-     "title": "Matcha Ice Cream.jpg",
-     "lic": "CC BY-SA 4.0"
-    }
-   ]
-  },
-  "genres": [
-   "食べ歩き・グルメ",
-   "博物館・アート",
-   "歩き少なめ"
-  ],
-  "areas": [
-   "築地・豊洲・湾岸"
-  ]
- },
- {
-  "url": "https://yukitchy.github.io/rick-tokyo-oct5/",
-  "guest": "Rick & Linda",
-  "date": "2026-10-05",
-  "area": "Tokyo",
-  "status": "proposed",
-  "page": "rick-tokyo-oct5",
-  "note": "Oct 5-6",
-  "key": "rick-tokyo-oct5:C",
-  "course": {
-   "id": "C",
-   "name": "Meiji shrine and the young side of Tokyo",
-   "tag": "Forest shrine, Harajuku, Shibuya",
-   "chips": [
-    "The most walking of the three",
-    "Classic Tokyo",
-    "$250 · the day"
-   ],
-   "why": "The version for the two of you who wake up feeling fine. A forest shrine in the middle of the city, then the loudest teenage street in Japan ten minutes away, then the crossing everybody has seen on television. It is the most walking of the three courses and the most Tokyo.",
-   "steps": [
-    [
-     "13:15",
-     "After lunch",
-     "About 20 minutes by train from Ginza to Harajuku."
-    ],
-    [
-     "13:45",
-     "Meiji Jingu",
-     "A wide gravel path through a forest of a hundred thousand trees, every one donated and planted by hand in 1920. Benches the whole way. On a weekday afternoon it is quiet enough to hear the gravel."
-    ],
-    [
-     "14:45",
-     "Takeshita Street",
-     "Ten minutes and a complete change of world: three hundred metres of teenage fashion, crepe stands and rainbow cotton candy. We walk it once, which is enough."
-    ],
-    [
-     "15:30",
-     "Omotesando",
-     "The wide tree-lined avenue below it, calmer, with the architecture worth looking up at. Coffee sitting down."
-    ],
-    [
-     "16:45",
-     "Shibuya",
-     "The crossing from above first, through the window of the station building, then down into it. We stop the moment you have had enough."
-    ],
-    [
-     "18:00",
-     "Back at the hotel",
-     "About 20 minutes by train."
-    ]
-   ],
-   "stops": [
-    "The Blossom Hibiya Tokyo",
-    "Meiji Jingu Shrine",
-    "Takeshita Street Harajuku",
-    "Omotesando Tokyo",
-    "Shibuya Scramble Crossing",
-    "The Blossom Hibiya Tokyo"
-   ],
-   "moves": "Hotel &rarr; Harajuku about 20 min by train. Shrine walk 10 min each way. Shrine &rarr; Takeshita 10 min on foot. Takeshita &rarr; Omotesando 8 min. Omotesando &rarr; Shibuya 12 min on foot or 3 min by train. Shibuya &rarr; hotel about 20 min.",
-   "food": [
-    [
-     "Marion Crepes",
-     "Harajuku &middot; crepes standing up",
-     "The stand that started the Harajuku crepe in 1976. Strawberry and cream in a paper cone, about ¥600, eaten on the street.",
-     "Marion Crepes Harajuku"
-    ],
-    [
-     "Afuri",
-     "Harajuku &middot; yuzu ramen",
-     "A clear chicken broth with citrus peel in it &mdash; lighter than most ramen and easier on a tired stomach. Counter and table seats, about ¥1,200.",
-     "AFURI Harajuku"
-    ],
-    [
-     "Shibuya izakaya",
-     "Shibuya &middot; small plates",
-     "If you last until early evening: grilled skewers, cold beer, everything ¥400&ndash;800 a plate. I order, you point.",
-     "Shibuya izakaya"
-    ]
-   ],
-   "good": "Covers the three images of Tokyo most people arrive with, and gets them done in one afternoon.",
-   "mind": "This is roughly six thousand steps more than course A. After a 4:15 start, be honest with yourselves about whether you want it.",
-   "links": [
-    [
-     "Meiji Jingu (official)",
-     "https://www.meijijingu.or.jp/en/"
-    ],
-    [
-     "Shibuya Sky",
-     "https://www.shibuya-scramble-square.com/sky/en/"
-    ]
-   ]
-  },
-  "photos": {
-   "card": {
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Meiji_Shrine_Gate%2C_2020.jpg/960px-Meiji_Shrine_Gate%2C_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "title": "Meiji Shrine Gate, 2020.jpg",
-    "lic": "CC BY-SA 4.0"
-   },
-   "detail": [
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Cr%C3%AApes_-_Takeshita_street_-_Tokyo_-_DSC07885.JPG/960px-Cr%C3%AApes_-_Takeshita_street_-_Tokyo_-_DSC07885.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "title": "Crêpes - Takeshita street - Tokyo - DSC07885.JPG",
-     "lic": "CC0"
-    },
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Shibuya_Crossing%2C_Aerial.jpg/960px-Shibuya_Crossing%2C_Aerial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "title": "Shibuya Crossing, Aerial.jpg",
-     "lic": "CC BY 4.0"
-    },
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Torii_Gate_at_Meiji_Jingu_Shrine%2C_Tokyo_%2850125273602%29.jpg/960px-Torii_Gate_at_Meiji_Jingu_Shrine%2C_Tokyo_%2850125273602%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "title": "Torii Gate at Meiji Jingu Shrine, Tokyo (50125273602).jpg",
-     "lic": "CC BY 2.0"
-    }
-   ],
-   "food": [
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Cr%C3%AApe_dessert_-_miel_amandes_glace_vanille_et_chantilly_%28novembre_2021%29.jpg/960px-Cr%C3%AApe_dessert_-_miel_amandes_glace_vanille_et_chantilly_%28novembre_2021%29.jpg",
-     "title": "Crêpe dessert - miel amandes glace vanille et chantilly (novembre 2021).jpg",
-     "lic": "CC0"
-    },
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Clear_tonkotsu_ramen.jpg/960px-Clear_tonkotsu_ramen.jpg",
-     "title": "Clear tonkotsu ramen.jpg",
-     "lic": "CC0"
-    },
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Quality_izakaya_in_Ebisu_10.jpg/960px-Quality_izakaya_in_Ebisu_10.jpg",
-     "title": "Quality izakaya in Ebisu 10.jpg",
-     "lic": "CC0"
-    }
-   ]
-  },
-  "genres": [
-   "寺社・歴史",
    "買い物",
    "庭園・自然",
    "街歩き"
-  ],
-  "areas": [
-   "原宿・渋谷"
-  ]
- },
- {
-  "url": "https://yukitchy.github.io/rick-tokyo-oct5/",
-  "guest": "Rick & Linda",
-  "date": "2026-10-05",
-  "area": "Tokyo",
-  "status": "proposed",
-  "page": "rick-tokyo-oct5",
-  "note": "Oct 5-6",
-  "key": "rick-tokyo-oct5:D",
-  "course": {
-   "id": "D",
-   "name": "Ueno, the museum and the pond",
-   "tag": "National museum, kaiseki lunch, lotus pond",
-   "chips": [
-    "Mostly indoors",
-    "Benches throughout, wheelchair loan free",
-    "$250 · the day"
-   ],
-   "why": "Tuesday is entirely your call on timing, so this course is written for a late-morning start with no auction behind it. One museum building, a sit-down lunch, and a pond to finish &mdash; indoors-heavy, with benches in nearly every room and a free wheelchair on loan at the entrance if you want one.",
-   "steps": [
-    [
-     "10:00",
-     "Start from the hotel, whenever you like",
-     "About 25 minutes by train to Ueno. This time is yours to move."
-    ],
-    [
-     "10:30",
-     "Tokyo National Museum, Honkan",
-     "Just the main building &mdash; the Honkan &mdash; not the whole museum complex, which would be a full day on its own. Japanese sculpture, swords and screens in order from ancient to Edo. Benches in most rooms, elevators between floors, and a wheelchair free to borrow at the entrance if you want to save your legs."
-    ],
-    [
-     "12:15",
-     "Lunch at Innsyoutei, inside the park",
-     "A kaiseki restaurant since 1875, built like an old Japanese house with huge windows onto the trees. Tempura and vegetable-forward set lunches, seated, no rush."
-    ],
-    [
-     "13:45",
-     "Shinobazu Pond",
-     "A lotus pond a few minutes&rsquo; walk from the restaurant, with a small island shrine and rowboats for hire. We just sit by the water; the boats are there if you want them."
-    ],
-    [
-     "14:30",
-     "Back at the hotel",
-     "About 25 minutes by train."
-    ]
-   ],
-   "stops": [
-    "The Blossom Hibiya Tokyo",
-    "Tokyo National Museum",
-    "Shinobazu Pond Ueno",
-    "The Blossom Hibiya Tokyo"
-   ],
-   "moves": "Hotel &rarr; Ueno about 25 min by train. Museum &rarr; Innsyoutei 5 min on foot inside the park. Restaurant &rarr; Shinobazu Pond about 10 min on foot. Ueno &rarr; hotel about 25 min.",
-   "food": [
-    [
-     "Innsyoutei",
-     "Ueno Park &middot; kaiseki and tempura",
-     "A seated set lunch in a 150-year-old restaurant inside the park, big windows onto the trees. About ¥3,000&ndash;6,000 a head.",
-     "Innsyoutei Ueno Park"
-    ],
-    [
-     "Wagashi at the park",
-     "Ueno &middot; a sweet to go with tea",
-     "Small seasonal sweets shaped like the month, sold by the piece near the museum gates.",
-     "wagashi shop Ueno Park"
-    ],
-    [
-     "Matcha and something sweet",
-     "Ueno Park &middot; a sit-down break",
-     "A bench by the pond and a shaved-ice or matcha stand nearby if the afternoon is warm.",
-     "Shinobazu Pond cafe"
-    ]
-   ],
-   "good": "The least walking of the three Tuesday courses and the most seating. A good answer if Monday left you tired.",
-   "mind": "The Honkan is open Tuesday to Sunday and closed Mondays, so this course only works on a day like this one. I will confirm the exact gallery layout closer to the date, since museums rotate what is on display.",
-   "links": [
-    [
-     "Tokyo National Museum (official)",
-     "https://www.tnm.jp/?lang=en"
-    ],
-    [
-     "Ueno Park (Go Tokyo)",
-     "https://www.gotokyo.org/en/spot/482/index.html"
-    ]
-   ]
-  },
-  "photos": {
-   "card": {
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Tokyo_National_Museum_%2854166142528%29.jpg/960px-Tokyo_National_Museum_%2854166142528%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "title": "Tokyo National Museum (54166142528).jpg",
-    "lic": "CC BY 2.0"
-   },
-   "detail": [
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Boats_on_Shinobazu_Pond_-_Ueno_Park%2C_Tokyo%2C_Japan_-_DSC02030.JPG/960px-Boats_on_Shinobazu_Pond_-_Ueno_Park%2C_Tokyo%2C_Japan_-_DSC02030.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "title": "Boats on Shinobazu Pond - Ueno Park, Tokyo, Japan - DSC02030.JPG",
-     "lic": "CC0"
-    },
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Pink_swanboat_hosting_a_real_bird_on_its_head%2C_on_Shinobazu_Pond%2C_Ueno_Park%2C_Tokyo.jpg/960px-Pink_swanboat_hosting_a_real_bird_on_its_head%2C_on_Shinobazu_Pond%2C_Ueno_Park%2C_Tokyo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "title": "Pink swanboat hosting a real bird on its head, on Shinobazu Pond, Ueno Park, Tokyo.jpg",
-     "lic": "CC BY-SA 4.0"
-    },
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Nelumbo_nucifera_leaves_in_Lotus_Pond_%28Shinobazu_Pond%29_01.jpg/960px-Nelumbo_nucifera_leaves_in_Lotus_Pond_%28Shinobazu_Pond%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "title": "Nelumbo nucifera leaves in Lotus Pond (Shinobazu Pond) 01.jpg",
-     "lic": "CC BY 4.0"
-    }
-   ],
-   "food": [
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Tendon_002.jpg/960px-Tendon_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "title": "Tendon 002.jpg",
-     "lic": "CC0"
-    },
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Wagashi_001.jpg/960px-Wagashi_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "title": "Wagashi 001.jpg",
-     "lic": "CC BY 2.0"
-    },
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Summer_wagashi_10.jpg/960px-Summer_wagashi_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "title": "Summer wagashi 10.jpg",
-     "lic": "CC0"
-    }
-   ]
-  },
-  "genres": [
-   "食べ歩き・グルメ",
-   "庭園・自然",
-   "博物館・アート"
-  ],
-  "areas": [
-   "浅草・上野"
-  ]
- },
- {
-  "url": "https://yukitchy.github.io/rick-tokyo-oct5/",
-  "guest": "Rick & Linda",
-  "date": "2026-10-05",
-  "area": "Tokyo",
-  "status": "proposed",
-  "page": "rick-tokyo-oct5",
-  "note": "Oct 5-6",
-  "key": "rick-tokyo-oct5:E",
-  "course": {
-   "id": "E",
-   "name": "The East Gardens, and Marunouchi",
-   "tag": "Edo castle grounds, brick Tokyo, coffee",
-   "chips": [
-    "The least walking of the six",
-    "Closest to your hotel",
-    "$250 · the day"
-   ],
-   "why": "This is the one that barely leaves the neighbourhood. The Imperial Palace East Gardens are a ten-minute walk from your hotel, free to enter, and closed only on Mondays and Fridays &mdash; Tuesday is a normal open day. After that, a coffee in a restored 1894 brick building and a stop at Tokyo Station on the way back, all still within about fifteen minutes of your door.",
-   "steps": [
-    [
-     "10:00",
-     "Walk to the East Gardens",
-     "About 10 minutes on foot from the hotel to the Otemon gate."
-    ],
-    [
-     "10:15",
-     "Otemon and the castle grounds",
-     "The main gate of Edo Castle, and inside it the grounds where the shogun&rsquo;s government once stood &mdash; now lawns, stone walls and a guardhouse. Flat paths throughout."
-    ],
-    [
-     "11:00",
-     "The keep foundation",
-     "The stone base of what was once Japan&rsquo;s tallest castle keep, burned down in 1657 and never rebuilt. You can climb onto the top of it &mdash; a short flight of stone steps &mdash; for a view over the whole garden and a bench to rest on."
-    ],
-    [
-     "11:45",
-     "Coffee, Marunouchi",
-     "A 10&ndash;15 minute walk to Café 1894, inside the Mitsubishi Ichigokan Museum &mdash; a restored 1894 red-brick bank building with a two-storey glass-roofed hall."
-    ],
-    [
-     "13:00",
-     "Tokyo Station, Ichibangai",
-     "A short walk to the underground arcade beneath the station &mdash; a food hall and souvenir street if you want to pick up gifts before you leave the area."
-    ],
-    [
-     "13:45",
-     "Back at the hotel",
-     "About 15 minutes on foot, or a short taxi."
-    ]
-   ],
-   "stops": [
-    "The Blossom Hibiya Tokyo",
-    "Otemon Imperial Palace East Gardens",
-    "Mitsubishi Ichigokan Museum",
-    "Tokyo Station Ichibangai",
-    "The Blossom Hibiya Tokyo"
-   ],
-   "moves": "Hotel &rarr; Otemon about 10 min on foot. Garden &rarr; Café 1894 about 10&ndash;15 min on foot. Café &rarr; Tokyo Station about 5 min on foot. Station &rarr; hotel about 15 min on foot or a short taxi.",
-   "food": [
-    [
-     "Café 1894",
-     "Marunouchi &middot; coffee in a restored bank hall",
-     "Lunch 11:00&ndash;14:30, café menu 14:30&ndash;17:00. Coffee, sandwiches and cake under a two-storey glass roof.",
-     "Cafe 1894 Marunouchi"
-    ],
-    [
-     "Tokyo Station Ichibangai",
-     "Underground &middot; a food hall and souvenirs",
-     "Sweets, bento and regional snacks from all over Japan in one arcade, easy to carry back to the hotel.",
-     "Tokyo Station Ichibangai"
-    ],
-    [
-     "A bench in Ninomaru Garden",
-     "East Gardens &middot; a quiet rest",
-     "If you brought anything to eat, this is the spot &mdash; a pond garden with benches, a few minutes from Otemon.",
-     "Ninomaru Garden Imperial Palace"
-    ]
-   ],
-   "good": "The shortest distance from your hotel of any course on either day, and free to enter. Good if you would rather keep the day small.",
-   "mind": "Closed Mondays and Fridays &mdash; Tuesday the 6th is a normal open day, and it is not a national holiday, so no schedule shift applies. Entry is free and needs no booking.",
-   "links": [
-    [
-     "Imperial Palace East Gardens (Imperial Household Agency)",
-     "https://www.kunaicho.go.jp/en/visit/event/higashigyoen/"
-    ],
-    [
-     "Mitsubishi Ichigokan Museum (official)",
-     "https://mimt.jp/english/"
-    ]
-   ]
-  },
-  "photos": {
-   "card": {
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Imperial_Palace_Tokyo_Ninomaru_Garden_1.jpg/960px-Imperial_Palace_Tokyo_Ninomaru_Garden_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "title": "Imperial Palace Tokyo Ninomaru Garden 1.jpg",
-    "lic": "CC BY-SA 3.0"
-   },
-   "detail": [
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Kokyo0085.jpg/960px-Kokyo0085.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "title": "Kokyo0085.jpg",
-     "lic": "Public domain"
-    },
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Imperial_Palace_Tokyo_Tenshudai_Donjon_base.jpg/960px-Imperial_Palace_Tokyo_Tenshudai_Donjon_base.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "title": "Imperial Palace Tokyo Tenshudai Donjon base.jpg",
-     "lic": "CC BY-SA 3.0"
-    },
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Mitsubishi_Ichigokan_Museum_%282023%29.jpg/960px-Mitsubishi_Ichigokan_Museum_%282023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "title": "Mitsubishi Ichigokan Museum (2023).jpg",
-     "lic": "CC BY-SA 4.0"
-    }
-   ],
-   "food": [
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/A_person_holds_a_cup_of_cappuccino_featuring_intricate_latte_art%2C_sitting_at_a_caf%C3%A9_table.jpg/960px-A_person_holds_a_cup_of_cappuccino_featuring_intricate_latte_art%2C_sitting_at_a_caf%C3%A9_table.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "title": "A person holds a cup of cappuccino featuring intricate latte art, sitting at a café table.jpg",
-     "lic": "CC BY 2.0"
-    },
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Tokyo_station_%22Ichibangai_-_Nippon_Gourmet_Kaidou%22.jpg/960px-Tokyo_station_%22Ichibangai_-_Nippon_Gourmet_Kaidou%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "title": "Tokyo station \"Ichibangai - Nippon Gourmet Kaidou\".jpg",
-     "lic": "CC BY-SA 4.0"
-    },
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Imperial_Palace_Tokyo_Ninomaru_Garden_2.jpg/960px-Imperial_Palace_Tokyo_Ninomaru_Garden_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "title": "Imperial Palace Tokyo Ninomaru Garden 2.jpg",
-     "lic": "CC BY-SA 3.0"
-    }
-   ]
-  },
-  "genres": [
-   "寺社・歴史",
-   "博物館・アート",
-   "歩き少なめ"
   ],
   "areas": [
    "銀座・丸の内・日比谷"
@@ -2381,81 +1381,70 @@
   "key": "rick-tokyo-oct5:F",
   "course": {
    "id": "F",
-   "name": "Kappabashi, and Ginza for gifts",
-   "tag": "Kitchen street, food samples, Ginza shopping",
+   "name": "Kappabashi, and the old temple next door",
+   "tag": "Kitchen street, food samples, Senso-ji",
    "chips": [
-    "Cooking and shopping",
-    "Something to take home",
-    "$250 · the day"
+    "One train from lunch",
+    "Kitchen street, made-by-you gifts",
+    "Ends with a taxi home"
    ],
-   "why": "For the two of you who like a kitchen and a gift shop more than a shrine. Kappabashi is Tokyo's restaurant-supply street &mdash; knives, tableware, and the shops that make the plastic food models you have seen in every restaurant window. Then a soba lunch, and a taxi to Ginza for stationery, a department-store food hall, and whatever else catches your eye, ending a short ride from your hotel.",
+   "why": "This goes with any of the five lunches. Kappabashi is Tokyo's restaurant-supply street &mdash; knives, tableware, and the workshops that make the plastic food models you have seen in every restaurant window. From lunch it is one direct train, no changes. You make a food sample of your own first, walk the street, then Tokyo&rsquo;s oldest temple ten minutes away on foot with a three-hundred-year-old street of stalls in front of it, and a taxi home.",
    "steps": [
     [
-     "10:00",
-     "Start from the hotel",
-     "About 20 minutes by train or taxi to Kappabashi, in Asakusa."
-    ],
-    [
-     "10:30",
-     "Kappabashi Kitchen Street",
-     "A few hundred metres of restaurant-supply shops: knives that can be engraved with your name while you wait, lacquerware, and the original workshops behind Japan&rsquo;s plastic food displays. Most shops are open Tuesdays &mdash; it is Sundays that are quiet here."
-    ],
-    [
-     "11:15",
-     "Make your own food sample",
-     "At Ganso Shokuhin Sample-ya, the shop that popularised the craft in 1932. A booked 40-minute session making a piece of wax or plastic tempura or lettuce, which you keep. I book the slot in advance."
-    ],
-    [
-     "12:15",
-     "Lunch, Namiki Yabusoba",
-     "A soba restaurant near Kaminarimon since 1913, a few minutes&rsquo; walk from Kappabashi. Seated, quick, and open Tuesdays."
-    ],
-    [
      "13:30",
-     "Taxi to Ginza",
-     "About 25 minutes by taxi across the city."
+     "One train from lunch",
+     "The Ginza line from Ginza or Nihonbashi station straight to Tawaramachi, about 20 minutes, sitting down. Lunch 1 and 5 are a five-minute walk to Ginza station; lunch 4 is on top of Nihonbashi station."
     ],
     [
-     "14:00",
-     "Ginza",
-     "Itoya&rsquo;s twelve floors of stationery, the food hall in the basement of Mitsukoshi, and Akomeya for rice, tea and packaged gifts &mdash; as much or as little of it as you want."
+     "14:15",
+     "Make your own food sample",
+     "At Ganso Shokuhin Sample-ya, the shop that popularised the craft in 1932. A booked 40-minute session making a piece of wax tempura or a lettuce leaf, which you keep. I book the Monday slot in advance."
     ],
     [
-     "16:00",
-     "Back at the hotel",
-     "Ginza is next to Hibiya &mdash; a short walk, or a five-minute taxi."
+     "15:00",
+     "Kappabashi Kitchen Street",
+     "A few hundred metres of restaurant-supply shops: knives that can be engraved with your name while you wait, lacquerware, ceramics by the piece, and the original food-model shops. Most shops are open Mondays &mdash; it is Sundays that are quiet here."
+    ],
+    [
+     "15:45",
+     "Senso-ji, on foot",
+     "Ten minutes from the street. Tokyo&rsquo;s oldest temple, founded in 628: in under the five-metre paper lantern, along Nakamise &mdash; a street of rice-cracker and fan stalls that has been a shopping street for three hundred years &mdash; to the main hall. Near the temple end is Sukeroku, a shop the size of a cupboard that has sold tiny hand-made Edo toys and dolls since 1866, for anyone who likes the small kokeshi kind of thing. Flat, with benches in the courtyard."
+    ],
+    [
+     "16:30",
+     "Something sweet on Nakamise",
+     "Melon bread out of the oven, or a bag of hot senbei, eaten as we walk back to the gate."
+    ],
+    [
+     "17:00",
+     "Taxi to the hotel",
+     "About 25 minutes across the city, sitting down."
     ]
    ],
    "stops": [
-    "The Blossom Hibiya Tokyo",
+    "Ginza Station",
+    "Ganso Shokuhin Sample-ya",
     "Kappabashi Dougu Street",
-    "Namiki Yabusoba Asakusa",
-    "Ginza Itoya",
+    "Sensoji Temple Asakusa",
     "The Blossom Hibiya Tokyo"
    ],
-   "moves": "Hotel &rarr; Kappabashi about 20 min. On foot around Kappabashi. Kappabashi &rarr; Ginza about 25 min by taxi. On foot around Ginza. Ginza &rarr; hotel about 10 min on foot or a short taxi.",
+   "moves": "Lunch &rarr; Ginza or Nihonbashi station on foot, then the Ginza line to Tawaramachi, about 20 min. Tawaramachi &rarr; Ganso Sample-ya 12 min on foot. On foot along Kappabashi. Kappabashi &rarr; Senso-ji 10 min on foot. Asakusa &rarr; hotel about 25 min by taxi.",
    "food": [
-    [
-     "Namiki Yabusoba",
-     "Asakusa &middot; soba",
-     "Buckwheat noodles in a dark dashi broth, served cold with a dipping sauce or hot. Seated, since 1913, about ¥1,000&ndash;2,000.",
-     "Namiki Yabusoba Asakusa"
-    ],
     [
      "Your own food sample",
      "Ganso Shokuhin Sample-ya &middot; made by you",
-     "A wax or plastic tempura piece or lettuce leaf you make yourself in the 40-minute workshop &mdash; not edible, but yours to keep. About ¥3,300 per person.",
+     "A wax tempura piece or lettuce leaf you make yourself in the 40-minute workshop &mdash; not edible, but yours to keep. About ¥3,300 per person. Open Monday 10:00&ndash;17:30, no closing day.",
      "Ganso Shokuhin Sample-ya"
     ],
     [
-     "Mitsukoshi Ginza depachika",
-     "Ginza &middot; the basement food hall",
-     "Wagashi, tea, pickles and bento from all over Japan, boxed to travel &mdash; the easiest place in Tokyo to buy food gifts.",
-     "Mitsukoshi Ginza depachika"
+     "Nakamise street stalls",
+     "Asakusa &middot; snacks as you walk",
+     "Melon bread, grilled rice crackers, sweet bean cakes shaped like the temple gate. A few hundred yen each, eaten standing.",
+     "Nakamise Dori Asakusa"
     ]
    ],
-   "good": "The only course with something you make yourself and something you can wrap up and take home. Good for a day built around gifts.",
-   "mind": "Kappabashi shops mostly close Sundays, not Tuesdays, so the 6th is a normal day there. The food-sample workshop needs a reservation &mdash; I book it as soon as you choose this course, and will confirm the exact Tuesday time slot when I do.",
+   "good": "The afternoon with something you make yourself and something to wrap and take home. Rougher and older than Ginza, with the temple at the end of it.",
+   "mind": "Kappabashi shops mostly close Sundays, so Monday the 5th is a normal day there. The food-sample workshop needs a reservation &mdash; I book it as soon as you choose this course and confirm the Monday afternoon slot. This one ends with a taxi rather than a walk, and about half an hour later than Ginza.",
    "links": [
     [
      "Kappabashi Dougu Street (official)",
@@ -2466,53 +1455,54 @@
      "https://www.ganso-sample.com/en/"
     ],
     [
-     "Ginza (official)",
-     "https://www.ginza.jp/en"
+     "Senso-ji (official)",
+     "https://www.senso-ji.jp/english/"
     ]
    ]
   },
   "photos": {
    "card": {
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Sampuru_plastic_food_items_%289412111724%29.jpg/960px-Sampuru_plastic_food_items_%289412111724%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Sampuru_plastic_food_items_%289412111724%29.jpg/960px-Sampuru_plastic_food_items_%289412111724%29.jpg",
     "title": "Sampuru plastic food items (9412111724).jpg",
     "lic": "CC BY 2.0"
    },
    "detail": [
     {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Kappabashi-dori_streetcorner_%28Kitchen_town_-_southern_end%29_Tokyo_Japan.jpg/960px-Kappabashi-dori_streetcorner_%28Kitchen_town_-_southern_end%29_Tokyo_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Kappabashi-dori_streetcorner_%28Kitchen_town_-_southern_end%29_Tokyo_Japan.jpg/960px-Kappabashi-dori_streetcorner_%28Kitchen_town_-_southern_end%29_Tokyo_Japan.jpg",
      "title": "Kappabashi-dori streetcorner (Kitchen town - southern end) Tokyo Japan.jpg",
      "lic": "CC BY-SA 4.0"
     },
     {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Cream_and_red_coffee_cup-shaped_balconies%2C_Niimi_Tableware%2C_Kappabashi_Dougu_Street%2C_Tokyo%2C_Japan.jpg/960px-Cream_and_red_coffee_cup-shaped_balconies%2C_Niimi_Tableware%2C_Kappabashi_Dougu_Street%2C_Tokyo%2C_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Cream_and_red_coffee_cup-shaped_balconies%2C_Niimi_Tableware%2C_Kappabashi_Dougu_Street%2C_Tokyo%2C_Japan.jpg/960px-Cream_and_red_coffee_cup-shaped_balconies%2C_Niimi_Tableware%2C_Kappabashi_Dougu_Street%2C_Tokyo%2C_Japan.jpg",
      "title": "Cream and red coffee cup-shaped balconies, Niimi Tableware, Kappabashi Dougu Street, Tokyo, Japan.jpg",
      "lic": "CC BY-SA 4.0"
     },
     {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Ginza_4-Chome_Crossing_2020-04-19.jpg/960px-Ginza_4-Chome_Crossing_2020-04-19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "title": "Ginza 4-Chome Crossing 2020-04-19.jpg",
-     "lic": "CC0"
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Kaminarimon%2C_Sensoji_%282521999969%29.jpg/960px-Kaminarimon%2C_Sensoji_%282521999969%29.jpg",
+     "title": "Kaminarimon, Sensoji (2521999969).jpg",
+     "lic": "CC BY-SA 2.0"
     }
    ],
    "food": [
     {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Japanese_Soba_Noodles_Tsuta.jpg/960px-Japanese_Soba_Noodles_Tsuta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Japanese_Soba_Noodles_Tsuta.jpg/960px-Japanese_Soba_Noodles_Tsuta.jpg",
      "title": "Japanese Soba Noodles Tsuta.jpg",
      "lic": "CC BY-SA 4.0"
     },
     {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Plastic_beer_%289412114132%29.jpg/960px-Plastic_beer_%289412114132%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Plastic_beer_%289412114132%29.jpg/960px-Plastic_beer_%289412114132%29.jpg",
      "title": "Plastic beer (9412114132).jpg",
      "lic": "CC BY 2.0"
     },
     {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Mitsukoshi_Ginza_new-building.JPG/960px-Mitsukoshi_Ginza_new-building.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "title": "Mitsukoshi Ginza new-building.JPG",
-     "lic": "CC BY-SA 3.0"
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Melon_bread_%28with_chocolate_chips%29_2023-11-05.jpg/960px-Melon_bread_%28with_chocolate_chips%29_2023-11-05.jpg",
+     "title": "Melon bread (with chocolate chips) 2023-11-05.jpg",
+     "lic": "CC0"
     }
    ]
   },
   "genres": [
+   "寺社・歴史",
    "買い物",
    "食べ歩き・グルメ"
   ],
@@ -4250,5 +3240,310 @@
   "page_only": true,
   "genres": [],
   "areas": []
+ },
+ {
+  "url": "https://yukitchy.github.io/ikebukuro-fan-day/",
+  "guest": "Nicholas and family (3)",
+  "date": "2026-12-20",
+  "area": "Ikebukuro",
+  "status": "proposed",
+  "page": "ikebukuro-fan-day",
+  "note": "",
+  "key": "ikebukuro-fan-day:A",
+  "course": {
+   "id": "A",
+   "name": "Workshop first, then the shops",
+   "tag": "Draw at 13:00, shop until 18:30",
+   "chips": [
+    "Workshop 13:00",
+    "Sunshine City",
+    "Ends at the station"
+   ],
+   "why": "Start with the two hour manga workshop while everyone is fresh, then the shopping is the reward. The day ends at the station side, close to the trains for your dinner reservation.",
+   "steps": [
+    [
+     "13:00",
+     "MANGA DOJO Tokyo workshop",
+     "Two hours of drawing manga with a working manga artist, English interpretation included. Nicholas draws his own character and takes the pages home."
+    ],
+    [
+     "15:00",
+     "Walk to Sunshine City",
+     "About 8 minutes on foot along Sunshine 60 Street."
+    ],
+    [
+     "15:10",
+     "Mugiwara Store and Pokémon Center Mega Tokyo",
+     "Sunshine City, Alpa 2F. The official One Piece store and Japan's largest Pokémon Center are on the same floor. Open to 20:00 on Sunday."
+    ],
+    [
+     "16:10",
+     "Gashapon Department Store and the One Piece Card Game shop",
+     "World Import Mart 3F, same building. Over 3,000 capsule toy machines, then Bandai Namco Cross Store with the official One Piece Card Game shop and Tamashii Nations figures. Open to 21:00."
+    ],
+    [
+     "17:00",
+     "BOOKOFF Sunshine 60 Street",
+     "Two floors of second hand manga, figures, anime goods and Pokémon cards. One Piece volumes in Japanese are everywhere. Open to 22:00."
+    ],
+    [
+     "17:40",
+     "Animate Ikebukuro flagship",
+     "Nine floors, the biggest anime shop in the world. New manga, figures and limited goods across every series. Open to 21:00."
+    ],
+    [
+     "18:15",
+     "JUMP SHOP Ikebukuro PARCO",
+     "B2F of PARCO, right at the East Exit. The official Weekly Shonen Jump store: One Piece next to Naruto and Dragon Ball, with items sold nowhere else. Open to 21:00."
+    ],
+    [
+     "18:30",
+     "Done",
+     "Ikebukuro Station East Exit. Dinner at 20:30 is yours."
+    ]
+   ],
+   "stops": [
+    "Ikebukuro Station East Exit",
+    "Sunshine City Ikebukuro",
+    "Animate Ikebukuro Flagship Store",
+    "Ikebukuro PARCO"
+   ],
+   "moves": "Everything is on foot. Workshop → Sunshine City about 8 min. Sunshine City → Animate about 5 min. Animate → PARCO about 5 min.",
+   "food": [],
+   "good": "A family that wants the hands-on part done first and a relaxed shopping run after.",
+   "mind": "The 13:00 workshop slot is requested, not yet confirmed. Shopping bags get heavy by the end, so the last two stops are short. No prices are listed here; most stores have a tax free counter, so keep your passports with you.",
+   "links": [
+    [
+     "Mugiwara Store Ikebukuro (official)",
+     "https://www.mugiwara-store.com/shop/ikebukuro/"
+    ],
+    [
+     "Pokémon Center Mega Tokyo (official)",
+     "https://shop.pokemon.co.jp/ja/shop/pokemoncenter-megatokyo/"
+    ],
+    [
+     "Gashapon Department Store (official)",
+     "https://bandainamco-am.co.jp/others/capsule-toy-store/store/ikebukuro/special/"
+    ],
+    [
+     "Bandai Namco Cross Store Tokyo (official)",
+     "https://bandainamco-am.co.jp/crossstore/store/crossstore_tokyo/"
+    ],
+    [
+     "BOOKOFF Sunshine 60 Street (official)",
+     "https://www.bookoff.co.jp/shop/shop20422.html"
+    ],
+    [
+     "Animate Ikebukuro (official)",
+     "https://www.animate.co.jp/shop/ikebukuro/"
+    ],
+    [
+     "JUMP SHOP Ikebukuro PARCO (official)",
+     "https://en.ikebukuro.parco.jp/shop/detail/?cd=030637"
+    ]
+   ]
+  },
+  "photos": {
+   "card": {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Mega_Tokyo_Pok%C3%A9mon_Center_1.jpg/960px-Mega_Tokyo_Pok%C3%A9mon_Center_1.jpg",
+    "title": "Mega Tokyo Pokémon Center 1.jpg",
+    "lic": "CC BY 3.0",
+    "score": 9,
+    "note": "ポケモンセンターメガトウキョーの入口（ロゴ正面・明るい）"
+   },
+   "detail": [
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Sunshine_City_Atrium_201206.jpg/960px-Sunshine_City_Atrium_201206.jpg",
+     "title": "Sunshine City Atrium 201206.jpg",
+     "lic": "CC BY 2.0",
+     "score": 8,
+     "note": "サンシャインシティ噴水広場の吹き抜け"
+    },
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Mega_Tokyo_Pok%C3%A9mon_Center_2.jpg/960px-Mega_Tokyo_Pok%C3%A9mon_Center_2.jpg",
+     "title": "Mega Tokyo Pokémon Center 2.jpg",
+     "lic": "CC BY 3.0",
+     "score": 8,
+     "note": "店内のリザードン像と客"
+    },
+    {
+     "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Gashaponmachine.jpg",
+     "title": "Gashaponmachine.jpg",
+     "lic": "CC BY-SA 3.0",
+     "score": 7,
+     "note": "ガシャポンの列（一般例・池袋総本店の写真ではない）"
+    },
+    {
+     "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Animate_store_in_Tokyo.jpg",
+     "title": "Animate store in Tokyo.jpg",
+     "lic": "CC BY-SA 2.0",
+     "score": 8,
+     "note": "アニメイト池袋本店の入口"
+    }
+   ],
+   "food": []
+  },
+  "genres": [
+   "アニメ・マンガ",
+   "買い物"
+  ],
+  "areas": [
+   "池袋・巣鴨"
+  ]
+ },
+ {
+  "url": "https://yukitchy.github.io/ikebukuro-fan-day/",
+  "guest": "Nicholas and family (3)",
+  "date": "2026-12-20",
+  "area": "Ikebukuro",
+  "status": "proposed",
+  "page": "ikebukuro-fan-day",
+  "note": "",
+  "key": "ikebukuro-fan-day:B",
+  "course": {
+   "id": "B",
+   "name": "Shops first, then the workshop",
+   "tag": "Shop from 13:00, draw at 15:00",
+   "chips": [
+    "Workshop 15:00",
+    "Station side first",
+    "Sunshine City last"
+   ],
+   "why": "Shopping near the station first, the workshop in the middle, and Sunshine City at the end. The One Piece store and the Pokémon Center close at 20:00, so there is still an hour and a half after the workshop.",
+   "steps": [
+    [
+     "13:00",
+     "Meet at Ikebukuro Station East Exit",
+     "Then straight down to JUMP SHOP in PARCO B2F."
+    ],
+    [
+     "13:10",
+     "JUMP SHOP Ikebukuro PARCO",
+     "B2F of PARCO, right at the East Exit. The official Weekly Shonen Jump store: One Piece next to Naruto and Dragon Ball, with items sold nowhere else. Open to 21:00."
+    ],
+    [
+     "13:40",
+     "Animate Ikebukuro flagship",
+     "Nine floors, the biggest anime shop in the world. New manga, figures and limited goods across every series. Open to 21:00."
+    ],
+    [
+     "14:15",
+     "BOOKOFF Sunshine 60 Street",
+     "Two floors of second hand manga, figures, anime goods and Pokémon cards. One Piece volumes in Japanese are everywhere. Open to 22:00."
+    ],
+    [
+     "14:50",
+     "Walk to the workshop",
+     "About 5 minutes."
+    ],
+    [
+     "15:00",
+     "MANGA DOJO Tokyo workshop",
+     "Two hours of drawing manga with a working manga artist, English interpretation included. Nicholas draws his own character and takes the pages home."
+    ],
+    [
+     "17:00",
+     "Mugiwara Store and Pokémon Center Mega Tokyo",
+     "Sunshine City, Alpa 2F. The official One Piece store and Japan's largest Pokémon Center are on the same floor. Open to 20:00 on Sunday."
+    ],
+    [
+     "18:00",
+     "Gashapon Department Store and the One Piece Card Game shop",
+     "World Import Mart 3F, same building. Over 3,000 capsule toy machines, then Bandai Namco Cross Store with the official One Piece Card Game shop and Tamashii Nations figures. Open to 21:00."
+    ],
+    [
+     "18:30",
+     "Done",
+     "Sunshine City. About 8 minutes back to the station on foot."
+    ]
+   ],
+   "stops": [
+    "Ikebukuro Station East Exit",
+    "Ikebukuro PARCO",
+    "Animate Ikebukuro Flagship Store",
+    "Sunshine City Ikebukuro"
+   ],
+   "moves": "Everything is on foot. Station → PARCO is inside the building. PARCO → Animate about 5 min. Animate → workshop about 5 min. Workshop → Sunshine City about 8 min.",
+   "food": [],
+   "good": "A family that would rather warm up with the shops and keep the workshop as the main event.",
+   "mind": "The 15:00 workshop slot is requested, not yet confirmed. The day ends at Sunshine City, 8 minutes from the station. No prices are listed here; most stores have a tax free counter, so keep your passports with you.",
+   "links": [
+    [
+     "Mugiwara Store Ikebukuro (official)",
+     "https://www.mugiwara-store.com/shop/ikebukuro/"
+    ],
+    [
+     "Pokémon Center Mega Tokyo (official)",
+     "https://shop.pokemon.co.jp/ja/shop/pokemoncenter-megatokyo/"
+    ],
+    [
+     "Gashapon Department Store (official)",
+     "https://bandainamco-am.co.jp/others/capsule-toy-store/store/ikebukuro/special/"
+    ],
+    [
+     "Bandai Namco Cross Store Tokyo (official)",
+     "https://bandainamco-am.co.jp/crossstore/store/crossstore_tokyo/"
+    ],
+    [
+     "BOOKOFF Sunshine 60 Street (official)",
+     "https://www.bookoff.co.jp/shop/shop20422.html"
+    ],
+    [
+     "Animate Ikebukuro (official)",
+     "https://www.animate.co.jp/shop/ikebukuro/"
+    ],
+    [
+     "JUMP SHOP Ikebukuro PARCO (official)",
+     "https://en.ikebukuro.parco.jp/shop/detail/?cd=030637"
+    ]
+   ]
+  },
+  "photos": {
+   "card": {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Ikebukuro_2008-12-01_%283273662522%29.jpg/960px-Ikebukuro_2008-12-01_%283273662522%29.jpg",
+    "title": "Ikebukuro 2008-12-01 (3273662522).jpg",
+    "lic": "CC BY-SA 2.0",
+    "score": 8,
+    "note": "サンシャイン60通りの人出（12月撮影・看板が賑やか）"
+   },
+   "detail": [
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Ikebukuro_Station_east_exit_close_up_2023_Jan_13_02PM.jpeg/960px-Ikebukuro_Station_east_exit_close_up_2023_Jan_13_02PM.jpeg",
+     "title": "Ikebukuro Station east exit close up 2023 Jan 13 02PM.jpeg",
+     "lic": "CC BY 4.0",
+     "score": 8,
+     "note": "池袋駅東口の看板（集合場所）"
+    },
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/JUMP_SHOP_%2852506239079%29.jpg/960px-JUMP_SHOP_%2852506239079%29.jpg",
+     "title": "JUMP SHOP (52506239079).jpg",
+     "lic": "CC BY 2.0",
+     "score": 7,
+     "note": "JUMP SHOPの店頭（別店舗の一般例）"
+    },
+    {
+     "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/c5/ANIMATE-Ikebukuro.JPG",
+     "title": "ANIMATE-Ikebukuro.JPG",
+     "lic": "CC BY-SA 3.0",
+     "score": 8,
+     "note": "アニメイト池袋本店の外観"
+    },
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Pokk%C3%A9n_near_Mega_Tokyo_Pok%C3%A9mon_Center_1.jpg/960px-Pokk%C3%A9n_near_Mega_Tokyo_Pok%C3%A9mon_Center_1.jpg",
+     "title": "Pokkén near Mega Tokyo Pokémon Center 1.jpg",
+     "lic": "CC BY 3.0",
+     "score": 8,
+     "note": "ピカチュウの前に集まるファン"
+    }
+   ],
+   "food": []
+  },
+  "genres": [
+   "アニメ・マンガ",
+   "買い物"
+  ],
+  "areas": [
+   "池袋・巣鴨"
+  ]
  }
 ]

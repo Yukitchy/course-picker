@@ -83,5 +83,13 @@
   "area": "Shinjuku",
   "status": "done",
   "page_only": true
+ },
+ {
+  "repo": "~/ikebukuro-fan-day",
+  "url": "https://yukitchy.github.io/ikebukuro-fan-day/",
+  "guest": "Nicholas and family (3)",
+  "date": "2026-12-20",
+  "area": "Ikebukuro",
+  "status": "proposed"
  }
 ]
