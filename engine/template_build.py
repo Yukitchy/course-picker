@@ -86,6 +86,12 @@ HERO_JS = """
  })();
 """
 
+def sheet():
+    cols = ''.join('<div><h2>Course ' + c['id'] + ' · ' + html.escape(c['name']) + '</h2><table>' + ''.join(f'<tr><td>{t}</td><td>{html.escape(h)}</td></tr>' for t, h, d in c['steps']) + '</table></div>' for c in COURSES)
+    return ('<section class="sheet" aria-hidden="true"><header class="sh"><h1>' + html.escape(PAGE['title']) + '</h1><p>' + ' · '.join(html.escape(k) + ' ' + html.escape(v) for k, v in PAGE['facts']) + '</p></header>'
+            '<div class="smeet"><h2>Meeting point</h2><p>' + html.escape(PAGE['meet_place']) + '</p><p>' + html.escape(PAGE['meet_text']) + '</p></div>'
+            '<div class="sgrid">' + cols + '</div><footer class="sfoot">' + html.escape(PAGE['footer']) + '</footer></section>')
+
 credits = '; '.join(html.escape(x['title'].replace('File:','')) + ' (' + x['lic'] + ')' for v in PH.values() for x in [v['card']] + v['detail'] + v['food'])
 page = f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{html.escape(PAGE['title'])}</title><meta name="robots" content="noindex">
@@ -193,6 +199,14 @@ footer.wrap{{padding:26px 20px 60px;font-size:13px;color:var(--mute);border-top:
  .mapbox iframe{{height:210px}}
  footer.wrap{{padding:20px 18px 44px;font-size:11.5px;line-height:1.55}}
 }}
+.sheet{{display:none}} .pdfbtn{{font:inherit;font-size:13px;font-weight:600;background:none;border:1px solid var(--ink);padding:5px 10px;cursor:pointer;color:inherit;margin-left:12px}}
+@media print{{
+ @page{{size:A4;margin:10mm 11mm}} body>*:not(.sheet){{display:none!important}} .sheet{{display:block}} body{{background:#fff;color:#111;font-size:11pt;line-height:1.35}}
+ .sh{{display:flex;justify-content:space-between;align-items:baseline;gap:12pt;border-bottom:2pt solid #111;padding-bottom:5pt;margin-bottom:9pt}} .sh h1{{font-size:18pt;margin:0}} .sh p{{margin:0;font-size:10pt;font-weight:600}}
+ .sheet h2{{font-size:12pt;margin:0 0 4pt}} .smeet{{margin-bottom:10pt}} .smeet p{{margin:0 0 3pt}}
+ .sgrid{{display:grid;grid-template-columns:repeat(auto-fit,minmax(45%,1fr));gap:0 16pt}} .sheet table{{border-collapse:collapse;width:100%;font-size:10pt;margin-bottom:8pt}} .sheet td{{padding:2pt 4pt 2pt 0;border-bottom:.6pt solid #ccc;vertical-align:top}} .sheet td:first-child{{width:34pt;font-weight:700}}
+ .sfoot{{border-top:1pt solid #111;padding-top:5pt;font-size:9pt;color:#444}}
+}}
 </style></head><body>
 <header class="hero">
 <div class="hpic"><div class="slides">{''.join(f'<img src="{PH[c["id"]]["card"]["thumb"]}" alt="{html.escape(c["name"])}" data-course="{c["id"]}" data-name="{html.escape(c["name"])}">' for c in COURSES)}</div>
@@ -217,7 +231,7 @@ footer.wrap{{padding:26px 20px 60px;font-size:13px;color:var(--mute);border-top:
 <div class="mapbox"><iframe src="{emb(PAGE['meet_place'])}" loading="lazy" title="{html.escape(PAGE['meet_place'])}" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
 </div>
 </div>
-<footer class="wrap"><p>{html.escape(PAGE['footer'])}</p>
+<footer class="wrap"><p>{html.escape(PAGE['footer'])} <button class="pdfbtn" type="button" onclick="window.print()">Save as PDF</button></p>
 <details class="cred"><summary>Photo credits</summary><p>{credits}, via Wikimedia Commons.</p></details></footer>
 <script>
 (function(){{
@@ -252,7 +266,7 @@ footer.wrap{{padding:26px 20px 60px;font-size:13px;color:var(--mute);border-top:
 }})();
 {HERO_JS}
 </script>
-{{DEVBAR}}</body></html>'''
+{sheet()}\n{{DEVBAR}}</body></html>'''
 open('index.html', 'w').write(page.replace('{DEVBAR}', ''))
 open('preview.html', 'w').write(page.replace(
     '{DEVBAR}',
