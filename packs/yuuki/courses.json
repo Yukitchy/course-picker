@@ -3256,10 +3256,10 @@
    "tag": "Draw at 13:00, shop until 18:30",
    "chips": [
     "Workshop 13:00",
-    "Sunshine City",
+    "School's pick",
     "Ends at the station"
    ],
-   "why": "Start with the two hour manga workshop while everyone is fresh, then the shopping is the reward. The day ends at the station side, close to the trains for your dinner reservation.",
+   "why": "Start with the two hour manga workshop while everyone is fresh, then the shopping is the reward. The day ends at the station side, close to the trains for your dinner reservation. The school recommends the 13:00 class for families.",
    "steps": [
     [
      "13:00",
@@ -3289,7 +3289,7 @@
     [
      "17:40",
      "Animate Ikebukuro flagship",
-     "Nine floors, the biggest anime shop in the world. New manga, figures and limited goods across every series. Open to 21:00."
+     "Nine floors, one of the biggest anime shops in Japan. New manga, figures and limited goods across every series. Open to 21:00."
     ],
     [
      "18:15",
@@ -3311,7 +3311,7 @@
    "moves": "Everything is on foot. Workshop → Sunshine City about 8 min. Sunshine City → Animate about 5 min. Animate → PARCO about 5 min.",
    "food": [],
    "good": "A family that wants the hands-on part done first and a relaxed shopping run after.",
-   "mind": "The 13:00 workshop slot is requested, not yet confirmed. Shopping bags get heavy by the end, so the last two stops are short. No prices are listed here; most stores have a tax free counter, so keep your passports with you.",
+   "mind": "The 13:00 class is open on December 20 and is the one the school recommends for families. Shopping bags get heavy by the end, so the last two stops are short. Most stores have a tax free counter, so keep your passports with you.",
    "links": [
     [
      "Mugiwara Store Ikebukuro (official)",
@@ -3379,161 +3379,6 @@
      "lic": "CC BY-SA 2.0",
      "score": 8,
      "note": "アニメイト池袋本店の入口"
-    }
-   ],
-   "food": []
-  },
-  "genres": [
-   "アニメ・マンガ",
-   "買い物"
-  ],
-  "areas": [
-   "池袋・巣鴨"
-  ]
- },
- {
-  "url": "https://yukitchy.github.io/ikebukuro-fan-day/",
-  "guest": "Nicholas and family (3)",
-  "date": "2026-12-20",
-  "area": "Ikebukuro",
-  "status": "proposed",
-  "page": "ikebukuro-fan-day",
-  "note": "",
-  "key": "ikebukuro-fan-day:B",
-  "course": {
-   "id": "B",
-   "name": "Shops first, then the workshop",
-   "tag": "Shop from 13:00, draw at 15:00",
-   "chips": [
-    "Workshop 15:00",
-    "Station side first",
-    "Sunshine City last"
-   ],
-   "why": "Shopping near the station first, the workshop in the middle, and Sunshine City at the end. The One Piece store and the Pokémon Center close at 20:00, so there is still an hour and a half after the workshop.",
-   "steps": [
-    [
-     "13:00",
-     "Meet at Ikebukuro Station East Exit",
-     "Then straight down to JUMP SHOP in PARCO B2F."
-    ],
-    [
-     "13:10",
-     "JUMP SHOP Ikebukuro PARCO",
-     "B2F of PARCO, right at the East Exit. The official Weekly Shonen Jump store: One Piece next to Naruto and Dragon Ball, with items sold nowhere else. Open to 21:00."
-    ],
-    [
-     "13:40",
-     "Animate Ikebukuro flagship",
-     "Nine floors, the biggest anime shop in the world. New manga, figures and limited goods across every series. Open to 21:00."
-    ],
-    [
-     "14:15",
-     "BOOKOFF Sunshine 60 Street",
-     "Two floors of second hand manga, figures, anime goods and Pokémon cards. One Piece volumes in Japanese are everywhere. Open to 22:00."
-    ],
-    [
-     "14:50",
-     "Walk to the workshop",
-     "About 5 minutes."
-    ],
-    [
-     "15:00",
-     "MANGA DOJO Tokyo workshop",
-     "Two hours of drawing manga with a working manga artist, English interpretation included. Nicholas draws his own character and takes the pages home."
-    ],
-    [
-     "17:00",
-     "Mugiwara Store and Pokémon Center Mega Tokyo",
-     "Sunshine City, Alpa 2F. The official One Piece store and Japan's largest Pokémon Center are on the same floor. Open to 20:00 on Sunday."
-    ],
-    [
-     "18:00",
-     "Gashapon Department Store and the One Piece Card Game shop",
-     "World Import Mart 3F, same building. Over 3,000 capsule toy machines, then Bandai Namco Cross Store with the official One Piece Card Game shop and Tamashii Nations figures. Open to 21:00."
-    ],
-    [
-     "18:30",
-     "Done",
-     "Sunshine City. About 8 minutes back to the station on foot."
-    ]
-   ],
-   "stops": [
-    "Ikebukuro Station East Exit",
-    "Ikebukuro PARCO",
-    "Animate Ikebukuro Flagship Store",
-    "Sunshine City Ikebukuro"
-   ],
-   "moves": "Everything is on foot. Station → PARCO is inside the building. PARCO → Animate about 5 min. Animate → workshop about 5 min. Workshop → Sunshine City about 8 min.",
-   "food": [],
-   "good": "A family that would rather warm up with the shops and keep the workshop as the main event.",
-   "mind": "The 15:00 workshop slot is requested, not yet confirmed. The day ends at Sunshine City, 8 minutes from the station. No prices are listed here; most stores have a tax free counter, so keep your passports with you.",
-   "links": [
-    [
-     "Mugiwara Store Ikebukuro (official)",
-     "https://www.mugiwara-store.com/shop/ikebukuro/"
-    ],
-    [
-     "Pokémon Center Mega Tokyo (official)",
-     "https://shop.pokemon.co.jp/ja/shop/pokemoncenter-megatokyo/"
-    ],
-    [
-     "Gashapon Department Store (official)",
-     "https://bandainamco-am.co.jp/others/capsule-toy-store/store/ikebukuro/special/"
-    ],
-    [
-     "Bandai Namco Cross Store Tokyo (official)",
-     "https://bandainamco-am.co.jp/crossstore/store/crossstore_tokyo/"
-    ],
-    [
-     "BOOKOFF Sunshine 60 Street (official)",
-     "https://www.bookoff.co.jp/shop/shop20422.html"
-    ],
-    [
-     "Animate Ikebukuro (official)",
-     "https://www.animate.co.jp/shop/ikebukuro/"
-    ],
-    [
-     "JUMP SHOP Ikebukuro PARCO (official)",
-     "https://en.ikebukuro.parco.jp/shop/detail/?cd=030637"
-    ]
-   ]
-  },
-  "photos": {
-   "card": {
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Ikebukuro_2008-12-01_%283273662522%29.jpg/960px-Ikebukuro_2008-12-01_%283273662522%29.jpg",
-    "title": "Ikebukuro 2008-12-01 (3273662522).jpg",
-    "lic": "CC BY-SA 2.0",
-    "score": 8,
-    "note": "サンシャイン60通りの人出（12月撮影・看板が賑やか）"
-   },
-   "detail": [
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Ikebukuro_Station_east_exit_close_up_2023_Jan_13_02PM.jpeg/960px-Ikebukuro_Station_east_exit_close_up_2023_Jan_13_02PM.jpeg",
-     "title": "Ikebukuro Station east exit close up 2023 Jan 13 02PM.jpeg",
-     "lic": "CC BY 4.0",
-     "score": 8,
-     "note": "池袋駅東口の看板（集合場所）"
-    },
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/JUMP_SHOP_%2852506239079%29.jpg/960px-JUMP_SHOP_%2852506239079%29.jpg",
-     "title": "JUMP SHOP (52506239079).jpg",
-     "lic": "CC BY 2.0",
-     "score": 7,
-     "note": "JUMP SHOPの店頭（別店舗の一般例）"
-    },
-    {
-     "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/c5/ANIMATE-Ikebukuro.JPG",
-     "title": "ANIMATE-Ikebukuro.JPG",
-     "lic": "CC BY-SA 3.0",
-     "score": 8,
-     "note": "アニメイト池袋本店の外観"
-    },
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Pokk%C3%A9n_near_Mega_Tokyo_Pok%C3%A9mon_Center_1.jpg/960px-Pokk%C3%A9n_near_Mega_Tokyo_Pok%C3%A9mon_Center_1.jpg",
-     "title": "Pokkén near Mega Tokyo Pokémon Center 1.jpg",
-     "lic": "CC BY 3.0",
-     "score": 8,
-     "note": "ピカチュウの前に集まるファン"
     }
    ],
    "food": []
