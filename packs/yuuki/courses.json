@@ -3259,12 +3259,12 @@
     "School's pick",
     "Ends at the station"
    ],
-   "why": "Start with the two hour manga workshop while everyone is fresh, then the shopping is the reward. The day ends at the station side, close to the trains for your dinner reservation. The school recommends the 13:00 class for families.",
+   "why": "Start with the two hour manga workshop while everyone is fresh, then the shopping is the reward. We meet at the school and the day ends at the station side, close to the trains for your dinner reservation. The school recommends the 13:00 class for families.",
    "steps": [
     [
      "13:00",
      "MANGA DOJO Tokyo workshop",
-     "Two hours of drawing manga with a working manga artist, English interpretation included. Nicholas draws his own character and takes the pages home."
+     "We meet at the school door at 12:55. Two hours of drawing manga with a working manga artist, English interpretation included. Nicholas draws his own character and takes the pages home."
     ],
     [
      "15:00",
@@ -3303,7 +3303,7 @@
     ]
    ],
    "stops": [
-    "Ikebukuro Station East Exit",
+    "MANGA DOJO Tokyo 1-31-6 Higashi-Ikebukuro Toshima-ku Tokyo",
     "Sunshine City Ikebukuro",
     "Animate Ikebukuro Flagship Store",
     "Ikebukuro PARCO"
@@ -3389,6 +3389,256 @@
   ],
   "areas": [
    "池袋・巣鴨"
+  ]
+ },
+ {
+  "url": "https://yukitchy.github.io/rick-oct5-plan/",
+  "guest": "Rick & Linda",
+  "date": "2026-10-05",
+  "area": "Toyosu / Tsukiji / Ginza",
+  "status": "done",
+  "page": "rick-oct5-plan",
+  "note": "Confirmed plan (one-page PDF)",
+  "key": "rick-oct5-plan:A",
+  "course": {
+   "id": "A",
+   "name": "Toyosu, Tsukiji, then Ginza on foot",
+   "tag": "Auction at 5:30, lunch at 12:00, done about 15:30",
+   "chips": [],
+   "why": "The early part is all near the market and you do it at your own pace. After lunch everything is in Ginza, flat and on foot, and it ends a short walk from your hotel.",
+   "steps": [
+    [
+     "5:30",
+     "Tuna auction deck, Toyosu",
+     "Check-in at the PR corner, Block 7, 3F. Reception number 53241. Ends about 6:25."
+    ],
+    [
+     "6:30",
+     "Breakfast at the market",
+     "Sushi or a seafood bowl in the market restaurant area."
+    ],
+    [
+     "8:00",
+     "teamLab Planets",
+     "Premium Pass x2. Show the QR at the Information Center, no queue. About 1.5 hours."
+    ],
+    [
+     "10:00",
+     "Tsukiji Outer Market",
+     "Taxi, about 15 minutes. Tamagoyaki, grilled scallops, kitchen knives."
+    ],
+    [
+     "12:00",
+     "Lunch at Ginza Sushimasa, with Yuuki",
+     "Counter for three. Short lunch courses: 5 small dishes and 7 pieces of nigiri (¥9,900), or 7 pieces with a small chirashi bowl (¥4,950). We choose at the table."
+    ],
+    [
+     "13:25",
+     "Itoya",
+     "Twelve floors of paper, pens and letter sets. Gifts that pack flat."
+    ],
+    [
+     "14:05",
+     "Mitsukoshi food hall",
+     "Wagashi, tea, rice crackers and boxed sweets from all over Japan."
+    ],
+    [
+     "14:40",
+     "Kimuraya",
+     "The bakery that made the first sweet bean bun, in 1874. On the Ginza crossing."
+    ],
+    [
+     "14:50",
+     "GINZA SIX roof garden and tea",
+     "A free garden on the roof, then matcha at Nakamura Tokichi on the 4th floor."
+    ],
+    [
+     "15:30",
+     "Back at the hotel",
+     "About 10 minutes on foot to THE BLOSSOM HIBIYA."
+    ]
+   ],
+   "stops": [
+    "Toyosu Market Block 7",
+    "teamLab Planets TOKYO",
+    "Tsukiji Outer Market",
+    "Ginza Sushimasa 5-14-5 Ginza",
+    "Ginza Itoya",
+    "Ginza Mitsukoshi",
+    "GINZA SIX",
+    "The Blossom Hibiya Tokyo"
+   ],
+   "moves": "Market → teamLab: 1 stop on the Yurikamome or a 5 min taxi. teamLab → Tsukiji: taxi about 15 min. Tsukiji → Sushimasa: 10 min on foot. Everything after lunch is on foot.",
+   "food": [],
+   "good": "A full day that never needs a long train ride.",
+   "mind": "The Ginza walk after lunch is a suggestion. If you would rather rest, we stop whenever you like. Lunch is ordered at the table; the booking is for seats only.",
+   "links": [
+    [
+     "teamLab Planets: your tickets",
+     "https://teamlabplanets.dmm.com/mytickets/bcc446ac088a3ef9b3"
+    ],
+    [
+     "Ginza Sushimasa (official)",
+     "https://www.ginza-sushimasa.com/"
+    ],
+    [
+     "Itoya (official)",
+     "https://www.ito-ya.co.jp/"
+    ],
+    [
+     "GINZA SIX (official)",
+     "https://ginza6.tokyo/"
+    ]
+   ]
+  },
+  "photos": {
+   "card": {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Saturday_in_Ginza.jpg/960px-Saturday_in_Ginza.jpg",
+    "title": "Saturday in Ginza.jpg",
+    "lic": "CC BY-SA"
+   },
+   "detail": [
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Tsukiji_Outer_Market_-02.jpg/960px-Tsukiji_Outer_Market_-02.jpg",
+     "title": "Tsukiji Outer Market -02.jpg",
+     "lic": "CC BY-SA"
+    },
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Saturday_in_Ginza.jpg/960px-Saturday_in_Ginza.jpg",
+     "title": "Saturday in Ginza.jpg",
+     "lic": "CC BY-SA"
+    },
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/GINZA_SIX_Atrium_View_201912.jpg/960px-GINZA_SIX_Atrium_View_201912.jpg",
+     "title": "GINZA SIX Atrium View 201912.jpg",
+     "lic": "CC BY-SA"
+    },
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/GINZA_SIX_Roof_Garden_201806.jpg/960px-GINZA_SIX_Roof_Garden_201806.jpg",
+     "title": "GINZA SIX Roof Garden 201806.jpg",
+     "lic": "CC BY-SA"
+    }
+   ],
+   "food": []
+  },
+  "genres": [
+   "買い物",
+   "食べ歩き・グルメ",
+   "博物館・アート",
+   "街歩き"
+  ],
+  "areas": [
+   "銀座・丸の内・日比谷",
+   "築地・豊洲・湾岸"
+  ]
+ },
+ {
+  "url": "https://yukitchy.github.io/rick-oct6-plan/",
+  "guest": "Rick & Linda",
+  "date": "2026-10-06",
+  "area": "Meiji Jingu / Shibuya",
+  "status": "done",
+  "page": "rick-oct6-plan",
+  "note": "Confirmed plan (one-page PDF)",
+  "key": "rick-oct6-plan:A",
+  "course": {
+   "id": "A",
+   "name": "Meiji Jingu, Harajuku, Shibuya",
+   "tag": "Pickup 9:00, finish time to confirm",
+   "chips": [],
+   "why": "The shrine is calmest in the morning, so it comes first. Harajuku and Omotesando are a short walk downhill from it, and Shibuya is the next station. Lunch goes in the middle so the afternoon is short.",
+   "steps": [
+    [
+     "9:00",
+     "Pickup at the hotel",
+     "Lobby of THE BLOSSOM HIBIYA. Chiyoda line to Meiji-jingumae, about 20 minutes."
+    ],
+    [
+     "9:30",
+     "Meiji Jingu",
+     "The forest shrine. Free, flat gravel paths, about an hour and a quarter."
+    ],
+    [
+     "10:50",
+     "Takeshita Street, then Omotesando",
+     "The narrow street of teenage fashion and crepe stands, then the wide tree-lined avenue below it. Coffee if you want it."
+    ],
+    [
+     "12:00",
+     "Lunch, 60 to 75 minutes",
+     "Near Omotesando. Yuuki suggests a place on the day based on what you feel like (to confirm)."
+    ],
+    [
+     "13:30",
+     "Shibuya Crossing",
+     "See it from above first, then walk across it."
+    ],
+    [
+     "Later",
+     "Finish (to confirm)",
+     "Tell Yuuki what time you want to finish. If you have energy, Kappabashi kitchen street is one train from Shibuya on the Ginza line, no changes."
+    ]
+   ],
+   "stops": [
+    "The Blossom Hibiya Tokyo",
+    "Meiji Jingu Shrine",
+    "Takeshita Street Harajuku",
+    "Omotesando Tokyo",
+    "Shibuya Scramble Crossing"
+   ],
+   "moves": "Hotel → Meiji-jingumae: Chiyoda line, about 20 min. Shrine → Takeshita Street → Omotesando: on foot. Omotesando → Shibuya: 15 min on foot or one stop by train. Shibuya → Kappabashi: Ginza line to Tawaramachi, about 30 min.",
+   "food": [],
+   "good": "The three things you asked for, in an order that keeps the walking short.",
+   "mind": "The finish time is not fixed yet. Tell Yuuki before the day or in the morning. Kappabashi shops close around 17:00, so it only fits if you finish late.",
+   "links": [
+    [
+     "Meiji Jingu (official)",
+     "https://www.meijijingu.or.jp/en/"
+    ],
+    [
+     "Kappabashi Dougu Street (official)",
+     "https://www.kappabashi.or.jp/en/"
+    ]
+   ]
+  },
+  "photos": {
+   "card": {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Takeshita_Dori%2C_Harajuku_%2844191369751%29.jpg/960px-Takeshita_Dori%2C_Harajuku_%2844191369751%29.jpg",
+    "title": "Takeshita Dori, Harajuku (44191369751).jpg",
+    "lic": "CC BY 2.0"
+   },
+   "detail": [
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Cr%C3%AApes_-_Takeshita_street_-_Tokyo_-_DSC07885.JPG/960px-Cr%C3%AApes_-_Takeshita_street_-_Tokyo_-_DSC07885.JPG",
+     "title": "Crêpes - Takeshita street - Tokyo - DSC07885.JPG",
+     "lic": "CC BY-SA"
+    },
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Takeshita_Dori%2C_Harajuku_%2844191369751%29.jpg/960px-Takeshita_Dori%2C_Harajuku_%2844191369751%29.jpg",
+     "title": "Takeshita Dori, Harajuku (44191369751).jpg",
+     "lic": "CC BY 2.0"
+    },
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Kitchen_knives_store_by_Photocapy_in_Kappa-bashi%2C_Tokyo.jpg/960px-Kitchen_knives_store_by_Photocapy_in_Kappa-bashi%2C_Tokyo.jpg",
+     "title": "Kitchen knives store in Kappa-bashi, Tokyo.jpg",
+     "lic": "CC BY-SA"
+    },
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Shibuya_Crossing%2C_Aerial.jpg/960px-Shibuya_Crossing%2C_Aerial.jpg",
+     "title": "Shibuya Crossing, Aerial.jpg",
+     "lic": "CC BY-SA"
+    }
+   ],
+   "food": []
+  },
+  "genres": [
+   "寺社・歴史",
+   "買い物",
+   "街歩き"
+  ],
+  "areas": [
+   "銀座・丸の内・日比谷",
+   "原宿・渋谷"
   ]
  }
 ]

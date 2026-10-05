@@ -91,5 +91,23 @@
   "date": "2026-12-20",
   "area": "Ikebukuro",
   "status": "proposed"
+ },
+ {
+  "repo": "~/rick-oct5-plan",
+  "url": "https://yukitchy.github.io/rick-oct5-plan/",
+  "guest": "Rick & Linda",
+  "date": "2026-10-05",
+  "area": "Toyosu / Tsukiji / Ginza",
+  "status": "done",
+  "note": "Confirmed plan (one-page PDF)"
+ },
+ {
+  "repo": "~/rick-oct6-plan",
+  "url": "https://yukitchy.github.io/rick-oct6-plan/",
+  "guest": "Rick & Linda",
+  "date": "2026-10-06",
+  "area": "Meiji Jingu / Shibuya",
+  "status": "done",
+  "note": "Confirmed plan (one-page PDF)"
  }
 ]
