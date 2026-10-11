@@ -3528,14 +3528,14 @@
   "key": "perry-akiba-day:A",
   "course": {
    "id": "A",
-   "name": "Akihabara core: 3 hours",
-   "tag": "Retro games, old manga and toys, close to the station",
+   "name": "90s shonen and retro games",
+   "tag": "Retro games, old manga and toys",
    "chips": [
-    "3 hours",
+    "5 hours",
     "Akihabara only",
-    "Light walking"
+    "Retro games"
    ],
-   "why": "For the first day after the flight. Three stops, short walks, and a place to sit on the top floor of Super Potato. It is built around the 1990s shonen and game shelves, which suits Dragon Ball Z, Digimon, Cowboy Bebop, Mario and Zelda.",
+   "why": "For Dragon Ball Z, Digimon, Cowboy Bebop, Mario and Zelda. We go through the 1990s shonen and game shelves: toys and figures, retro consoles, old manga, and a second-hand game shop for anything on your list.",
    "steps": [
     [
      "10:00",
@@ -3553,21 +3553,33 @@
      "Famicom to PlayStation 2 on the 3rd and 4th floors, plus handhelds and Sega. The early Mario and Zelda games are on the Famicom and Super Famicom shelves. The 5th floor is a small retro arcade with a place to sit."
     ],
     [
-     "12:00",
+     "11:50",
+     "Lunch at Go!Go!Curry",
+     "Kanazawa curry: a pork cutlet on a dark, thick roux, eaten at the counter. It is quick and close to the station."
+    ],
+    [
+     "12:40",
      "Mandarake Complex Akihabara",
-     "Boys' manga and vintage books on 3F. Toys on 6F to 8F, with Chogokin on 7F and robots on 8F. Stock changes every week, so we see what is there that day. We finish here at 13:00."
+     "Boys' manga and vintage books on 3F. Toys on 6F to 8F, with Chogokin on 7F and robots on 8F. Stock changes every week, so we see what is there that day."
+    ],
+    [
+     "13:45",
+     "Surugaya Akihabara Game-kan",
+     "A second-hand game shop with deep stock: retro and current games, strategy guides and game magazines. Its website lets you search the shop, so we can look up a title from your list first. We finish here around 15:00."
     ]
    ],
    "stops": [
     "Akihabara Station Electric Town Exit",
     "Akihabara Radio Kaikan",
     "Super Potato Akihabara",
-    "Mandarake Complex Akihabara"
+    "Go!Go!Curry Akihabara",
+    "Mandarake Complex Akihabara",
+    "Surugaya Akihabara Game-kan"
    ],
-   "moves": "All on foot, about ten minutes at most between shops. Radio Kaikan is across the street from the station, and Mandarake is about four minutes from the Electric Town exit.",
+   "moves": "All on foot. Radio Kaikan is across the street from the station, and the rest of the day moves north toward Mandarake and Surugaya, with short walks between shops.",
    "food": [],
-   "good": "A slow first day: a few shops, one tall building of toys, and somewhere to sit.",
-   "mind": "Check that a Japanese game runs on your console at home, and on 100 V power, before you buy. A Famicom cartridge does not fit an NES without an adapter.",
+   "good": "Fans of 1990s series and console games who like to dig through shelves.",
+   "mind": "Check that a Japanese game runs on your console at home, and on 100 V power, before you buy. A Famicom cartridge does not fit an NES without an adapter. Go!Go!Curry takes cash only, so bring some for the smaller shops too.",
    "links": [
     [
      "Radio Kaikan",
@@ -3580,13 +3592,17 @@
     [
      "Mandarake Complex",
      "https://www.mandarake.co.jp/dir/cmp/"
+    ],
+    [
+     "Surugaya Game-kan",
+     "https://www.suruga-ya.jp/feature/realstore/akihabara_game/index.html"
     ]
    ]
   },
   "photos": {
    "card": {
-    "thumb": "img/retro.jpg",
-    "title": "Display of Ranma, Shampoo, a silver-armoured knight and Sailor Moon figures",
+    "thumb": "img/extra-4.jpg",
+    "title": "Life-size RX-78-2 Gundam statue beside a red carpet in a Gundam kit shop in Akihabara",
     "lic": "own photo"
    },
    "detail": [],
@@ -3611,14 +3627,14 @@
   "key": "perry-akiba-day:B",
   "course": {
    "id": "B",
-   "name": "Akihabara deep: 5 hours",
-   "tag": "Gunpla and model shops, retro games, lunch and Mandarake",
+   "name": "Gundam and models",
+   "tag": "Gunpla and model shops, with a retro stop",
    "chips": [
     "5 hours",
     "Akihabara only",
-    "Lunch included"
+    "Gunpla and models"
    ],
-   "why": "For the most of Akihabara in one day. It keeps everything in course A and adds the Gunpla and model shops, a sit-down lunch and a longer stay at Mandarake. Good if Gundam Wing is high on the list.",
+   "why": "For Gundam Wing. The morning and early afternoon are the model shops, with a stop at Super Potato and Radio Kaikan so the day is not only kits. You could leave with a Gunpla kit and a few tools, small enough to build in your hotel room and carry home.",
    "steps": [
     [
      "10:00",
@@ -3628,52 +3644,46 @@
     [
      "10:05",
      "Yodobashi Akiba",
-     "Plastic models, modelling tools, figures and games are all on the 6th floor. A good first look at the current Gunpla kits."
+     "Plastic models, modelling tools, figures and games are all on the 6th floor. We start with the current Gunpla kits and the tools you would need to build one. I can help you choose a kit, a Wing Gundam one if there is one in stock."
     ],
     [
-     "10:55",
-     "Akihabara Radio Kaikan",
-     "Ten floors facing the station. Kaiyodo is on 5F, Yellow Submarine with its model kits on 6F, and Volks on 8F. We take the lift to the top and walk down."
-    ],
-    [
-     "11:45",
-     "Super Potato Akihabara",
-     "Famicom to PlayStation 2 on the 3rd and 4th floors, plus handhelds and Sega. The 5th floor is a small retro arcade with a place to sit."
-    ],
-    [
-     "12:25",
+     "11:05",
      "Kotobukiya Akihabara-kan",
      "The figure and model kit maker's own shop. It sells new releases and shop-only items, and the pop-ups change, so we see what is on that week."
     ],
     [
-     "12:55",
+     "11:50",
+     "Super Potato Akihabara",
+     "A short stop so the day is not only models. Famicom to PlayStation 2 on the 3rd and 4th floors, and a small retro arcade on the 5th."
+    ],
+    [
+     "12:30",
      "Lunch at Go!Go!Curry",
      "Kanazawa curry: a pork cutlet on a dark, thick roux, eaten at the counter. It is quick and close to the station. If you would rather sit down for a steak, Juke Steak serves lunch and I can swap it in."
     ],
     [
-     "13:40",
-     "Mandarake Complex Akihabara",
-     "Boys' manga and vintage books on 3F. Toys on 6F to 8F, with Chogokin on 7F and robots on 8F. Stock changes every week, so we see what is there that day."
+     "13:20",
+     "Volks Hobby Tengoku 2",
+     "Seven floors of kits, figures and goods. Volks's own kits are on 4F, and the 6th and 7th floors host pop-up events that change."
     ],
     [
-     "14:30",
-     "Volks Hobby Tengoku 2",
-     "Seven floors of kits, figures and goods. Volks's own kits are on 4F, and the 6th and 7th floors host pop-up events that change. We finish here around 15:00."
+     "14:25",
+     "Akihabara Radio Kaikan",
+     "A short last stop, facing the station. Kaiyodo is on 5F, Yellow Submarine with its model kits on 6F, and Volks on 8F. We finish here at 15:00, right by the station."
     ]
    ],
    "stops": [
     "Akihabara Station Electric Town Exit",
     "Yodobashi Akiba",
-    "Akihabara Radio Kaikan",
-    "Super Potato Akihabara",
     "Kotobukiya Akihabara-kan",
+    "Super Potato Akihabara",
     "Go!Go!Curry Akihabara",
-    "Mandarake Complex Akihabara",
-    "Volks Hobby Tengoku 2 Akihabara"
+    "Volks Hobby Tengoku 2 Akihabara",
+    "Akihabara Radio Kaikan"
    ],
-   "moves": "All on foot. Most legs are short, and the longest is from lunch to Mandarake. We work from the station south to Kotobukiya, then north.",
+   "moves": "All on foot. We work from the station south to Kotobukiya and Super Potato, then north to Volks, and come back to Radio Kaikan by the station to finish.",
    "food": [],
-   "good": "Gunpla and figure fans who want the whole district in one day, with a proper lunch in the middle.",
+   "good": "Gunpla and model fans who want to build something while in Tokyo.",
    "mind": "Go!Go!Curry takes cash only, so bring some for the smaller shops too. The Dragon Ball Store is not in Akihabara: it is on the 1st floor of Tokyo Station Ichibangai, two stops away, and I can add it if you want it.",
    "links": [
     [
@@ -3689,12 +3699,12 @@
      "https://hobby.volks.co.jp/shop/hobbytengoku2/"
     ],
     [
-     "Mandarake Complex",
-     "https://www.mandarake.co.jp/dir/cmp/"
-    ],
-    [
      "Super Potato",
      "https://www.superpotato.com/shop/akihabara/"
+    ],
+    [
+     "Radio Kaikan",
+     "https://akihabara-radiokaikan.co.jp/"
     ]
    ]
   },
@@ -3704,18 +3714,11 @@
     "title": "Wing Gundam Zero model with white feathered wings in a glass display case",
     "lic": "own photo"
    },
-   "detail": [
-    {
-     "thumb": "img/extra-4.jpg",
-     "title": "Life-size RX-78-2 Gundam statue beside a red carpet in a Gundam kit shop, glass cases of kits behind",
-     "lic": "own photo"
-    }
-   ],
+   "detail": [],
    "food": []
   },
   "genres": [
-   "アニメ・マンガ",
-   "買い物"
+   "アニメ・マンガ"
   ],
   "areas": [
    "秋葉原・神田・御茶ノ水"
@@ -3732,14 +3735,14 @@
   "key": "perry-akiba-day:C",
   "course": {
    "id": "C",
-   "name": "Akihabara and Shibuya: full day",
-   "tag": "Akihabara in the morning, Nintendo and Pokémon in the afternoon",
+   "name": "Akihabara and Shibuya: Nintendo and Pokémon",
+   "tag": "Akihabara in the morning, Nintendo and Pokémon after lunch",
    "chips": [
-    "Full day",
+    "5 hours",
     "Akihabara + Shibuya",
     "One train ride"
    ],
-   "why": "For both worlds. The morning is the short version of course A, and the afternoon is Shibuya for Mario, Zelda and Pokémon, with Nintendo TOKYO and the Pokémon Center on one floor.",
+   "why": "For Mario, Zelda and Pokémon. The morning is Akihabara for two stops, then one train to Shibuya, where Nintendo TOKYO and the Pokémon Center are on the same floor.",
    "steps": [
     [
      "10:00",
@@ -3757,50 +3760,38 @@
      "Famicom to PlayStation 2 on the 3rd and 4th floors. The early Mario and Zelda games are on the Famicom and Super Famicom shelves. The 5th floor is a small retro arcade."
     ],
     [
-     "11:55",
-     "Lunch at Go!Go!Curry",
-     "Kanazawa curry at the counter, quick and close to the station. An early lunch, so we are not hunting for food in Shibuya."
-    ],
-    [
-     "12:40",
+     "12:15",
      "Train from Akihabara to Shibuya",
      "About 30 to 40 minutes by train. I ride with you and tell you which line to take."
     ],
     [
-     "13:30",
+     "12:55",
+     "Lunch in Shibuya PARCO",
+     "The restaurants are on the 7th floor of the same building as the stores. We eat there, then go down one floor."
+    ],
+    [
+     "13:35",
      "Nintendo TOKYO",
      "Nintendo's own store on the 6th floor of Shibuya PARCO, five minutes on foot from Shibuya Station. On busy days entry is by numbered ticket, and a weekday is calmer. I check the store's page that morning."
     ],
     [
-     "14:35",
+     "14:20",
      "Pokémon Center Shibuya",
-     "The official Pokémon store, on the same floor. Thirty to forty-five minutes is enough for most people."
-    ],
-    [
-     "15:25",
-     "Jump Shop Shibuya",
-     "Official Weekly Shonen Jump goods, also on the 6th floor. Dragon Ball is one of the series the Jump Shops cover, and what is in stock changes."
-    ],
-    [
-     "16:00",
-     "Mandarake Shibuya",
-     "One basement floor in the Shibuya BEAM building, five minutes from the Hachikō exit. Shonen comics, vintage comics and toys. We finish here around 17:00."
+     "The official Pokémon store, on the same floor. We finish here at 15:00."
     ]
    ],
    "stops": [
     "Akihabara Station Electric Town Exit",
     "Akihabara Radio Kaikan",
     "Super Potato Akihabara",
-    "Go!Go!Curry Akihabara",
     "Shibuya Station",
     "Nintendo TOKYO Shibuya PARCO",
-    "Pokémon Center Shibuya",
-    "Mandarake Shibuya"
+    "Pokémon Center Shibuya"
    ],
-   "moves": "Akihabara on foot in the morning, then one train ride of about 30 to 40 minutes. In Shibuya the three PARCO stores share one floor, and Mandarake is a five-minute walk away.",
+   "moves": "Akihabara on foot in the morning, then one train ride of about 30 to 40 minutes. In Shibuya, lunch and both stores are in the same building, so there is almost no walking.",
    "food": [],
    "good": "Nintendo and Pokémon fans who also want the Akihabara shelves, and do not mind one train ride.",
-   "mind": "Shibuya PARCO has irregular closing days, so I check its calendar the week before. New Pokémon card products are sold by advance lottery, so sealed packs are unlikely, but the store is worth it for everything else. A Gundam Base is announced for the 5th floor of the same building from November 2026, and I will check whether it has opened.",
+   "mind": "Shibuya PARCO has irregular closing days, so I check its calendar the week before. New Pokémon card products are sold by advance lottery, so sealed packs are unlikely, but the store is worth it for everything else.",
    "links": [
     [
      "Nintendo TOKYO",
@@ -3813,10 +3804,6 @@
     [
      "Shibuya PARCO",
      "https://shibuya.parco.jp/info/"
-    ],
-    [
-     "Mandarake Shibuya",
-     "https://www.mandarake.co.jp/dir/sby/"
     ]
    ]
   },
@@ -3830,8 +3817,7 @@
    "food": []
   },
   "genres": [
-   "アニメ・マンガ",
-   "買い物"
+   "アニメ・マンガ"
   ],
   "areas": [
    "原宿・渋谷",
