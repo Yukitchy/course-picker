@@ -20,44 +20,44 @@
    "why": "Start in the noise, then walk 20 minutes downhill into the quiet part: the Daikanyama bookshop, then the Meguro river and its cafés. Easy pace, good for talking.",
    "steps": [
     [
-     "13:00",
+     "12:00",
      "Hachiko statue, Shibuya station",
      "We meet at the dog."
     ],
     [
-     "13:15",
+     "12:10",
      "Scramble crossing and Shibuya Stream",
      "Cross once, then follow the river side of the station."
     ],
     [
-     "13:45",
+     "12:30",
      "Walk to Daikanyama",
      "20 minutes, mostly downhill, through a residential area."
     ],
     [
-     "14:10",
+     "12:50",
      "Daikanyama T-Site and Log Road",
      "Tsutaya Books, three buildings of books and a lounge. Log Road is a garden path on an old rail line with a brewery."
     ],
     [
-     "15:00",
-     "Late lunch or coffee",
-     "See the picks below. Ivy Place serves food all afternoon."
+     "13:30",
+     "Lunch in Daikanyama",
+     "Ivy Place or Spring Valley Brewery. See the picks below."
     ],
     [
-     "15:50",
-     "Walk to Nakameguro",
-     "15 minutes."
+     "14:30",
+     "Walk down to Nakameguro",
+     "15 minutes to the Meguro river."
     ],
     [
-     "16:05",
-     "Meguro river",
-     "The cherry-tree street. Small shops and cafés on both banks."
+     "14:45",
+     "Coffee by the river",
+     "Pick one of the four coffee spots below."
     ],
     [
-     "16:45",
-     "Starbucks Reserve Roastery, and done",
-     "The big four-floor one by the river. We finish at Nakameguro station around 17:15."
+     "15:30",
+     "Nakameguro station, and done",
+     "The Hibiya line goes straight to Hibiya and Ginza."
     ]
    ],
    "stops": [
@@ -65,14 +65,13 @@
     "Shibuya Stream",
     "Daikanyama T-Site",
     "Log Road Daikanyama",
-    "Nakameguro Station",
-    "Starbucks Reserve Roastery Tokyo"
+    "Nakameguro Station"
    ],
-   "moves": "Everything on foot, about 4 km in total. Shibuya → Daikanyama 20 min. Daikanyama → Nakameguro 15 min. Nakameguro station has the Hibiya and Toyoko lines.",
+   "moves": "Everything on foot, about 3 km in total. Shibuya → Daikanyama 20 min. Daikanyama → Nakameguro 15 min. Nakameguro station has the Hibiya and Toyoko lines.",
    "food": [
     [
      "Ivy Place",
-     "Daikanyama · brunch",
+     "Daikanyama · lunch",
      "Pancakes, salads and pasta in the T-Site garden. Weekend queue, so we put our name down first.",
      "Ivy Place Daikanyama"
     ],
@@ -83,14 +82,32 @@
      "Spring Valley Brewery Tokyo Daikanyama"
     ],
     [
-     "Onibus Coffee Nakameguro",
-     "Nakameguro · coffee",
-     "Small roaster next to the tracks. Standing room, good beans.",
-     "Onibus Coffee Nakameguro"
+     "ONIBUS COFFEE Nakameguro",
+     "By the station · roaster",
+     "A small roaster right by the station. Upstairs seats look out over the Toyoko line trains.",
+     "ONIBUS COFFEE Nakameguro"
+    ],
+    [
+     "Sidewalk Stand",
+     "On the river path · roaster",
+     "On the river path under the cherry trees. They roast beans and bake pastries on site.",
+     "Sidewalk Stand Nakameguro"
+    ],
+    [
+     "SWELL Coffee Roasters",
+     "Kamimeguro · latte art",
+     "Run by a world latte art champion, in a quiet concrete building. Known for latte art and cheesecake.",
+     "SWELL COFFEE ROASTERS Nakameguro"
+    ],
+    [
+     "Starbucks Reserve Roastery Tokyo",
+     "Upriver · four floors",
+     "The big four-floor roastery, about 10 minutes upriver.",
+     "Starbucks Reserve Roastery Tokyo"
     ]
    ],
    "good": "Flat and easy the whole way, on quiet streets. Plenty of time to talk.",
-   "mind": "The Meguro river cherry trees are green in October, not pink. Ivy Place can have a short wait, so we put our name down when we arrive.",
+   "mind": "The Meguro river cherry trees are green in October, not pink. We finish at Nakameguro station at 15:30.",
    "links": [
     [
      "Daikanyama T-Site",
@@ -3564,14 +3581,14 @@
      "The narrow street of teenage fashion and crepe stands, then the wide tree-lined avenue below it. Coffee if you want it."
     ],
     [
-     "12:00",
-     "Lunch, 60 to 75 minutes",
-     "Near Omotesando. Yuuki suggests a place on the day based on what you feel like (to confirm)."
+     "12:15",
+     "Walk to Shibuya, the crossing",
+     "About 20 minutes on foot down Cat Street. See the crossing from above first, then walk across it."
     ],
     [
-     "13:30",
-     "Shibuya Crossing",
-     "See it from above first, then walk across it."
+     "13:00",
+     "Soba lunch, 60 to 75 minutes",
+     "Kamiyama, a small quiet soba house in the back streets of Shibuya, about 10 minutes on foot from the crossing. 13:00 is after the office lunch rush. Lunch until 14:00. Backup: Tamawarai near Harajuku, open to 15:00."
     ],
     [
      "Later",
@@ -3584,9 +3601,11 @@
     "Meiji Jingu Shrine",
     "Takeshita Street Harajuku",
     "Omotesando Tokyo",
-    "Shibuya Scramble Crossing"
+    "Shibuya Scramble Crossing",
+    "Kamiyama soba 10-8 Kamiyamacho Shibuya",
+    "Kappabashi Kitchen Street Tokyo"
    ],
-   "moves": "Hotel → Meiji-jingumae: Chiyoda line, about 20 min. Shrine → Takeshita Street → Omotesando: on foot. Omotesando → Shibuya: 15 min on foot or one stop by train. Shibuya → Kappabashi: Ginza line to Tawaramachi, about 30 min.",
+   "moves": "Hotel → Meiji-jingumae: Chiyoda line, about 20 min. Shrine → Takeshita Street → Omotesando → Shibuya: on foot. Crossing → Kamiyama: 10 min on foot. Shibuya → Kappabashi: Ginza line to Tawaramachi, about 30 min.",
    "food": [],
    "good": "The three things you asked for, in an order that keeps the walking short.",
    "mind": "The finish time is not fixed yet. Tell Yuuki before the day or in the morning. Kappabashi shops close around 17:00, so it only fits if you finish late.",
@@ -3594,6 +3613,14 @@
     [
      "Meiji Jingu (official)",
      "https://www.meijijingu.or.jp/en/"
+    ],
+    [
+     "Kamiyama (Tabelog)",
+     "https://tabelog.com/tokyo/A1303/A130301/13022696/"
+    ],
+    [
+     "Tamawarai (Tabelog)",
+     "https://tabelog.com/tokyo/A1306/A130601/13125410/"
     ],
     [
      "Kappabashi Dougu Street (official)",
@@ -3634,11 +3661,418 @@
   "genres": [
    "寺社・歴史",
    "買い物",
+   "食べ歩き・グルメ",
    "街歩き"
   ],
   "areas": [
+   "浅草・上野",
    "銀座・丸の内・日比谷",
    "原宿・渋谷"
   ]
+ },
+ {
+  "url": "https://yukitchy.github.io/meshi-1012-7f17fa36/",
+  "guest": "meshi",
+  "date": "2026-10-12",
+  "area": "Shinjuku / Saitama",
+  "status": "proposed",
+  "page": "page",
+  "note": "",
+  "key": "page:A",
+  "course": {
+   "id": "A",
+   "name": "スパジャポ",
+   "tag": "近くて気軽。昼から夕方までゆっくり",
+   "chips": [
+    "電車30分",
+    "サウナ約4時間",
+    "19時前に帰宅"
+   ],
+   "why": "映画館から東久留米まで電車で30分。駅から無料シャトルバスで入館して、昼ごはんも館内で済ませます。3コースでいちばん移動が短く、いちばん気楽です。",
+   "steps": [
+    [
+     "09:34",
+     "ユウキ 錦糸町駅 発",
+     "JR総武線、御茶ノ水で中央線快速、四ツ谷で丸ノ内線。09:59に新宿三丁目着、387円、乗換2回（Yahoo!路線情報）。",
+     35.69675,
+     139.81396,
+     14
+    ],
+    [
+     "10:10",
+     "新宿ピカデリー に集合",
+     "新宿三丁目駅の近く。発券とトイレはここで。",
+     35.69266,
+     139.70366,
+     16
+    ],
+    [
+     "10:25",
+     "映画 バイオハザード 吹替 10:25〜12:10",
+     "シアター1。R15+。本編94分。公式の表示は終映12:10です。",
+     35.69266,
+     139.70366,
+     16
+    ],
+    [
+     "12:32",
+     "新宿三丁目駅 発",
+     "副都心線急行が西武有楽町線に乗り入れ、石神井公園で西武池袋線に乗り換え。東久留米に13:02着、493円、乗換1回。",
+     35.692525,
+     139.7057682,
+     15
+    ],
+    [
+     "13:15",
+     "東久留米駅東口 から無料シャトルバス",
+     "13:15発（次は13:45）。公式の時刻表に所要時間の記載はなく、西武バスの7分が目安です。",
+     35.7602506,
+     139.5340853,
+     15
+    ],
+    [
+     "13:25",
+     "スパジャポ 到着・入館・昼ごはん",
+     "東京都東久留米市上の原2-7-7。入浴950円、岩盤浴は別料金で950円（どちらも土日祝料金）。タオルセット300円。昼ごはんは館内のグルメ（営業時間は店ごとに違い、公式で確認できていません）。祝日は営業8:00〜深夜1:00。",
+     35.7728786,
+     139.5446358,
+     16
+    ],
+    [
+     "17:40",
+     "退館してシャトルへ",
+     "スパジャポ発 17:40 の東久留米駅行き。入っていられるのは約4時間です。",
+     35.7728786,
+     139.5446358,
+     16
+    ],
+    [
+     "18:20",
+     "東久留米駅 発",
+     "西武池袋線、池袋、山手線、秋葉原、総武線と乗り継いで、錦糸町に19:25着。700円、乗換3回。17:54発なら18:54着ですが、シャトルとの乗り継ぎがぎりぎりです。",
+     35.7602506,
+     139.5340853,
+     15
+    ],
+    [
+     "19:25",
+     "錦糸町駅 着 解散",
+     "",
+     35.69675,
+     139.81396,
+     14
+    ]
+   ],
+   "stops": [],
+   "moves": "移動は電車とシャトルバス。新宿三丁目から東久留米まで30分。経路は Yahoo!路線情報の2026-10-12の検索結果。",
+   "food": [],
+   "good": "映画のあとにサクッと入りたい日。移動より、サウナと食事の時間を取りたい時。",
+   "mind": "シャトルバスは定員があり、満員だと次の便になります。公式サイトに混雑の注意書きがあり、岩盤浴エリアは席に空きがない状態と書かれています。",
+   "links": [
+    [
+     "スパジャポ公式",
+     "https://www.spajapo.com/spa/"
+    ],
+    [
+     "シャトルバス時刻表",
+     "https://www.spajapo.com/f/bus"
+    ],
+    [
+     "利用案内",
+     "https://www.spajapo.com/info/"
+    ]
+   ]
+  },
+  "photos": {
+   "card": {
+    "thumb": "img/spajapo-1.jpg",
+    "title": "スパジャポ 露天風呂（公式サイト掲載）",
+    "lic": "スパジャポ公式サイトより"
+   },
+   "detail": [
+    {
+     "thumb": "img/spajapo-1.jpg",
+     "title": "スパジャポ 露天風呂（公式サイト掲載）",
+     "lic": "スパジャポ公式サイトより"
+    },
+    {
+     "thumb": "img/spajapo-2.jpg",
+     "title": "スパジャポ 露天風呂（公式サイト掲載）",
+     "lic": "スパジャポ公式サイトより"
+    }
+   ],
+   "food": []
+  },
+  "genres": [],
+  "areas": []
+ },
+ {
+  "url": "https://yukitchy.github.io/meshi-1012-7f17fa36/",
+  "guest": "meshi",
+  "date": "2026-10-12",
+  "area": "Shinjuku / Saitama",
+  "status": "proposed",
+  "page": "page",
+  "note": "",
+  "key": "page:B",
+  "course": {
+   "id": "B",
+   "name": "おふろPark おごせ",
+   "tag": "遠いけれど温泉テーマパーク。1日がかり",
+   "chips": [
+    "電車1時間30分",
+    "タクシー前提",
+    "20時前に帰宅"
+   ],
+   "why": "新宿から越生まで電車で約1時間30分。着いてからは水着で入るサウナ3種と大浴場、岩盤浴、レストランまでそろった施設で、午後を丸ごと使います。",
+   "steps": [
+    [
+     "09:34",
+     "ユウキ 錦糸町駅 発",
+     "JR総武線、御茶ノ水で中央線快速、四ツ谷で丸ノ内線。09:59に新宿三丁目着、387円、乗換2回（Yahoo!路線情報）。",
+     35.69675,
+     139.81396,
+     14
+    ],
+    [
+     "10:10",
+     "新宿ピカデリー に集合",
+     "新宿三丁目駅の近く。発券とトイレはここで。",
+     35.69266,
+     139.70366,
+     16
+    ],
+    [
+     "10:25",
+     "映画 バイオハザード 吹替 10:25〜12:10",
+     "シアター1。R15+。本編94分。公式の表示は終映12:10です。",
+     35.69266,
+     139.70366,
+     16
+    ],
+    [
+     "12:24",
+     "新宿三丁目駅 発",
+     "副都心線で池袋へ、東武東上線急行で坂戸、東武越生線に乗り換え。13:52に越生着、921円、乗換2回。終映から14分なので、間に合わなければ12:40に池袋発の東上線が同じ坂戸行きです。",
+     35.692525,
+     139.7057682,
+     15
+    ],
+    [
+     "13:52",
+     "越生駅からタクシー",
+     "公式の案内は車やタクシーで約10分。送迎バスは、時刻表に14:20（越生駅西口）の便がありますが、駅発かどうかが表から読み切れません。確実なのはタクシーです。電話 049-292-7889。",
+     35.9616806,
+     139.2995402,
+     15
+    ],
+    [
+     "14:05",
+     "おふろPark おごせ 到着・入館",
+     "埼玉県入間郡越生町上野3083-1。入館料は土日祝で1,980円（おごせの湯・水着スパ込み）。岩盤浴は+550円で最終受付18:30。水着550円、タオル380円。昼ごはんは館内のレストラン MORINIWA か本館（営業時間は公式ページで確認できていません）。",
+     35.94653357,
+     139.292262977,
+     16
+    ],
+    [
+     "16:00",
+     "水着スパ（サウナ3種）へ",
+     "ユズのキューゲルサウナ、梅のドライサウナ、ハーブのスチームサウナ。水着スパは21:30まで、おごせの湯は22:00まで。",
+     35.94653357,
+     139.292262977,
+     16
+    ],
+    [
+     "18:00",
+     "退館してタクシーで越生駅へ",
+     "18:17発に乗るため、駅に着く10分前までに出ます。",
+     35.9616806,
+     139.2995402,
+     15
+    ],
+    [
+     "18:17",
+     "越生駅 発",
+     "東武越生線、東上線、山手線、総武線と乗り継ぎ。錦糸町に19:53着、1,151円、乗換3回。",
+     35.9616806,
+     139.2995402,
+     15
+    ],
+    [
+     "19:53",
+     "錦糸町駅 着 解散",
+     "",
+     35.69675,
+     139.81396,
+     14
+    ]
+   ],
+   "stops": [],
+   "moves": "移動は電車とタクシー。新宿三丁目から越生まで1時間28分、越生から錦糸町まで約1時間36分。経路は Yahoo!路線情報の2026-10-12の検索結果。",
+   "food": [],
+   "good": "1日使って、サウナも大浴場も岩盤浴も回りたい日。移動の長さを含めて遊びにしたい時。",
+   "mind": "往復3時間かかります。越生駅のタクシー乗り場は公式に記載がありません。サウナは水着着用の共用スパ内にあります。",
+   "links": [
+    [
+     "おふろPark おごせ",
+     "https://opark.jp/ofuropark/"
+    ],
+    [
+     "送迎バス時刻表（PDF）",
+     "https://opark.jp/wordpress/wp-content/themes/opark/pdf/bus_timeline.pdf"
+    ]
+   ]
+  },
+  "photos": {
+   "card": {
+    "thumb": "img/opark-1.jpg",
+    "title": "オーパークおごせ 水着スパ（公式サイト掲載）",
+    "lic": "オーパークおごせ公式サイトより"
+   },
+   "detail": [
+    {
+     "thumb": "img/opark-2.jpg",
+     "title": "オーパークおごせ キューゲルサウナ（公式サイト掲載）",
+     "lic": "オーパークおごせ公式サイトより"
+    },
+    {
+     "thumb": "img/opark-3.jpg",
+     "title": "オーパークおごせ おごせの湯（公式サイト掲載）",
+     "lic": "オーパークおごせ公式サイトより"
+    }
+   ],
+   "food": []
+  },
+  "genres": [],
+  "areas": []
+ },
+ {
+  "url": "https://yukitchy.github.io/meshi-1012-7f17fa36/",
+  "guest": "meshi",
+  "date": "2026-10-12",
+  "area": "Shinjuku / Saitama",
+  "status": "proposed",
+  "page": "page",
+  "note": "",
+  "key": "page:C",
+  "course": {
+   "id": "C",
+   "name": "YUBUNE SAUNA PARK",
+   "tag": "いちばん遠い。モール併設で食事も同じ場所",
+   "chips": [
+    "電車1時間45分",
+    "徒歩23分あり",
+    "21時に帰宅"
+   ],
+   "why": "イオンモール羽生に隣接したサウナ。新宿から1時間46分かかりますが、昼ごはんもサウナもモールの敷地で済みます。水着で入る男女共用のスパです。",
+   "steps": [
+    [
+     "09:34",
+     "ユウキ 錦糸町駅 発",
+     "JR総武線、御茶ノ水で中央線快速、四ツ谷で丸ノ内線。09:59に新宿三丁目着、387円、乗換2回（Yahoo!路線情報）。",
+     35.69675,
+     139.81396,
+     14
+    ],
+    [
+     "10:10",
+     "新宿ピカデリー に集合",
+     "新宿三丁目駅の近く。発券とトイレはここで。",
+     35.69266,
+     139.70366,
+     16
+    ],
+    [
+     "10:25",
+     "映画 バイオハザード 吹替 10:25〜12:10",
+     "シアター1。R15+。本編94分。公式の表示は終映12:10です。",
+     35.69266,
+     139.70366,
+     16
+    ],
+    [
+     "12:32",
+     "新宿三丁目駅 発",
+     "副都心線で池袋へ、湘南新宿ラインで久喜、東武伊勢崎線で南羽生。南羽生から徒歩23分でイオンモール羽生に14:18着。1,305円、乗換2回（Yahoo!路線情報）。",
+     35.692525,
+     139.7057682,
+     15
+    ],
+    [
+     "14:18",
+     "イオンモール羽生 で昼ごはん",
+     "モール内で食事。店は公式で確認できていないので、着いてから選びます。",
+     36.1427176,
+     139.5422609,
+     16
+    ],
+    [
+     "15:00",
+     "YUBUNE SAUNA PARK 入館",
+     "羽生市川崎2-281-7。モール2階西街区の奥の連絡通路から外に出て、1階へ降りるとすぐ。サウナパークプランは休日1,600円（時間無制限）、水着400円か水着とタオルのセット500円。営業10:00〜24:00。",
+     36.14475031,
+     139.53976318,
+     16
+    ],
+    [
+     "19:10",
+     "退館して南羽生駅へ",
+     "モールの前から徒歩23分、19:17発。サウナの時間は約4時間です。",
+     36.1499796,
+     139.5562177,
+     15
+    ],
+    [
+     "19:17",
+     "南羽生駅 発",
+     "東武伊勢崎線、東武動物公園で乗り換え。錦糸町に21:03着、995円、乗換1回。",
+     36.1499796,
+     139.5562177,
+     15
+    ],
+    [
+     "21:03",
+     "錦糸町駅 着 解散",
+     "",
+     35.69675,
+     139.81396,
+     14
+    ]
+   ],
+   "stops": [],
+   "moves": "移動は電車と徒歩。新宿三丁目からモールまで1時間46分、帰りは1時間46分。バスの時刻は公式で確認できていません。経路は Yahoo!路線情報の2026-10-12の検索結果。",
+   "food": [],
+   "good": "移動も含めて1日使い切りたい日。サウナと食事をひとつの場所で済ませたい時。",
+   "mind": "帰りの駅まで徒歩23分で、日没後は暗い道です。往復の電車が長く、乗換もあります。",
+   "links": [
+    [
+     "YUBUNE SAUNA PARK 公式",
+     "https://yubune-sauna-park.com/"
+    ],
+    [
+     "サウナ紹介",
+     "https://yubune-sauna-park.com/enjoy-the-sauna/"
+    ]
+   ]
+  },
+  "photos": {
+   "card": {
+    "thumb": "img/yubune-1.jpg",
+    "title": "YUBUNE SAUNA PARK 屋外プール（公式サイト掲載）",
+    "lic": "YUBUNE SAUNA PARK公式サイトより"
+   },
+   "detail": [
+    {
+     "thumb": "img/yubune-1.jpg",
+     "title": "YUBUNE SAUNA PARK 屋外プール（公式サイト掲載）",
+     "lic": "YUBUNE SAUNA PARK公式サイトより"
+    }
+   ],
+   "food": []
+  },
+  "genres": [
+   "庭園・自然"
+  ],
+  "areas": []
  }
 ]

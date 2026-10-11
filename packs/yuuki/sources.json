@@ -109,5 +109,13 @@
   "area": "Meiji Jingu / Shibuya",
   "status": "done",
   "note": "Confirmed plan (one-page PDF)"
+ },
+ {
+  "repo": "~/meshi-1012/page",
+  "url": "https://yukitchy.github.io/meshi-1012-7f17fa36/",
+  "guest": "meshi",
+  "date": "2026-10-12",
+  "area": "Shinjuku / Saitama",
+  "status": "proposed"
  }
 ]
