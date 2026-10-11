@@ -117,5 +117,13 @@
   "date": "2026-10-12",
   "area": "Shinjuku / Saitama",
   "status": "proposed"
+ },
+ {
+  "repo": "~/perry-akiba-day",
+  "url": "https://yukitchy.github.io/perry-akiba-day/",
+  "guest": "Perry (1)",
+  "date": "2027-01-13",
+  "area": "Akihabara",
+  "status": "proposed"
  }
 ]

@@ -1,0 +1,809 @@
+[
+ {
+  "url": "",
+  "guest": "",
+  "date": "",
+  "area": "Akihabara",
+  "status": "model",
+  "page": "anime-fans",
+  "note": "",
+  "key": "anime-fans:retro",
+  "course": {
+   "id": "retro",
+   "name": "90s Shonen & Retro Games",
+   "tag": "Retro game floors, then the toy and manga floors",
+   "chips": [
+    "Daytime",
+    "Akihabara only",
+    "Lots of floors"
+   ],
+   "why": "For fans who grew up on 1990s shonen series and console games. We stay in Akihabara: the retro game shops, one tall Mandarake building and the toy floors of Radio Kaikan. Good for adults and older kids who like to dig through shelves.",
+   "steps": [
+    [
+     "13:00",
+     "Radio Kaikan",
+     "We meet at the Electric Town Exit, across from the building. We take the lift to the top and work down: cards, figures, dolls and models, about an hour."
+    ],
+    [
+     "14:05",
+     "Super Potato",
+     "Famicom to PlayStation 2 on the 3rd and 4th floors, plus handhelds, Sega and Neo Geo. The 5th floor is a small retro arcade with a rest area."
+    ],
+    [
+     "14:50",
+     "Surugaya Game-kan",
+     "A short walk north. It has the deepest stock, and its website lets you search the shop before you go."
+    ],
+    [
+     "15:30",
+     "Retro Game Camp",
+     "Famicom, Super Famicom, N64, Saturn and Neo Geo. It is two small shops a few doors apart."
+    ],
+    [
+     "16:10",
+     "Mandarake Complex",
+     "Shonen manga and vintage books are on 3F. The toy floors on 6F to 8F cover plastic models, tokusatsu and robots."
+    ]
+   ],
+   "stops": [
+    "Akihabara Radio Kaikan",
+    "Super Potato Akihabara",
+    "Surugaya Akihabara Game-kan",
+    "Retro Game Camp Akihabara",
+    "Mandarake Complex Akihabara"
+   ],
+   "moves": "Everything is within about ten minutes on foot, north of JR Akihabara. We start at the Electric Town Exit and walk away from the station.",
+   "food": [],
+   "good": "Retro games, 1990s series and secondhand toy floors. Mostly indoors, so rain does not matter.",
+   "mind": "Check that a Japanese game runs on your console at home, and on 100 V power, before you buy. Bring some cash for the smaller shops.",
+   "links": [
+    [
+     "Super Potato",
+     "https://www.superpotato.com/shop/akihabara/"
+    ],
+    [
+     "Surugaya Game-kan",
+     "https://www.suruga-ya.jp/feature/realstore/akihabara_game/index.html"
+    ],
+    [
+     "Retro Game Camp",
+     "https://www.retrogamecamp.com/"
+    ],
+    [
+     "Mandarake Complex",
+     "https://www.mandarake.co.jp/dir/cmp/"
+    ]
+   ]
+  },
+  "photos": {
+   "card": {
+    "thumb": "img/retro.jpg",
+    "title": "Display of Ranma, Shampoo, a silver-armoured knight and Sailor Moon figures",
+    "lic": "own photo"
+   },
+   "detail": [],
+   "food": []
+  },
+  "genres": [
+   "アニメ・マンガ",
+   "買い物",
+   "雨の日OK"
+  ],
+  "areas": [
+   "秋葉原・神田・御茶ノ水"
+  ],
+  "fandom": [
+   "Dragon Ball",
+   "Naruto",
+   "One Piece",
+   "Pokémon (games)",
+   "Super Mario",
+   "The Legend of Zelda",
+   "Gundam Wing",
+   "Digimon",
+   "Cowboy Bebop"
+  ],
+  "best_time": "day",
+  "walk": "medium"
+ },
+ {
+  "url": "",
+  "guest": "",
+  "date": "",
+  "area": "Odaiba / Akihabara",
+  "status": "model",
+  "page": "anime-fans",
+  "note": "",
+  "key": "anime-fans:gundam",
+  "course": {
+   "id": "gundam",
+   "name": "Gundam Day",
+   "tag": "Gunpla in Odaiba, kits in Akihabara",
+   "chips": [
+    "Daytime",
+    "Odaiba and Akihabara",
+    "Long train ride"
+   ],
+   "why": "For Gundam fans who build Gunpla. We start at the official Gunpla store in Odaiba, then go to Akihabara for new kits and the shops that sell models. The life-size Unicorn Gundam statue ended its display on 31 August 2026, so the day is built around the shops.",
+   "steps": [
+    [
+     "10:00",
+     "DiverCity Tokyo Plaza",
+     "We meet in Odaiba. The nearest stations are Tokyo Teleport on the Rinkai line and Daiba on the Yurikamome line."
+    ],
+    [
+     "10:20",
+     "The Gundam Base Tokyo",
+     "The official Gunpla complex on the 7th floor, with areas for buying, building and looking. On busy days entry can be limited or by numbered ticket, so we check the store status page that morning."
+    ],
+    [
+     "13:00",
+     "Yodobashi Akiba",
+     "Back in Akihabara, one minute from the station. The 6th floor has new plastic models, tools and figures, and the 8th floor has restaurants if we want lunch first."
+    ],
+    [
+     "14:00",
+     "Yellow Submarine",
+     "On the 6th floor of Radio Kaikan, with plastic models next to figures and cards."
+    ],
+    [
+     "15:00",
+     "Plamodel-kan",
+     "Surugaya's model shop, on the 2nd and 3rd floors. It lists plastic models of all kinds, paints, tools and modelling magazines."
+    ]
+   ],
+   "stops": [
+    "DiverCity Tokyo Plaza",
+    "The Gundam Base Tokyo",
+    "Yodobashi Akiba",
+    "Yellow Submarine Akihabara Radio Kaikan",
+    "Surugaya Plamodel-kan Akihabara"
+   ],
+   "moves": "Odaiba is a long trip from most of Tokyo, so we do it first and spend the afternoon in Akihabara. In Akihabara the three shops are a short walk apart.",
+   "food": [],
+   "good": "Gunpla builders. You see the official store first, then where to buy kits and tools.",
+   "mind": "A new Gundam Base is announced for Shibuya PARCO in November 2026. Odaiba is not worth the trip without the shop, so we pair it with Akihabara.",
+   "links": [
+    [
+     "The Gundam Base Tokyo",
+     "https://www.gundam-base.net/"
+    ],
+    [
+     "Gundam Base store status",
+     "https://www.gundam-base.net/news/10923.html"
+    ],
+    [
+     "Surugaya Plamodel-kan",
+     "https://www.suruga-ya.jp/feature/realstore/akihabara_plamodel/index.html"
+    ]
+   ]
+  },
+  "photos": {
+   "card": {
+    "thumb": "img/gundam.jpg",
+    "title": "Wing Gundam Zero model with white feathered wings in a glass display case",
+    "lic": "own photo"
+   },
+   "detail": [],
+   "food": []
+  },
+  "genres": [
+   "アニメ・マンガ",
+   "買い物"
+  ],
+  "areas": [
+   "築地・豊洲・湾岸",
+   "秋葉原・神田・御茶ノ水"
+  ],
+  "fandom": [
+   "Mobile Suit Gundam",
+   "Gundam Wing",
+   "Gunpla"
+  ],
+  "best_time": "day",
+  "walk": "medium"
+ },
+ {
+  "url": "",
+  "guest": "",
+  "date": "",
+  "area": "Shibuya",
+  "status": "model",
+  "page": "anime-fans",
+  "note": "",
+  "key": "anime-fans:pokemon",
+  "course": {
+   "id": "pokemon",
+   "name": "Pokémon & Nintendo",
+   "tag": "One floor of Shibuya PARCO, plus the Anime Center",
+   "chips": [
+    "Daytime",
+    "Shibuya only",
+    "Good with kids"
+   ],
+   "why": "For Pokémon and Nintendo fans, and for families. Shibuya PARCO has Nintendo TOKYO, Pokémon Center Shibuya and Capcom Store Tokyo on one floor, so there is very little walking. We finish at the Tokyo Anime Center.",
+   "steps": [
+    [
+     "10:00",
+     "Hachikō exit",
+     "We meet at JR Shibuya, Hachikō exit. Shibuya PARCO is about five minutes on foot."
+    ],
+    [
+     "10:20",
+     "Nintendo TOKYO",
+     "Nintendo's own store on the 6th floor. On busy days entry is by numbered ticket, one per person, handed out on the 1st floor before the store opens."
+    ],
+    [
+     "11:15",
+     "Pokémon Center Shibuya",
+     "The official Pokémon store on the same floor. Thirty to forty-five minutes is enough for most people."
+    ],
+    [
+     "12:05",
+     "Capcom Store Tokyo",
+     "Also on the 6th floor. Monster Hunter, Resident Evil and Ace Attorney goods."
+    ],
+    [
+     "12:45",
+     "Tokyo Anime Center",
+     "On the 2nd floor of Shibuya MODI, three minutes from the Hachikō exit. It runs rotating exhibitions and pop-up shops."
+    ]
+   ],
+   "stops": [
+    "Hachiko Statue Shibuya",
+    "Nintendo TOKYO Shibuya PARCO",
+    "Pokémon Center Shibuya",
+    "Capcom Store Tokyo Shibuya PARCO",
+    "Tokyo Anime Center Shibuya MODI"
+   ],
+   "moves": "Everything is on foot. The three stores share the 6th floor of Shibuya PARCO, and the Anime Center is a short walk away.",
+   "food": [],
+   "good": "Pokémon and Nintendo fans of any age. Mostly indoors.",
+   "mind": "New Pokémon card products are sold by advance lottery, not walk-in. The Pokémon Cafe is in Nihombashi, not Shibuya, and takes online reservations only.",
+   "links": [
+    [
+     "Nintendo TOKYO",
+     "https://www.nintendo.com/jp/officialstore/index.html"
+    ],
+    [
+     "Pokémon Center Shibuya",
+     "https://shop.pokemon.co.jp/ja/shop/pokemoncenter-shibuya/"
+    ],
+    [
+     "Tokyo Anime Center",
+     "https://tokyoanimecenter.jp/"
+    ]
+   ]
+  },
+  "photos": {
+   "card": {
+    "thumb": "img/pokemon.jpg",
+    "title": "A hand holding a Pikachu ex trading card",
+    "lic": "own photo"
+   },
+   "detail": [],
+   "food": []
+  },
+  "genres": [
+   "アニメ・マンガ",
+   "買い物",
+   "雨の日OK",
+   "歩き少なめ"
+  ],
+  "areas": [
+   "原宿・渋谷"
+  ],
+  "fandom": [
+   "Pokémon",
+   "Super Mario",
+   "Monster Hunter",
+   "Resident Evil"
+  ],
+  "best_time": "day",
+  "walk": "light"
+ },
+ {
+  "url": "",
+  "guest": "",
+  "date": "",
+  "area": "Mitaka / Tokyo Station",
+  "status": "model",
+  "page": "anime-fans",
+  "note": "",
+  "key": "anime-fans:ghibli",
+  "course": {
+   "id": "ghibli",
+   "name": "Ghibli",
+   "tag": "The museum in Mitaka, then a Ghibli shop at Tokyo Station",
+   "chips": [
+    "Daytime",
+    "Ticket booked ahead",
+    "Easy walking"
+   ],
+   "why": "For Studio Ghibli fans. The museum is small and sells tickets only in advance, for a set date and entry time, so the day is planned around that time. After it we go to a Ghibli shop at Tokyo Station.",
+   "steps": [
+    [
+     "10:00",
+     "Mitaka Station",
+     "JR Chūō line, about 20 minutes from Shinjuku. We meet at the south exit."
+    ],
+    [
+     "10:15",
+     "Inokashira Park",
+     "The museum is inside the park. It is a 15-minute walk from the south exit, or a community bus that runs every 15 minutes."
+    ],
+    [
+     "11:00",
+     "Ghibli Museum",
+     "The entry time on your ticket sets the day. Inside are a hand-made building, the Cat Bus room for children 12 and under, the Robot Soldier on the roof and a short film shown only here."
+    ],
+    [
+     "13:30",
+     "Straw Hat Café",
+     "The museum's café, with a terrace facing the park. We eat here, or in Mitaka before we go in."
+    ],
+    [
+     "15:30",
+     "Donguri Republic",
+     "Ghibli's official goods shop. The Tokyo Station branch is on the B1 level of Tokyo Station Ichibangai, inside Tokyo Character Street."
+    ]
+   ],
+   "stops": [
+    "Mitaka Station",
+    "Inokashira Park",
+    "Ghibli Museum Mitaka",
+    "Straw Hat Café Ghibli Museum",
+    "Donguri Republic Tokyo Station"
+   ],
+   "moves": "Mitaka is on the JR Chūō line. Tokyo Station is on the same line, so we go back without changing.",
+   "food": [],
+   "good": "Ghibli fans who have booked the ticket. A quiet day with a park walk.",
+   "mind": "Overseas visitors buy tickets online through Lawson Ticket, which opens on the 10th of each month for the following month. The official calendar shows which dates are on sale, so we choose the date first.",
+   "links": [
+    [
+     "Ghibli Museum tickets",
+     "https://www.ghibli-museum.jp/en/tickets/"
+    ],
+    [
+     "Ghibli Museum hours and directions",
+     "https://www.ghibli-museum.jp/en/hours-and-directions/"
+    ],
+    [
+     "Donguri Republic shop list",
+     "https://benelic.com/donguri/shop-list/"
+    ]
+   ]
+  },
+  "photos": {
+   "card": {
+    "thumb": "img/ghibli.jpg",
+    "title": "Shelves of pastel plush toys in plastic wrap in a shop (not a Ghibli product)",
+    "lic": "own photo"
+   },
+   "detail": [],
+   "food": []
+  },
+  "genres": [
+   "アニメ・マンガ",
+   "博物館・アート",
+   "庭園・自然"
+  ],
+  "areas": [
+   "中野・吉祥寺・三鷹",
+   "銀座・丸の内・日比谷"
+  ],
+  "fandom": [
+   "Studio Ghibli",
+   "My Neighbor Totoro",
+   "Castle in the Sky",
+   "Porco Rosso"
+  ],
+  "best_time": "day",
+  "walk": "light"
+ },
+ {
+  "url": "",
+  "guest": "",
+  "date": "",
+  "area": "Ikebukuro",
+  "status": "model",
+  "page": "anime-fans",
+  "note": "",
+  "key": "anime-fans:otome",
+  "course": {
+   "id": "otome",
+   "name": "Otome Road & Animate",
+   "tag": "Ikebukuro: Sunshine City, Otome Road and the animate flagship",
+   "chips": [
+    "Day or evening",
+    "Ikebukuro only",
+    "Female-oriented fandoms"
+   ],
+   "why": "For fans of boys' love titles, otome games, idol and voice-actor series, and character goods aimed at women. Otome Road and the animate flagship are the centre of that fandom in Tokyo. Sunshine City first, so everyone in the group has a stop.",
+   "steps": [
+    [
+     "13:00",
+     "Sunshine City",
+     "The Pokémon Center Mega Tokyo and the ONE PIECE Mugiwara Store are both on Alpa 2F, and a Donguri Republic is on Alpa B1F."
+    ],
+    [
+     "14:15",
+     "Otome Road",
+     "The stretch of shops on the west side of Sunshine 60. K-BOOKS runs a family of specialist shops here, each with one speciality: doujinshi, character goods, voice actors, otome games."
+    ],
+    [
+     "15:30",
+     "animate Ikebukuro Flagship Store",
+     "Ten levels, five minutes from the east exit. 3F is shōjo and women's manga and BL, and 5F is character goods."
+    ],
+    [
+     "16:30",
+     "Anime Tokyo Station",
+     "Four minutes from the east exit. It shows how anime is made, with production materials such as cels and special exhibitions that change."
+    ],
+    [
+     "17:30",
+     "Swallowtail",
+     "The butler café run by K-BOOKS. Visits are by advance booking on its website, so this one is optional and needs a booking."
+    ]
+   ],
+   "stops": [
+    "Sunshine City Ikebukuro",
+    "Otome Road Ikebukuro",
+    "animate Ikebukuro Flagship Store",
+    "Anime Tokyo Station Ikebukuro",
+    "Swallowtail Ikebukuro"
+   ],
+   "moves": "Everything is within about ten minutes on foot around Ikebukuro Station. Sunshine City and Otome Road are on the east side, across from each other.",
+   "food": [],
+   "good": "Fans of female-oriented series. Anyone can shop on Otome Road.",
+   "mind": "Swallowtail needs a booking. Anime Tokyo Station changes its exhibitions a few times a year, so we check the current one.",
+   "links": [
+    [
+     "Otome Road, Toshima City",
+     "https://www.city.toshima.lg.jp/424/miryoku/shiru/shotengai/otome-road.html"
+    ],
+    [
+     "animate Ikebukuro Flagship",
+     "https://www.animate.co.jp/shop/ikebukuro/"
+    ],
+    [
+     "Anime Tokyo Station",
+     "https://animetokyo.jp/en/"
+    ]
+   ]
+  },
+  "photos": {
+   "card": {
+    "thumb": "img/otome.jpg",
+    "title": "Jujutsu Kaisen character badges hanging on a K-BOOKS display wall",
+    "lic": "own photo"
+   },
+   "detail": [],
+   "food": []
+  },
+  "genres": [
+   "アニメ・マンガ",
+   "買い物",
+   "博物館・アート",
+   "雨の日OK"
+  ],
+  "areas": [
+   "池袋・巣鴨"
+  ],
+  "fandom": [
+   "Hunter x Hunter",
+   "My Hero Academia",
+   "The Promised Neverland",
+   "Demon Slayer"
+  ],
+  "best_time": "either",
+  "walk": "medium"
+ },
+ {
+  "url": "",
+  "guest": "",
+  "date": "",
+  "area": "Nakano / Akihabara",
+  "status": "model",
+  "page": "anime-fans",
+  "note": "",
+  "key": "anime-fans:nakano",
+  "course": {
+   "id": "nakano",
+   "name": "Collectors' Nakano Broadway",
+   "tag": "Nakano's Mandarake shops, then secondhand shops in Akihabara",
+   "chips": [
+    "Daytime",
+    "Nakano, then Akihabara",
+    "For collectors"
+   ],
+   "why": "For collectors who like to dig. Nakano Broadway has more than thirty small Mandarake shops in one building, and the Akihabara shops give a second look at prices. We start at the top floor and work down.",
+   "steps": [
+    [
+     "13:00",
+     "Nakano Station",
+     "We meet at the north exit. Nakano Broadway is a five-minute walk."
+    ],
+    [
+     "13:15",
+     "Nakano Broadway",
+     "We go straight up to 4F, walk the whole floor, then work down through 3F and 2F. B1 is for food at the end."
+    ],
+    [
+     "14:15",
+     "Mandarake",
+     "Not one store but more than thirty small shops, each with its own speciality. The main shop and the buying counter are on 3F."
+    ],
+    [
+     "15:45",
+     "Surugaya",
+     "Back on the same line to Akihabara. The Main Store sells figures, anime goods and trading cards, and its website lets you compare prices."
+    ],
+    [
+     "16:30",
+     "AKIBA Flags",
+     "Lashinbang's flagship, with secondhand character goods, figures, plush and retro games."
+    ],
+    [
+     "17:15",
+     "Trader",
+     "The main store on Chuo-dori has games and retro games on 1F and 2F, and figures on 3F to 5F."
+    ]
+   ],
+   "stops": [
+    "Nakano Station",
+    "Nakano Broadway",
+    "Mandarake Nakano Broadway",
+    "Surugaya Akihabara Main Store",
+    "Lashinbang AKIBA Flags",
+    "Trader Akihabara main store"
+   ],
+   "moves": "Nakano and Akihabara are on the same train line with no change. Nakano Broadway is one building, and the Akihabara shops are a few minutes apart.",
+   "food": [],
+   "good": "Collectors who know what they are hunting for, and people who like secondhand shops.",
+   "mind": "Shops in Nakano Broadway do not like photos of their interiors, and prices are fixed. Trader says it is not a tax-free shop.",
+   "links": [
+    [
+     "Nakano Broadway",
+     "https://nakano-broadway.com/"
+    ],
+    [
+     "Mandarake Nakano",
+     "https://www.mandarake.co.jp/dir/nkn/"
+    ],
+    [
+     "AKIBA Flags, Lashinbang",
+     "https://www.lashinbang.com/store/13/"
+    ],
+    [
+     "Trader",
+     "https://www.e-trader.jp/trader-shop/"
+    ]
+   ]
+  },
+  "photos": {
+   "card": {
+    "thumb": "img/nakano.jpg",
+    "title": "Hunter x Hunter chibi figures of Alluka, Killua and Hisoka in a glass display case",
+    "lic": "own photo"
+   },
+   "detail": [],
+   "food": []
+  },
+  "genres": [
+   "アニメ・マンガ",
+   "買い物",
+   "雨の日OK"
+  ],
+  "areas": [
+   "中野・吉祥寺・三鷹",
+   "秋葉原・神田・御茶ノ水"
+  ],
+  "fandom": [
+   "Vintage shonen manga",
+   "Tokusatsu",
+   "Magical girl series",
+   "Mecha"
+  ],
+  "best_time": "day",
+  "walk": "medium"
+ },
+ {
+  "url": "",
+  "guest": "",
+  "date": "",
+  "area": "Tokyo Station / Shibuya",
+  "status": "model",
+  "page": "anime-fans",
+  "note": "",
+  "key": "anime-fans:onepiece",
+  "course": {
+   "id": "onepiece",
+   "name": "One Piece & Jump",
+   "tag": "Tokyo Character Street, then Shibuya",
+   "chips": [
+    "Daytime",
+    "Tokyo Station and Shibuya",
+    "Official stores"
+   ],
+   "why": "For One Piece, Dragon Ball and Weekly Shonen Jump fans. There is no Jump Shop or Mugiwara Store in Akihabara, so this day goes to Tokyo Station and Shibuya, where the official stores are.",
+   "steps": [
+    [
+     "13:00",
+     "Tokyo Station",
+     "We meet at the Yaesu North Exit."
+    ],
+    [
+     "13:10",
+     "DRAGON BALL STORE TOKYO",
+     "On the 1st floor of Tokyo Station Ichibangai, one minute from the exit. A Shenron on the ceiling, Goku statues and capsule machines. Entry rules are on the store's website and X account."
+    ],
+    [
+     "14:00",
+     "Tokyo Character Street",
+     "On the B1 level. The Jump Shop and the ONE PIECE Mugiwara Store are both here, which has more than thirty character shops."
+    ],
+    [
+     "15:30",
+     "MAGNET by SHIBUYA109",
+     "We take the train to Shibuya. The Mugiwara Store main store is on 6F, by the scramble crossing, and the ONE PIECE Card Game official shop is on B1F."
+    ],
+    [
+     "16:30",
+     "Shibuya PARCO",
+     "Jump Shop Shibuya is on the 6th floor, with Nintendo TOKYO and Pokémon Center Shibuya."
+    ]
+   ],
+   "stops": [
+    "Tokyo Station Yaesu North Exit",
+    "DRAGON BALL STORE TOKYO",
+    "Tokyo Character Street",
+    "MAGNET by SHIBUYA109",
+    "Shibuya PARCO"
+   ],
+   "moves": "Tokyo Station to Shibuya is one JR Yamanote line ride. Both halves of the day are indoors and close to the station.",
+   "food": [],
+   "good": "One Piece and Dragon Ball fans who want the official stores, not secondhand shops.",
+   "mind": "ONE PIECE Card Game booster packs at the official shops are lottery-only, with one purchase per person per day. Jump goods for other series are at animate in Akihabara.",
+   "links": [
+    [
+     "Jump Shop store list",
+     "https://jumpshop-benelic.com/pages/shop"
+    ],
+    [
+     "ONE PIECE Mugiwara Store",
+     "https://www.mugiwara-store.com/store/"
+    ],
+    [
+     "DRAGON BALL STORE TOKYO",
+     "https://dragon-ball-official.com/news/01_3846.html"
+    ]
+   ]
+  },
+  "photos": {
+   "card": {
+    "thumb": "img/onepiece.jpg",
+    "title": "Shelves of ONE PIECE Card Game starter decks and a card display board in a shop",
+    "lic": "own photo"
+   },
+   "detail": [],
+   "food": []
+  },
+  "genres": [
+   "アニメ・マンガ",
+   "買い物",
+   "雨の日OK",
+   "歩き少なめ"
+  ],
+  "areas": [
+   "銀座・丸の内・日比谷",
+   "原宿・渋谷"
+  ],
+  "fandom": [
+   "One Piece",
+   "Dragon Ball",
+   "Weekly Shonen Jump titles"
+  ],
+  "best_time": "day",
+  "walk": "light"
+ },
+ {
+  "url": "",
+  "guest": "",
+  "date": "",
+  "area": "Akihabara",
+  "status": "model",
+  "page": "anime-fans",
+  "note": "",
+  "key": "anime-fans:night",
+  "course": {
+   "id": "night",
+   "name": "Akihabara After Dark",
+   "tag": "Arcades, gachapon and a late dinner, 18:00 to 22:00",
+   "chips": [
+    "Evening",
+    "Akihabara only",
+    "Adults and teens"
+   ],
+   "why": "For fans who can only come after work, or who want the neon street. Shops start closing in the evening, so this is a games-and-dinner night, not a shopping one. The arcades stay open later than the shops.",
+   "steps": [
+    [
+     "18:00",
+     "Radio Kaikan",
+     "We meet at the Electric Town Exit. A short look at the card floors, not a hunt, because the shops are starting to close. The building posts closure notices on its homepage."
+    ],
+    [
+     "18:40",
+     "GASHAPON Department Store",
+     "Bandai's capsule hall on the 4th floor, with about 500 machines. We agree on the number of turns before the first coin."
+    ],
+    [
+     "19:10",
+     "Taito Station Akihabara",
+     "Crane games on 1F to 3F, and Taiko no Tatsujin on 4F. Rhythm games are on 5F."
+    ],
+    [
+     "20:15",
+     "Don Quijote Akihabara",
+     "On Chuo-dori. Anime collaboration goods are on the sales floors, and the 5th floor has an @home cafe for anyone who wants a maid café hour, which is optional."
+    ],
+    [
+     "21:00",
+     "Shōwa Shokudō",
+     "A set-meal diner three minutes from the Electric Town exit. The ticket machine has an English button. All the main dishes are meat, so it does not work for vegetarians."
+    ]
+   ],
+   "stops": [
+    "Akihabara Radio Kaikan",
+    "GASHAPON Department Store Akihabara",
+    "Taito Station Akihabara",
+    "Don Quijote Akihabara",
+    "Shōwa Shokudō Akihabara"
+   ],
+   "moves": "Everything is within about ten minutes on foot of the Electric Town Exit, mostly along Chuo-dori.",
+   "food": [],
+   "good": "Fans who come after work, and anyone who likes arcades and capsule toys more than shelves.",
+   "mind": "Arcades have age limits after dark. GiGO says children under 16 may not enter from 18:00 without a parent or guardian, so the route suits adults and teenagers.",
+   "links": [
+    [
+     "Taito Station Akihabara",
+     "https://www.taito.co.jp/store/00001802"
+    ],
+    [
+     "GASHAPON Department Store Akihabara",
+     "https://bandainamco-am.co.jp/en/others/capsule-toy-store/store/akihabara/"
+    ],
+    [
+     "Don Quijote Akihabara",
+     "https://www.donki.com/store/shop_detail.php?shop_id=98"
+    ]
+   ]
+  },
+  "photos": {
+   "card": {
+    "thumb": "img/night.jpg",
+    "title": "Two children seen from behind playing a Taiko no Tatsujin drum arcade machine",
+    "lic": "own photo"
+   },
+   "detail": [],
+   "food": []
+  },
+  "genres": [
+   "アニメ・マンガ",
+   "食べ歩き・グルメ",
+   "雨の日OK",
+   "歩き少なめ"
+  ],
+  "areas": [
+   "秋葉原・神田・御茶ノ水"
+  ],
+  "fandom": [
+   "Hatsune Miku",
+   "Pokémon (cards)",
+   "Taiko no Tatsujin"
+  ],
+  "best_time": "evening",
+  "walk": "light"
+ }
+]

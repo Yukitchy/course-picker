@@ -1529,492 +1529,6 @@
   ]
  },
  {
-  "url": "https://yukitchy.github.io/patrick-tokyo-day/",
-  "guest": "Patrick",
-  "date": "2026-10-13",
-  "area": "Tokyo",
-  "status": "proposed",
-  "page": "patrick-tokyo-day",
-  "note": "",
-  "key": "patrick-tokyo-day:A",
-  "course": {
-   "id": "A",
-   "name": "Bows, guitars & metal",
-   "tag": "Kanda, Ochanomizu and Daikanyama",
-   "chips": [
-    "Kyudo shop",
-    "Heavy metal records",
-    "Guitar street"
-   ],
-   "why": "The most metal of the three. The bow shop first, then the guitar street and a whole basement of heavy metal records, then a slower walk in Daikanyama.",
-   "steps": [
-    [
-     "10:00",
-     "Your hotel lobby",
-     "I pick you up. Kanda is about 10 minutes away."
-    ],
-    [
-     "10:15",
-     "Koyama Kyugu, Kanda main store",
-     "Bow maker for over 200 years, with its own workshop for bows, arrows and gloves. You can hold the bows and ask the staff anything. This is the main stop, so we take our time."
-    ],
-    [
-     "11:30",
-     "Walk to Ochanomizu",
-     "About 10 minutes on foot."
-    ],
-    [
-     "11:40",
-     "Ochanomizu guitar street",
-     "Guitar shops one after another along Meidai-dori: new, used and vintage."
-    ],
-    [
-     "12:15",
-     "Disk Union Hard Rock / Heavy Metal store",
-     "A basement shop by Ochanomizu station, only rock and metal. Japanese pressings with the paper obi, new and used."
-    ],
-    [
-     "13:00",
-     "Lunch",
-     "See the picks below. Both are a few minutes from the record shop."
-    ],
-    [
-     "13:50",
-     "Train to Daikanyama",
-     "About 40 minutes. The longest ride of the day."
-    ],
-    [
-     "14:30",
-     "Daikanyama: Tsutaya Books and Log Road",
-     "Quiet streets, a big design bookshop and a garden path on an old rail line."
-    ],
-    [
-     "15:30",
-     "Done",
-     "At Daikanyama station, or I ride back with you."
-    ]
-   ],
-   "stops": [
-    "Mitsui Garden Hotel Nihonbashi Premier",
-    "Koyama Kyugu Kanda",
-    "Kurosawa Gakki Ochanomizu",
-    "Disk Union Ochanomizu Hard Rock Heavy Metal",
-    "Daikanyama T-Site",
-    "Log Road Daikanyama"
-   ],
-   "moves": "Hotel → Kanda about 10 min. Kanda → Ochanomizu 10 min on foot. Ochanomizu → Daikanyama about 40 min by train.",
-   "food": [
-    [
-     "Tsujita Ochanomizu",
-     "Ochanomizu · tsukemen",
-     "Thick noodles you dip in a rich pork and fish broth. Quick and very filling.",
-     "Tsujita Ochanomizu"
-    ],
-    [
-     "Hinoya Curry Ochanomizu",
-     "Ochanomizu · Japanese curry",
-     "Sweet-then-spicy curry with a pork cutlet on top. Counter seats, in and out in 20 minutes.",
-     "Hinoya Curry Ochanomizu"
-    ],
-    [
-     "Ivy Place",
-     "Daikanyama · late lunch or coffee",
-     "Garden restaurant next to Tsutaya Books, if you want to eat later instead.",
-     "Ivy Place Daikanyama"
-    ]
-   ],
-   "good": "Heavy metal and kyudo on the same morning. Everything before lunch is on foot.",
-   "mind": "The metal store opens at 12:00 on weekdays, so the bow shop comes first. One 40-minute train ride to Daikanyama.",
-   "links": [
-    [
-     "Koyama Kyugu",
-     "https://koyama-kyugu.co.jp/store/"
-    ],
-    [
-     "Disk Union Hard Rock / Heavy Metal store",
-     "https://diskunion.net/shop/ochanomizu_metal"
-    ],
-    [
-     "Daikanyama T-Site",
-     "https://store.tsite.jp/daikanyama/access/"
-    ]
-   ]
-  },
-  "photos": {
-   "card": {
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Takamine_Premium_Shop_G-Club_Shibuya.jpg/960px-Takamine_Premium_Shop_G-Club_Shibuya.jpg",
-    "title": "Takamine Premium Shop G-Club Shibuya.jpg",
-    "lic": "CC BY-SA 2.0",
-    "note": "楽器店でギターを弾く人"
-   },
-   "detail": [
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Professor_Inagaki_Genshiro.jpg/960px-Professor_Inagaki_Genshiro.jpg",
-     "title": "Professor Inagaki Genshiro.jpg",
-     "lic": "CC BY-SA 3.0",
-     "note": "袴で会を保つ射手"
-    },
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Guitar_Gallery_Kurosawa%2C_inside_1.jpg/960px-Guitar_Gallery_Kurosawa%2C_inside_1.jpg",
-     "title": "Guitar Gallery Kurosawa, inside 1.jpg",
-     "lic": "CC BY 2.0",
-     "note": "ギターとベースの壁"
-    }
-   ],
-   "food": [
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Shoyu_Tsukemen_%40_Menya_Musashi_%40_Shinjuku_%2812151709383%29.jpg/960px-Shoyu_Tsukemen_%40_Menya_Musashi_%40_Shinjuku_%2812151709383%29.jpg",
-     "title": "Shoyu Tsukemen @ Menya Musashi @ Shinjuku (12151709383).jpg",
-     "lic": "CC BY 2.0",
-     "note": "つけ麺"
-    },
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Chicken_katsu_curry_rice_-_Korpan.jpg/960px-Chicken_katsu_curry_rice_-_Korpan.jpg",
-     "title": "Chicken katsu curry rice - Korpan.jpg",
-     "lic": "CC0",
-     "note": "カツカレー"
-    },
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Daikanyama_T-Site_%2852501525906%29.jpg/960px-Daikanyama_T-Site_%2852501525906%29.jpg",
-     "title": "Daikanyama T-Site (52501525906).jpg",
-     "lic": "CC BY 2.0",
-     "note": "代官山のテラス席"
-    }
-   ]
-  },
-  "genres": [
-   "音楽・ライブ",
-   "買い物",
-   "街歩き",
-   "スポーツ・武道"
-  ],
-  "areas": [
-   "代官山・中目黒",
-   "秋葉原・神田・御茶ノ水"
-  ]
- },
- {
-  "url": "https://yukitchy.github.io/patrick-tokyo-day/",
-  "guest": "Patrick",
-  "date": "2026-10-13",
-  "area": "Tokyo",
-  "status": "proposed",
-  "page": "patrick-tokyo-day",
-  "note": "",
-  "key": "patrick-tokyo-day:B",
-  "course": {
-   "id": "B",
-   "name": "Bows, ramen & wrestling",
-   "tag": "Kanda, Sugamo and Daikanyama",
-   "chips": [
-    "Kyudo shop",
-    "Pro wrestling shop",
-    "Spicy ramen"
-   ],
-   "why": "The bow shop, then a famous spicy ramen, then two floors of pro wrestling goods in Sugamo. It is the day after Ryogoku, so you will have things to look for.",
-   "steps": [
-    [
-     "10:00",
-     "Your hotel lobby",
-     "I pick you up. Kanda is about 10 minutes away."
-    ],
-    [
-     "10:15",
-     "Koyama Kyugu, Kanda main store",
-     "Bow maker for over 200 years, with its own workshop for bows, arrows and gloves. You can hold the bows and ask the staff anything. This is the main stop, so we take our time."
-    ],
-    [
-     "11:20",
-     "Early lunch at Kikanbo",
-     "Spicy miso ramen with chili and Sichuan pepper. We go before 12:00 to skip the line."
-    ],
-    [
-     "12:15",
-     "Train to Sugamo",
-     "About 20 minutes on the Yamanote line."
-    ],
-    [
-     "12:40",
-     "Toudoukan pro wrestling shop",
-     "Two floors of wrestling and MMA goods: masks, signed boards, old programs, DVDs and figures. One minute from the station."
-    ],
-    [
-     "13:45",
-     "Train to Daikanyama",
-     "About 40 minutes."
-    ],
-    [
-     "14:30",
-     "Daikanyama: Tsutaya Books and Log Road",
-     "Quiet streets, a big design bookshop and a garden path on an old rail line."
-    ],
-    [
-     "15:30",
-     "Done",
-     "At Daikanyama station, or I ride back with you."
-    ]
-   ],
-   "stops": [
-    "Mitsui Garden Hotel Nihonbashi Premier",
-    "Koyama Kyugu Kanda",
-    "Kikanbo Kanda",
-    "Toudoukan Sugamo",
-    "Daikanyama T-Site",
-    "Log Road Daikanyama"
-   ],
-   "moves": "Hotel → Kanda about 10 min. Kanda → Sugamo about 20 min by train. Sugamo → Daikanyama about 40 min by train.",
-   "food": [
-    [
-     "Kikanbo Kanda",
-     "Kanda · spicy miso ramen",
-     "Red miso broth with chili and Sichuan pepper. You can ask for it milder.",
-     "Kikanbo Kanda Honten"
-    ],
-    [
-     "Ivy Place",
-     "Daikanyama · late lunch or coffee",
-     "Garden restaurant next to Tsutaya Books, for a second stop in the afternoon.",
-     "Ivy Place Daikanyama"
-    ],
-    [
-     "Garden House Crafts",
-     "Daikanyama · bakery and deli",
-     "Bread, sandwiches and coffee on Log Road. Good for a short break outside.",
-     "Garden House Crafts Daikanyama"
-    ]
-   ],
-   "good": "The wrestling course. Toudoukan is open every day and sells things you will not find at the venue.",
-   "mind": "Two train rides, about 20 and 40 minutes. Kikanbo is spicy, but you can ask for it milder.",
-   "links": [
-    [
-     "Koyama Kyugu",
-     "https://koyama-kyugu.co.jp/store/"
-    ],
-    [
-     "Toudoukan",
-     "https://toudoukan.com/pages/shop-info"
-    ],
-    [
-     "Kikanbo",
-     "https://kikanbo.co.jp/pages/shop"
-    ]
-   ]
-  },
-  "photos": {
-   "card": {
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/20230412GalenoDelMal1.jpg/960px-20230412GalenoDelMal1.jpg",
-    "title": "20230412GalenoDelMal1.jpg",
-    "lic": "CC BY-SA 4.0",
-    "note": "覆面レスラーの試合"
-   },
-   "detail": [
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/2014_Kyudo_World_Cup_19.jpg/960px-2014_Kyudo_World_Cup_19.jpg",
-     "title": "2014 Kyudo World Cup 19.jpg",
-     "lic": "CC BY-SA 4.0",
-     "note": "道場で引く射手"
-    },
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/20221107monstersparty.jpg/960px-20221107monstersparty.jpg",
-     "title": "20221107monstersparty.jpg",
-     "lic": "CC BY-SA 4.0",
-     "note": "レスラー集合"
-    }
-   ],
-   "food": [
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Very_hot_tsukemen_%28close-up%29.jpg/960px-Very_hot_tsukemen_%28close-up%29.jpg",
-     "title": "Very hot tsukemen (close-up).jpg",
-     "lic": "CC BY 2.0",
-     "note": "赤い辛味噌ラーメン"
-    },
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Daikanyama_T-Site_%2852501525906%29.jpg/960px-Daikanyama_T-Site_%2852501525906%29.jpg",
-     "title": "Daikanyama T-Site (52501525906).jpg",
-     "lic": "CC BY 2.0",
-     "note": "代官山のテラス席"
-    },
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/LOG_ROAD_DAIKANYAMA_overview_2018.jpg/960px-LOG_ROAD_DAIKANYAMA_overview_2018.jpg",
-     "title": "LOG ROAD DAIKANYAMA overview 2018.jpg",
-     "lic": "CC BY-SA 4.0",
-     "note": "ログロードのテラス"
-    }
-   ]
-  },
-  "genres": [
-   "買い物",
-   "食べ歩き・グルメ",
-   "街歩き",
-   "スポーツ・武道"
-  ],
-  "areas": [
-   "代官山・中目黒",
-   "秋葉原・神田・御茶ノ水",
-   "池袋・巣鴨"
-  ]
- },
- {
-  "url": "https://yukitchy.github.io/patrick-tokyo-day/",
-  "guest": "Patrick",
-  "date": "2026-10-13",
-  "area": "Tokyo",
-  "status": "proposed",
-  "page": "patrick-tokyo-day",
-  "note": "",
-  "key": "patrick-tokyo-day:C",
-  "course": {
-   "id": "C",
-   "name": "Bows, Daikanyama & Shibuya",
-   "tag": "More time to walk",
-   "chips": [
-    "Kyudo shop",
-    "Longer in Daikanyama",
-    "Rock record store"
-   ],
-   "why": "The bow shop, then straight to Daikanyama for lunch and a slow walk, then downhill to a rock record store in Shibuya. The least train time of the three.",
-   "steps": [
-    [
-     "10:00",
-     "Your hotel lobby",
-     "I pick you up. Kanda is about 10 minutes away."
-    ],
-    [
-     "10:15",
-     "Koyama Kyugu, Kanda main store",
-     "Bow maker for over 200 years, with its own workshop for bows, arrows and gloves. You can hold the bows and ask the staff anything. This is the main stop, so we take our time."
-    ],
-    [
-     "11:30",
-     "Train to Daikanyama",
-     "About 40 minutes."
-    ],
-    [
-     "12:15",
-     "Lunch in Daikanyama",
-     "See the picks below."
-    ],
-    [
-     "13:15",
-     "Tsutaya Books and Log Road",
-     "A big design bookshop with a music floor, and a garden path on an old rail line."
-    ],
-    [
-     "14:15",
-     "Walk down to Shibuya",
-     "About 20 minutes through side streets."
-    ],
-    [
-     "14:35",
-     "Disk Union ROCK IN TOKYO",
-     "Rock records and CDs in Udagawacho, metal included."
-    ],
-    [
-     "15:20",
-     "Done in Shibuya",
-     "Every line stops here, so the evening is easy from wherever you go next."
-    ]
-   ],
-   "stops": [
-    "Mitsui Garden Hotel Nihonbashi Premier",
-    "Koyama Kyugu Kanda",
-    "Daikanyama T-Site",
-    "Log Road Daikanyama",
-    "Disk Union ROCK IN TOKYO Shibuya"
-   ],
-   "moves": "Hotel → Kanda about 10 min. Kanda → Daikanyama about 40 min by train. Daikanyama → Shibuya 20 min on foot.",
-   "food": [
-    [
-     "Ivy Place",
-     "Daikanyama · lunch",
-     "Pasta, burgers and salads in a garden next to Tsutaya Books.",
-     "Ivy Place Daikanyama"
-    ],
-    [
-     "Garden House Crafts",
-     "Daikanyama · bakery and deli",
-     "Bread, sandwiches and coffee on Log Road. Lighter and quicker.",
-     "Garden House Crafts Daikanyama"
-    ],
-    [
-     "Kikanbo Kanda",
-     "Kanda · spicy miso ramen",
-     "If you are hungry early, this is five minutes from the bow shop and opens at 11:00.",
-     "Kikanbo Kanda Honten"
-    ]
-   ],
-   "good": "More time on foot and less on trains. Ends in Shibuya, which is easy for the evening.",
-   "mind": "ROCK IN TOKYO covers all rock, not only metal. The metal-only store is in course A.",
-   "links": [
-    [
-     "Koyama Kyugu",
-     "https://koyama-kyugu.co.jp/store/"
-    ],
-    [
-     "Daikanyama T-Site",
-     "https://store.tsite.jp/daikanyama/access/"
-    ],
-    [
-     "Disk Union ROCK IN TOKYO",
-     "https://diskunion.net/shop/rockintokyo"
-    ]
-   ]
-  },
-  "photos": {
-   "card": {
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Daikanyama_T-Site_%2852501800649%29.jpg/960px-Daikanyama_T-Site_%2852501800649%29.jpg",
-    "title": "Daikanyama T-Site (52501800649).jpg",
-    "lic": "CC BY 2.0",
-    "note": "蔦屋書店で本を見る人"
-   },
-   "detail": [
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Kyudo_Archery_%40_Engaku-ji_Temple_%40_Kita-Kamakura_%289402172048%29.jpg/960px-Kyudo_Archery_%40_Engaku-ji_Temple_%40_Kita-Kamakura_%289402172048%29.jpg",
-     "title": "Kyudo Archery @ Engaku-ji Temple @ Kita-Kamakura (9402172048).jpg",
-     "lic": "CC BY 2.0",
-     "note": "弓が並ぶ射場"
-    },
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Shopping_w_my_family_%283161938477%29.jpg/960px-Shopping_w_my_family_%283161938477%29.jpg",
-     "title": "Shopping w my family (3161938477).jpg",
-     "lic": "CC BY-SA 2.0",
-     "note": "中古レコードの山"
-    }
-   ],
-   "food": [
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Daikanyama_T-Site_%2852501800754%29.jpg/960px-Daikanyama_T-Site_%2852501800754%29.jpg",
-     "title": "Daikanyama T-Site (52501800754).jpg",
-     "lic": "CC BY 2.0",
-     "note": "代官山のテラスに人"
-    },
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/LOG_ROAD_DAIKANYAMA_overview_2018.jpg/960px-LOG_ROAD_DAIKANYAMA_overview_2018.jpg",
-     "title": "LOG ROAD DAIKANYAMA overview 2018.jpg",
-     "lic": "CC BY-SA 4.0",
-     "note": "ログロードのテラス"
-    },
-    {
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Very_hot_tsukemen_%28close-up%29.jpg/960px-Very_hot_tsukemen_%28close-up%29.jpg",
-     "title": "Very hot tsukemen (close-up).jpg",
-     "lic": "CC BY 2.0",
-     "note": "赤い辛味噌ラーメン"
-    }
-   ]
-  },
-  "genres": [
-   "音楽・ライブ",
-   "買い物",
-   "街歩き",
-   "スポーツ・武道"
-  ],
-  "areas": [
-   "原宿・渋谷",
-   "代官山・中目黒",
-   "秋葉原・神田・御茶ノ水"
-  ]
- },
- {
   "url": "https://yukitchy.github.io/ave-mujica-day/",
   "guest": "Ave Mujica live day",
   "date": "2026-10-23",
@@ -2197,7 +1711,7 @@
    "links": [
     [
      "横浜ブルク13",
-     "https://www.kinezo.jp/burg13/"
+     "https://tjoy.jp/yokohama_burg13"
     ],
     [
      "崎陽軒本店",
@@ -2694,7 +2208,7 @@
    "links": [
     [
      "Fujiko F. Fujio Museum",
-     "https://fujiko-museum.com/english/"
+     "https://fujiko-museum.com/english.html"
     ],
     [
      "Luggage forwarding (Yamato)",
@@ -2967,7 +2481,7 @@
     ],
     [
      "Den Den Town",
-     "https://www.denden-town.or.jp/"
+     "https://www.nippombashi.jp/"
     ]
    ]
   },
@@ -3686,26 +3200,10 @@
    "chips": [
     "電車30分",
     "サウナ約4時間",
-    "19時前に帰宅"
+    "18:20 東久留米で解散"
    ],
    "why": "映画館から東久留米まで電車で30分。駅から無料シャトルバスで入館して、昼ごはんも館内で済ませます。3コースでいちばん移動が短く、いちばん気楽です。",
    "steps": [
-    [
-     "09:34",
-     "ユウキ 錦糸町駅 発",
-     "JR総武線、御茶ノ水で中央線快速、四ツ谷で丸ノ内線。09:59に新宿三丁目着、387円、乗換2回（Yahoo!路線情報）。",
-     35.69675,
-     139.81396,
-     14
-    ],
-    [
-     "10:10",
-     "新宿ピカデリー に集合",
-     "新宿三丁目駅の近く。発券とトイレはここで。",
-     35.69266,
-     139.70366,
-     16
-    ],
     [
      "10:25",
      "映画 バイオハザード 吹替 10:25〜12:10",
@@ -3748,19 +3246,11 @@
     ],
     [
      "18:20",
-     "東久留米駅 発",
-     "西武池袋線、池袋、山手線、秋葉原、総武線と乗り継いで、錦糸町に19:25着。700円、乗換3回。17:54発なら18:54着ですが、シャトルとの乗り継ぎがぎりぎりです。",
+     "東久留米駅 解散",
+     "700円、乗換3回。17:54発なら18:54着ですが、シャトルとの乗り継ぎがぎりぎりです。",
      35.7602506,
      139.5340853,
      15
-    ],
-    [
-     "19:25",
-     "錦糸町駅 着 解散",
-     "",
-     35.69675,
-     139.81396,
-     14
     ]
    ],
    "stops": [],
@@ -3822,26 +3312,10 @@
    "chips": [
     "電車1時間30分",
     "タクシー前提",
-    "20時前に帰宅"
+    "18:17 越生で解散"
    ],
    "why": "新宿から越生まで電車で約1時間30分。着いてからは水着で入るサウナ3種と大浴場、岩盤浴、レストランまでそろった施設で、午後を丸ごと使います。",
    "steps": [
-    [
-     "09:34",
-     "ユウキ 錦糸町駅 発",
-     "JR総武線、御茶ノ水で中央線快速、四ツ谷で丸ノ内線。09:59に新宿三丁目着、387円、乗換2回（Yahoo!路線情報）。",
-     35.69675,
-     139.81396,
-     14
-    ],
-    [
-     "10:10",
-     "新宿ピカデリー に集合",
-     "新宿三丁目駅の近く。発券とトイレはここで。",
-     35.69266,
-     139.70366,
-     16
-    ],
     [
      "10:25",
      "映画 バイオハザード 吹替 10:25〜12:10",
@@ -3892,23 +3366,15 @@
     ],
     [
      "18:17",
-     "越生駅 発",
-     "東武越生線、東上線、山手線、総武線と乗り継ぎ。錦糸町に19:53着、1,151円、乗換3回。",
+     "越生駅 解散",
+     "東武越生線、東上線、山手線、総武線と乗り継ぎ。",
      35.9616806,
      139.2995402,
      15
-    ],
-    [
-     "19:53",
-     "錦糸町駅 着 解散",
-     "",
-     35.69675,
-     139.81396,
-     14
     ]
    ],
    "stops": [],
-   "moves": "移動は電車とタクシー。新宿三丁目から越生まで1時間28分、越生から錦糸町まで約1時間36分。経路は Yahoo!路線情報の2026-10-12の検索結果。",
+   "moves": "移動は電車とタクシー。経路は Yahoo!路線情報の2026-10-12の検索結果。",
    "food": [],
    "good": "1日使って、サウナも大浴場も岩盤浴も回りたい日。移動の長さを含めて遊びにしたい時。",
    "mind": "往復3時間かかります。越生駅のタクシー乗り場は公式に記載がありません。サウナは水着着用の共用スパ内にあります。",
@@ -3962,26 +3428,10 @@
    "chips": [
     "電車1時間45分",
     "徒歩23分あり",
-    "21時に帰宅"
+    "19:17 南羽生で解散"
    ],
    "why": "イオンモール羽生に隣接したサウナ。新宿から1時間46分かかりますが、昼ごはんもサウナもモールの敷地で済みます。水着で入る男女共用のスパです。",
    "steps": [
-    [
-     "09:34",
-     "ユウキ 錦糸町駅 発",
-     "JR総武線、御茶ノ水で中央線快速、四ツ谷で丸ノ内線。09:59に新宿三丁目着、387円、乗換2回（Yahoo!路線情報）。",
-     35.69675,
-     139.81396,
-     14
-    ],
-    [
-     "10:10",
-     "新宿ピカデリー に集合",
-     "新宿三丁目駅の近く。発券とトイレはここで。",
-     35.69266,
-     139.70366,
-     16
-    ],
     [
      "10:25",
      "映画 バイオハザード 吹替 10:25〜12:10",
@@ -4015,28 +3465,20 @@
      16
     ],
     [
-     "19:10",
+     "18:50",
      "退館して南羽生駅へ",
-     "モールの前から徒歩23分、19:17発。サウナの時間は約4時間です。",
+     "モールの前から徒歩23分で19:17発に乗ります。サウナの時間は約4時間です。",
      36.1499796,
      139.5562177,
      15
     ],
     [
      "19:17",
-     "南羽生駅 発",
-     "東武伊勢崎線、東武動物公園で乗り換え。錦糸町に21:03着、995円、乗換1回。",
+     "南羽生駅 解散",
+     "東武伊勢崎線、東武動物公園で乗り換え。",
      36.1499796,
      139.5562177,
      15
-    ],
-    [
-     "21:03",
-     "錦糸町駅 着 解散",
-     "",
-     35.69675,
-     139.81396,
-     14
     ]
    ],
    "stops": [],
@@ -4074,5 +3516,326 @@
    "庭園・自然"
   ],
   "areas": []
+ },
+ {
+  "url": "https://yukitchy.github.io/perry-akiba-day/",
+  "guest": "Perry (1)",
+  "date": "2027-01-13",
+  "area": "Akihabara",
+  "status": "proposed",
+  "page": "perry-akiba-day",
+  "note": "",
+  "key": "perry-akiba-day:A",
+  "course": {
+   "id": "A",
+   "name": "Akihabara core: 3 hours",
+   "tag": "Retro games, old manga and toys, close to the station",
+   "chips": [
+    "3 hours",
+    "Akihabara only",
+    "Light walking"
+   ],
+   "why": "For the first day after the flight. Three stops, short walks, and a place to sit on the top floor of Super Potato. It is built around the 1990s shonen and game shelves, which suits Dragon Ball Z, Digimon, Cowboy Bebop, Mario and Zelda.",
+   "steps": [
+    [
+     "10:00",
+     "Akihabara Station, Electric Town exit",
+     "We meet here. Radio Kaikan is across the street, so there is almost no walking to start. If you are tired, tell me and we slow down."
+    ],
+    [
+     "10:10",
+     "Akihabara Radio Kaikan",
+     "Ten floors facing the station. We take the lift to the top and walk down. Figures and toys are on 3F to 7F, and K-BOOKS is on 3F."
+    ],
+    [
+     "11:00",
+     "Super Potato Akihabara",
+     "Famicom to PlayStation 2 on the 3rd and 4th floors, plus handhelds and Sega. The early Mario and Zelda games are on the Famicom and Super Famicom shelves. The 5th floor is a small retro arcade with a place to sit."
+    ],
+    [
+     "12:00",
+     "Mandarake Complex Akihabara",
+     "Boys' manga and vintage books on 3F. Toys on 6F to 8F, with Chogokin on 7F and robots on 8F. Stock changes every week, so we see what is there that day. We finish here at 13:00."
+    ]
+   ],
+   "stops": [
+    "Akihabara Station Electric Town Exit",
+    "Akihabara Radio Kaikan",
+    "Super Potato Akihabara",
+    "Mandarake Complex Akihabara"
+   ],
+   "moves": "All on foot, about ten minutes at most between shops. Radio Kaikan is across the street from the station, and Mandarake is about four minutes from the Electric Town exit.",
+   "food": [],
+   "good": "A slow first day: a few shops, one tall building of toys, and somewhere to sit.",
+   "mind": "Check that a Japanese game runs on your console at home, and on 100 V power, before you buy. A Famicom cartridge does not fit an NES without an adapter.",
+   "links": [
+    [
+     "Radio Kaikan",
+     "https://akihabara-radiokaikan.co.jp/"
+    ],
+    [
+     "Super Potato",
+     "https://www.superpotato.com/shop/akihabara/"
+    ],
+    [
+     "Mandarake Complex",
+     "https://www.mandarake.co.jp/dir/cmp/"
+    ]
+   ]
+  },
+  "photos": {
+   "card": {
+    "thumb": "img/retro.jpg",
+    "title": "Display of Ranma, Shampoo, a silver-armoured knight and Sailor Moon figures",
+    "lic": "own photo"
+   },
+   "detail": [],
+   "food": []
+  },
+  "genres": [
+   "アニメ・マンガ",
+   "買い物"
+  ],
+  "areas": [
+   "秋葉原・神田・御茶ノ水"
+  ]
+ },
+ {
+  "url": "https://yukitchy.github.io/perry-akiba-day/",
+  "guest": "Perry (1)",
+  "date": "2027-01-13",
+  "area": "Akihabara",
+  "status": "proposed",
+  "page": "perry-akiba-day",
+  "note": "",
+  "key": "perry-akiba-day:B",
+  "course": {
+   "id": "B",
+   "name": "Akihabara deep: 5 hours",
+   "tag": "Gunpla and model shops, retro games, lunch and Mandarake",
+   "chips": [
+    "5 hours",
+    "Akihabara only",
+    "Lunch included"
+   ],
+   "why": "For the most of Akihabara in one day. It keeps everything in course A and adds the Gunpla and model shops, a sit-down lunch and a longer stay at Mandarake. Good if Gundam Wing is high on the list.",
+   "steps": [
+    [
+     "10:00",
+     "Akihabara Station, Electric Town exit",
+     "We meet here. Yodobashi is one minute away, so the first shop is almost at the door."
+    ],
+    [
+     "10:05",
+     "Yodobashi Akiba",
+     "Plastic models, modelling tools, figures and games are all on the 6th floor. A good first look at the current Gunpla kits."
+    ],
+    [
+     "10:55",
+     "Akihabara Radio Kaikan",
+     "Ten floors facing the station. Kaiyodo is on 5F, Yellow Submarine with its model kits on 6F, and Volks on 8F. We take the lift to the top and walk down."
+    ],
+    [
+     "11:45",
+     "Super Potato Akihabara",
+     "Famicom to PlayStation 2 on the 3rd and 4th floors, plus handhelds and Sega. The 5th floor is a small retro arcade with a place to sit."
+    ],
+    [
+     "12:25",
+     "Kotobukiya Akihabara-kan",
+     "The figure and model kit maker's own shop. It sells new releases and shop-only items, and the pop-ups change, so we see what is on that week."
+    ],
+    [
+     "12:55",
+     "Lunch at Go!Go!Curry",
+     "Kanazawa curry: a pork cutlet on a dark, thick roux, eaten at the counter. It is quick and close to the station. If you would rather sit down for a steak, Juke Steak serves lunch and I can swap it in."
+    ],
+    [
+     "13:40",
+     "Mandarake Complex Akihabara",
+     "Boys' manga and vintage books on 3F. Toys on 6F to 8F, with Chogokin on 7F and robots on 8F. Stock changes every week, so we see what is there that day."
+    ],
+    [
+     "14:30",
+     "Volks Hobby Tengoku 2",
+     "Seven floors of kits, figures and goods. Volks's own kits are on 4F, and the 6th and 7th floors host pop-up events that change. We finish here around 15:00."
+    ]
+   ],
+   "stops": [
+    "Akihabara Station Electric Town Exit",
+    "Yodobashi Akiba",
+    "Akihabara Radio Kaikan",
+    "Super Potato Akihabara",
+    "Kotobukiya Akihabara-kan",
+    "Go!Go!Curry Akihabara",
+    "Mandarake Complex Akihabara",
+    "Volks Hobby Tengoku 2 Akihabara"
+   ],
+   "moves": "All on foot. Most legs are short, and the longest is from lunch to Mandarake. We work from the station south to Kotobukiya, then north.",
+   "food": [],
+   "good": "Gunpla and figure fans who want the whole district in one day, with a proper lunch in the middle.",
+   "mind": "Go!Go!Curry takes cash only, so bring some for the smaller shops too. The Dragon Ball Store is not in Akihabara: it is on the 1st floor of Tokyo Station Ichibangai, two stops away, and I can add it if you want it.",
+   "links": [
+    [
+     "Yodobashi Akiba",
+     "https://www.yodobashi-akiba.com/"
+    ],
+    [
+     "Kotobukiya",
+     "https://www.kotobukiya.co.jp/kotobukiya-shop/"
+    ],
+    [
+     "Volks Hobby Tengoku 2",
+     "https://hobby.volks.co.jp/shop/hobbytengoku2/"
+    ],
+    [
+     "Mandarake Complex",
+     "https://www.mandarake.co.jp/dir/cmp/"
+    ],
+    [
+     "Super Potato",
+     "https://www.superpotato.com/shop/akihabara/"
+    ]
+   ]
+  },
+  "photos": {
+   "card": {
+    "thumb": "img/gundam.jpg",
+    "title": "Wing Gundam Zero model with white feathered wings in a glass display case",
+    "lic": "own photo"
+   },
+   "detail": [
+    {
+     "thumb": "img/extra-4.jpg",
+     "title": "Life-size RX-78-2 Gundam statue beside a red carpet in a Gundam kit shop, glass cases of kits behind",
+     "lic": "own photo"
+    }
+   ],
+   "food": []
+  },
+  "genres": [
+   "アニメ・マンガ",
+   "買い物"
+  ],
+  "areas": [
+   "秋葉原・神田・御茶ノ水"
+  ]
+ },
+ {
+  "url": "https://yukitchy.github.io/perry-akiba-day/",
+  "guest": "Perry (1)",
+  "date": "2027-01-13",
+  "area": "Akihabara",
+  "status": "proposed",
+  "page": "perry-akiba-day",
+  "note": "",
+  "key": "perry-akiba-day:C",
+  "course": {
+   "id": "C",
+   "name": "Akihabara and Shibuya: full day",
+   "tag": "Akihabara in the morning, Nintendo and Pokémon in the afternoon",
+   "chips": [
+    "Full day",
+    "Akihabara + Shibuya",
+    "One train ride"
+   ],
+   "why": "For both worlds. The morning is the short version of course A, and the afternoon is Shibuya for Mario, Zelda and Pokémon, with Nintendo TOKYO and the Pokémon Center on one floor.",
+   "steps": [
+    [
+     "10:00",
+     "Akihabara Station, Electric Town exit",
+     "We meet here. Radio Kaikan is across the street."
+    ],
+    [
+     "10:10",
+     "Akihabara Radio Kaikan",
+     "Ten floors facing the station. We take the lift to the top and walk down. Figures and toys are on 3F to 7F."
+    ],
+    [
+     "11:00",
+     "Super Potato Akihabara",
+     "Famicom to PlayStation 2 on the 3rd and 4th floors. The early Mario and Zelda games are on the Famicom and Super Famicom shelves. The 5th floor is a small retro arcade."
+    ],
+    [
+     "11:55",
+     "Lunch at Go!Go!Curry",
+     "Kanazawa curry at the counter, quick and close to the station. An early lunch, so we are not hunting for food in Shibuya."
+    ],
+    [
+     "12:40",
+     "Train from Akihabara to Shibuya",
+     "About 30 to 40 minutes by train. I ride with you and tell you which line to take."
+    ],
+    [
+     "13:30",
+     "Nintendo TOKYO",
+     "Nintendo's own store on the 6th floor of Shibuya PARCO, five minutes on foot from Shibuya Station. On busy days entry is by numbered ticket, and a weekday is calmer. I check the store's page that morning."
+    ],
+    [
+     "14:35",
+     "Pokémon Center Shibuya",
+     "The official Pokémon store, on the same floor. Thirty to forty-five minutes is enough for most people."
+    ],
+    [
+     "15:25",
+     "Jump Shop Shibuya",
+     "Official Weekly Shonen Jump goods, also on the 6th floor. Dragon Ball is one of the series the Jump Shops cover, and what is in stock changes."
+    ],
+    [
+     "16:00",
+     "Mandarake Shibuya",
+     "One basement floor in the Shibuya BEAM building, five minutes from the Hachikō exit. Shonen comics, vintage comics and toys. We finish here around 17:00."
+    ]
+   ],
+   "stops": [
+    "Akihabara Station Electric Town Exit",
+    "Akihabara Radio Kaikan",
+    "Super Potato Akihabara",
+    "Go!Go!Curry Akihabara",
+    "Shibuya Station",
+    "Nintendo TOKYO Shibuya PARCO",
+    "Pokémon Center Shibuya",
+    "Mandarake Shibuya"
+   ],
+   "moves": "Akihabara on foot in the morning, then one train ride of about 30 to 40 minutes. In Shibuya the three PARCO stores share one floor, and Mandarake is a five-minute walk away.",
+   "food": [],
+   "good": "Nintendo and Pokémon fans who also want the Akihabara shelves, and do not mind one train ride.",
+   "mind": "Shibuya PARCO has irregular closing days, so I check its calendar the week before. New Pokémon card products are sold by advance lottery, so sealed packs are unlikely, but the store is worth it for everything else. A Gundam Base is announced for the 5th floor of the same building from November 2026, and I will check whether it has opened.",
+   "links": [
+    [
+     "Nintendo TOKYO",
+     "https://www.nintendo.com/jp/officialstore/index.html"
+    ],
+    [
+     "Pokémon Center Shibuya",
+     "https://shop.pokemon.co.jp/ja/shop/pokemoncenter-shibuya/"
+    ],
+    [
+     "Shibuya PARCO",
+     "https://shibuya.parco.jp/info/"
+    ],
+    [
+     "Mandarake Shibuya",
+     "https://www.mandarake.co.jp/dir/sby/"
+    ]
+   ]
+  },
+  "photos": {
+   "card": {
+    "thumb": "img/pokemon.jpg",
+    "title": "A hand holding a Pikachu ex trading card",
+    "lic": "own photo"
+   },
+   "detail": [],
+   "food": []
+  },
+  "genres": [
+   "アニメ・マンガ",
+   "買い物"
+  ],
+  "areas": [
+   "原宿・渋谷",
+   "秋葉原・神田・御茶ノ水"
+  ]
  }
 ]
