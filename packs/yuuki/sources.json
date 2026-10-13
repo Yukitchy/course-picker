@@ -1,129 +1,138 @@
 [
- {
-  "repo": "~/tokyo-arrival-day",
-  "url": "https://yukitchy.github.io/tokyo-arrival-day/",
-  "guest": "Katz family (5)",
-  "date": "2026-12-21",
-  "area": "Tokyo",
-  "status": "proposed"
- },
- {
-  "repo": "~/shibuya-walk",
-  "url": "https://yukitchy.github.io/shibuya-walk/",
-  "guest": "Tree",
-  "date": "2026-10-09",
-  "area": "Shibuya",
-  "status": "decided:C"
- },
- {
-  "repo": "~/rick-tokyo",
-  "url": "https://yukitchy.github.io/ginza-days/",
-  "guest": "Rick & Linda",
-  "date": "2026-10-04",
-  "area": "Tokyo",
-  "status": "proposed",
-  "note": "Oct 4-7"
- },
- {
-  "repo": "~/rick-tokyo-sunday",
-  "url": "https://yukitchy.github.io/rick-tokyo-sunday/",
-  "guest": "Rick & Linda",
-  "date": "2026-09-20",
-  "area": "Tokyo",
-  "status": "proposed",
-  "note": "Sep 20 and Oct 6"
- },
- {
-  "repo": "~/rick-tokyo-oct5",
-  "url": "https://yukitchy.github.io/rick-tokyo-oct5/",
-  "guest": "Rick & Linda",
-  "date": "2026-10-05",
-  "area": "Tokyo",
-  "status": "proposed",
-  "note": "Oct 5-6"
- },
- {
-  "repo": "~/patrick-tokyo-day",
-  "url": "https://yukitchy.github.io/patrick-tokyo-day/",
-  "guest": "Patrick",
-  "date": "2026-10-13",
-  "area": "Tokyo",
-  "status": "proposed"
- },
- {
-  "repo": "~/ave-mujica-day",
-  "url": "https://yukitchy.github.io/ave-mujica-day/",
-  "guest": "Ave Mujica live day",
-  "date": "2026-10-23",
-  "area": "Yokohama",
-  "status": "decided:C"
- },
- {
-  "repo": "~/manga-week",
-  "url": "https://yukitchy.github.io/manga-week/",
-  "guest": "Indochina manga tour",
-  "date": "",
-  "area": "Tokyo / Kyoto / Osaka",
-  "status": "proposed"
- },
- {
-  "repo": "~/tokyo-liberta-day",
-  "url": "https://yukitchy.github.io/tokyo-liberta-day/",
-  "guest": "Brian & Dashiell",
-  "date": "2026-09-11",
-  "area": "Tokyo",
-  "status": "done",
-  "name": "Tokyo, September 11: Brian and Dashiell"
- },
- {
-  "repo": "~/workspace/sakatsu",
-  "url": "https://yukitchy.github.io/sakatsu/",
-  "guest": "めしあぴ",
-  "date": "2026-09-10",
-  "area": "Shinjuku",
-  "status": "done",
-  "page_only": true
- },
- {
-  "repo": "~/ikebukuro-fan-day",
-  "url": "https://yukitchy.github.io/ikebukuro-fan-day/",
-  "guest": "Nicholas and family (3)",
-  "date": "2026-12-20",
-  "area": "Ikebukuro",
-  "status": "proposed"
- },
- {
-  "repo": "~/rick-oct5-plan",
-  "url": "https://yukitchy.github.io/rick-oct5-plan/",
-  "guest": "Rick & Linda",
-  "date": "2026-10-05",
-  "area": "Toyosu / Tsukiji / Ginza",
-  "status": "done",
-  "note": "Confirmed plan (one-page PDF)"
- },
- {
-  "repo": "~/rick-oct6-plan",
-  "url": "https://yukitchy.github.io/rick-oct6-plan/",
-  "guest": "Rick & Linda",
-  "date": "2026-10-06",
-  "area": "Meiji Jingu / Shibuya",
-  "status": "done",
-  "note": "Confirmed plan (one-page PDF)"
- },
- {
-  "repo": "~/meshi-1012/page",
-  "url": "https://yukitchy.github.io/meshi-1012-7f17fa36/",
-  "guest": "meshi",
-  "date": "2026-10-12",
-  "area": "Shinjuku / Saitama",
-  "status": "proposed"
- },
- {
-  "repo": "~/perry-akiba-day",
-  "url": "https://yukitchy.github.io/perry-akiba-day/",
-  "guest": "Perry (1)",
-  "date": "2027-01-13",
-  "area": "Akihabara",
-  "status": "proposed"
- }
+  {
+    "repo": "~/tokyo-arrival-day",
+    "url": "https://yukitchy.github.io/tokyo-arrival-day/",
+    "guest": "Katz family (5)",
+    "date": "2026-12-21",
+    "area": "Tokyo",
+    "status": "proposed"
+  },
+  {
+    "repo": "~/shibuya-walk",
+    "url": "https://yukitchy.github.io/shibuya-walk/",
+    "guest": "Tree",
+    "date": "2026-10-09",
+    "area": "Shibuya",
+    "status": "decided:C"
+  },
+  {
+    "repo": "~/rick-tokyo",
+    "url": "https://yukitchy.github.io/ginza-days/",
+    "guest": "Rick & Linda",
+    "date": "2026-10-04",
+    "area": "Tokyo",
+    "status": "proposed",
+    "note": "Oct 4-7"
+  },
+  {
+    "repo": "~/rick-tokyo-sunday",
+    "url": "https://yukitchy.github.io/rick-tokyo-sunday/",
+    "guest": "Rick & Linda",
+    "date": "2026-09-20",
+    "area": "Tokyo",
+    "status": "proposed",
+    "note": "Sep 20 and Oct 6"
+  },
+  {
+    "repo": "~/rick-tokyo-oct5",
+    "url": "https://yukitchy.github.io/rick-tokyo-oct5/",
+    "guest": "Rick & Linda",
+    "date": "2026-10-05",
+    "area": "Tokyo",
+    "status": "proposed",
+    "note": "Oct 5-6"
+  },
+  {
+    "repo": "~/patrick-tokyo-day",
+    "url": "https://yukitchy.github.io/patrick-tokyo-day/",
+    "guest": "Patrick",
+    "date": "2026-10-13",
+    "area": "Tokyo",
+    "status": "proposed"
+  },
+  {
+    "repo": "~/ave-mujica-day",
+    "url": "https://yukitchy.github.io/ave-mujica-day/",
+    "guest": "Ave Mujica live day",
+    "date": "2026-10-23",
+    "area": "Yokohama",
+    "status": "decided:C"
+  },
+  {
+    "repo": "~/manga-week",
+    "url": "https://yukitchy.github.io/manga-week/",
+    "guest": "Indochina manga tour",
+    "date": "",
+    "area": "Tokyo / Kyoto / Osaka",
+    "status": "proposed"
+  },
+  {
+    "repo": "~/tokyo-liberta-day",
+    "url": "https://yukitchy.github.io/tokyo-liberta-day/",
+    "guest": "Brian & Dashiell",
+    "date": "2026-09-11",
+    "area": "Tokyo",
+    "status": "done",
+    "name": "Tokyo, September 11: Brian and Dashiell"
+  },
+  {
+    "repo": "~/workspace/sakatsu",
+    "url": "https://yukitchy.github.io/sakatsu/",
+    "guest": "めしあぴ",
+    "date": "2026-09-10",
+    "area": "Shinjuku",
+    "status": "done",
+    "page_only": true
+  },
+  {
+    "repo": "~/ikebukuro-fan-day",
+    "url": "https://yukitchy.github.io/ikebukuro-fan-day/",
+    "guest": "Nicholas and family (3)",
+    "date": "2026-12-20",
+    "area": "Ikebukuro",
+    "status": "proposed"
+  },
+  {
+    "repo": "~/rick-oct5-plan",
+    "url": "https://yukitchy.github.io/rick-oct5-plan/",
+    "guest": "Rick & Linda",
+    "date": "2026-10-05",
+    "area": "Toyosu / Tsukiji / Ginza",
+    "status": "done",
+    "note": "Confirmed plan (one-page PDF)"
+  },
+  {
+    "repo": "~/rick-oct6-plan",
+    "url": "https://yukitchy.github.io/rick-oct6-plan/",
+    "guest": "Rick & Linda",
+    "date": "2026-10-06",
+    "area": "Meiji Jingu / Shibuya",
+    "status": "done",
+    "note": "Confirmed plan (one-page PDF)"
+  },
+  {
+    "repo": "~/meshi-1012/page",
+    "url": "https://yukitchy.github.io/meshi-1012-7f17fa36/",
+    "guest": "meshi",
+    "date": "2026-10-12",
+    "area": "Shinjuku / Saitama",
+    "status": "proposed"
+  },
+  {
+    "repo": "~/perry-akiba-day",
+    "url": "https://yukitchy.github.io/perry-akiba-day/",
+    "guest": "Perry (1)",
+    "date": "2027-01-13",
+    "area": "Akihabara",
+    "status": "proposed"
+  },
+  {
+    "repo": "~/akiba-3plans-sample",
+    "url": "https://yukitchy.github.io/akiba-3plans-sample/",
+    "guest": "Generic sample (sent to TOKI 2026-10-13)",
+    "date": "",
+    "area": "Akihabara",
+    "status": "sample",
+    "note": "Cecilia-akiba-dayを汎用化。B2B問い合わせ(TOKI等)に「3パターン例」として使い回す用"
+  }
 ]
