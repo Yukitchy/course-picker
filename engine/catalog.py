@@ -21,8 +21,11 @@ def card(r):
                 f'<span class="cb"><span class="meta">{e(r["area"])} · {e(r["guest"])} · {e(r["date"])}</span>'
                 f'<strong>{e(r["page"])}</strong><span class="tag">ページのみ（コースデータなし）</span></span></a>')
     img = ((r.get('photos') or {}).get('card') or {}).get('thumb', '')
-    st = r.get('status', ''); dec = st.startswith('decided') and (st == 'decided' or st.endswith(':' + str(c.get('id'))))
-    badge = ST['decided'] if dec else ST.get(st.split(':')[0], st)
+    st = r.get('status', ''); base = st.split(':', 1)[0]
+    dec = base == 'decided' and (st == 'decided' or st.endswith(':' + str(c.get('id'))))
+    # decided:<id> 形式はそのページの他コース(非選択)にも base=='decided' が付くので、
+    # 選ばれていないコースは「提案」扱いに落とす(全コースが「決定」と誤表示されるのを防ぐ)
+    badge = ST.get(base, st) if (dec or base != 'decided') else ST.get('proposed', '提案')
     chips = ''.join(f'<li>{e(x)}</li>' for x in c.get('chips', []) if not PRICE.search(x))
     gl = ''.join(f'<span>{e(g)}</span>' for g in r.get('genres', []))
     stops = ' → '.join(e(x) for x in c.get('stops', [])[1:5])

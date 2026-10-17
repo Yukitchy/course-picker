@@ -8,9 +8,13 @@ PH = json.load(open('photos.json'))
 gm = lambda q: 'https://www.google.com/maps/search/?api=1&query=' + q.replace(' ', '+')
 emb = lambda q: 'https://maps.google.com/maps?q=' + q.replace(' ', '+') + '&output=embed&z=12'
 def route_emb(stops):
+    if not stops:
+        return ''
     s = [x.replace(' ', '+') for x in stops]
     return 'https://maps.google.com/maps?saddr=' + s[0] + '&daddr=' + '+to:'.join(s[1:]) + '&output=embed'
 def route_link(stops):
+    if not stops:
+        return ''
     s = [x.replace(' ', '+') for x in stops]
     return ('https://www.google.com/maps/dir/?api=1&origin=' + s[0] + '&destination=' + s[-1]
             + ('&waypoints=' + '%7C'.join(s[1:-1]) if len(s) > 2 else '') + '&travelmode=transit')
@@ -33,7 +37,7 @@ def menu(c):
 
 def detail(c):
     ph = ''.join(f'<img src="{x["thumb"]}" alt="{html.escape(x["title"])}" loading="lazy">' for x in PH[c['id']]['detail'])
-    st = ''.join(f'<li><b>{t}</b><div><strong>{h}</strong><span>{d}</span></div></li>' for t, h, d in c['steps'])
+    st = ''.join(f'<li><b>{t}</b><div><strong>{h}</strong><span>{d}</span></div></li>' for t, h, d, *_ in c['steps'])
     fd = ''.join(f'<a class="eat" href="{gm(q)}" target="_blank" rel="noopener">'
                  f'<img src="{im["thumb"]}" alt="{html.escape(im["title"])}" loading="lazy">'
                  f'<span class="eb"><strong>{n}</strong><em>{a}</em><span>{d}</span>'
@@ -87,7 +91,7 @@ HERO_JS = """
 """
 
 def sheet():
-    cols = ''.join('<div><h2>Course ' + c['id'] + ' · ' + html.escape(c['name']) + '</h2><table>' + ''.join(f'<tr><td>{t}</td><td>{html.escape(h)}</td></tr>' for t, h, d in c['steps']) + '</table></div>' for c in COURSES)
+    cols = ''.join('<div><h2>Course ' + c['id'] + ' · ' + html.escape(c['name']) + '</h2><table>' + ''.join(f'<tr><td>{t}</td><td>{html.escape(h)}</td></tr>' for t, h, d, *_ in c['steps']) + '</table></div>' for c in COURSES)
     return ('<section class="sheet" aria-hidden="true"><header class="sh"><h1>' + html.escape(PAGE['title']) + '</h1><p>' + ' · '.join(html.escape(k) + ' ' + html.escape(v) for k, v in PAGE['facts']) + '</p></header>'
             '<div class="smeet"><h2>Meeting point</h2><p>' + html.escape(PAGE['meet_place']) + '</p><p>' + html.escape(PAGE['meet_text']) + '</p></div>'
             '<div class="sgrid">' + cols + '</div><footer class="sfoot">' + html.escape(PAGE['footer']) + '</footer></section>')
