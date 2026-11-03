@@ -134,5 +134,14 @@
     "area": "Akihabara",
     "status": "sample",
     "note": "Cecilia-akiba-dayを汎用化。B2B問い合わせ(TOKI等)に「3パターン例」として使い回す用"
+  },
+  {
+    "repo": "~/pokemon-cards-nintendo-day",
+    "url": "https://yukitchy.github.io/pokemon-cards-nintendo-day/",
+    "guest": "Generic (Pokémon cards and Nintendo)",
+    "date": "",
+    "area": "Akihabara / Shibuya / Ikebukuro / Nihonbashi",
+    "status": "generic",
+    "note": "ポケカ・任天堂の1日ルート汎用版。Aモチーフ（カード）。事前アンケート付き。実在確認済みの店のみ"
   }
 ]
