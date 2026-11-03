@@ -3539,8 +3539,8 @@
    "steps": [
     [
      "10:00",
-     "Akihabara Station, Electric Town exit",
-     "We meet here. Radio Kaikan is across the street, so there is almost no walking to start. If you are tired, tell me and we slow down."
+     "Vie de France Akihabara Dining",
+     "We meet here, on the 1st floor of BiTO AKIBA. Radio Kaikan is a short walk away, so there is almost no walking to start. If you are tired, tell me and we slow down."
     ],
     [
      "10:10",
@@ -3569,7 +3569,7 @@
     ]
    ],
    "stops": [
-    "Akihabara Station Electric Town Exit",
+    "Vie de France Akihabara Dining",
     "Akihabara Radio Kaikan",
     "Super Potato Akihabara",
     "Go!Go!Curry Akihabara",
@@ -3638,8 +3638,8 @@
    "steps": [
     [
      "10:00",
-     "Akihabara Station, Electric Town exit",
-     "We meet here. Yodobashi is one minute away, so the first shop is almost at the door."
+     "Vie de France Akihabara Dining",
+     "We meet here, on the 1st floor of BiTO AKIBA. Yodobashi is a few minutes' walk away, so the first shop is close."
     ],
     [
      "10:05",
@@ -3673,7 +3673,7 @@
     ]
    ],
    "stops": [
-    "Akihabara Station Electric Town Exit",
+    "Vie de France Akihabara Dining",
     "Yodobashi Akiba",
     "Kotobukiya Akihabara-kan",
     "Super Potato Akihabara",
@@ -3746,8 +3746,8 @@
    "steps": [
     [
      "10:00",
-     "Akihabara Station, Electric Town exit",
-     "We meet here. Radio Kaikan is across the street."
+     "Vie de France Akihabara Dining",
+     "We meet here, on the 1st floor of BiTO AKIBA. Radio Kaikan is a short walk away."
     ],
     [
      "10:10",
@@ -3781,7 +3781,7 @@
     ]
    ],
    "stops": [
-    "Akihabara Station Electric Town Exit",
+    "Vie de France Akihabara Dining",
     "Akihabara Radio Kaikan",
     "Super Potato Akihabara",
     "Shibuya Station",
@@ -3822,6 +3822,694 @@
   "areas": [
    "原宿・渋谷",
    "秋葉原・神田・御茶ノ水"
+  ]
+ },
+ {
+  "url": "https://yukitchy.github.io/akiba-3plans-sample/",
+  "guest": "Generic sample (sent to TOKI 2026-10-13)",
+  "date": "",
+  "area": "Akihabara",
+  "status": "sample",
+  "page": "akiba-3plans-sample",
+  "note": "Cecilia-akiba-dayを汎用化。B2B問い合わせ(TOKI等)に「3パターン例」として使い回す用",
+  "key": "akiba-3plans-sample:A",
+  "course": {
+   "id": "A",
+   "name": "First time in Akihabara",
+   "tag": "A little of everything",
+   "chips": [
+    "3 hours",
+    "On foot",
+    "Sunset to neon"
+   ],
+   "why": "If you are not sure what you like yet, this is the safe and fun one. A shrine at sunset, the famous figure building, hundreds of capsule toys, retro games, an arcade, and the main street lit up at night.",
+   "steps": [
+    [
+     "16:00",
+     "Meet at Akihabara Station",
+     "Electric Town exit. A two-minute map of the district."
+    ],
+    [
+     "16:10",
+     "Kanda Myojin shrine",
+     "Anime-themed ema plaques and the shrine from Love Live!, in the last daylight."
+    ],
+    [
+     "16:35",
+     "mAAch ecute Kanda Manseibashi",
+     "Old red-brick railway arches at sunset. The best photo spot of the day."
+    ],
+    [
+     "17:00",
+     "Radio Kaikan",
+     "Floor after floor of figures and goods. See what is popular this month."
+    ],
+    [
+     "17:40",
+     "Akihabara Gachapon Kaikan",
+     "Hundreds of capsule toy machines. Pick a souvenir by luck."
+    ],
+    [
+     "18:05",
+     "Super Potato",
+     "Retro games from the 80s and 90s, three floors of them."
+    ],
+    [
+     "18:30",
+     "GiGO arcade",
+     "Try the crane games."
+    ],
+    [
+     "18:50",
+     "Chuo-dori at night",
+     "One last photo under the neon, then goodbye."
+    ]
+   ],
+   "stops": [
+    "Akihabara Station",
+    "Kanda Myojin Shrine",
+    "mAAch ecute Kanda Manseibashi",
+    "Akihabara Radio Kaikan",
+    "Akihabara Gachapon Kaikan",
+    "Super Potato Akihabara",
+    "GiGO Akihabara"
+   ],
+   "moves": "All on foot, about 2.5 km. Short and flat, with breaks inside the shops.",
+   "food": [],
+   "good": "First-timers, mixed groups, anyone who wants to see the whole district in one evening.",
+   "mind": "The sun sets around 16:40 in early November, so we do the outdoor photos first and the neon at the end. Closing times will be re-checked once the date is fixed.",
+   "links": [
+    [
+     "Kanda Myojin",
+     "https://www.kandamyoujin.or.jp/"
+    ],
+    [
+     "Radio Kaikan",
+     "https://www.akihabara-radiokaikan.co.jp/"
+    ]
+   ]
+  },
+  "photos": {
+   "card": {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Akihabara_%2853152331538%29.jpg/960px-Akihabara_%2853152331538%29.jpg",
+    "title": "Akihabara (53152331538).jpg",
+    "lic": "CC BY 2.0",
+    "score": 8,
+    "note": "昼の中央通り・人通りとアニメ看板"
+   },
+   "detail": [
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Magnolias_bloom_in_a_shrine_in_Tokyo_%2853621075243%29.jpg/960px-Magnolias_bloom_in_a_shrine_in_Tokyo_%2853621075243%29.jpg",
+     "title": "Magnolias bloom in a shrine in Tokyo (53621075243).jpg",
+     "lic": "CC BY 2.0",
+     "score": 7,
+     "note": "神田明神の朱と桜"
+    }
+   ],
+   "food": []
+  },
+  "genres": [
+   "寺社・歴史",
+   "アニメ・マンガ",
+   "街歩き"
+  ],
+  "areas": [
+   "秋葉原・神田・御茶ノ水"
+  ]
+ },
+ {
+  "url": "https://yukitchy.github.io/akiba-3plans-sample/",
+  "guest": "Generic sample (sent to TOKI 2026-10-13)",
+  "date": "",
+  "area": "Akihabara",
+  "status": "sample",
+  "page": "akiba-3plans-sample",
+  "note": "Cecilia-akiba-dayを汎用化。B2B問い合わせ(TOKI等)に「3パターン例」として使い回す用",
+  "key": "akiba-3plans-sample:B",
+  "course": {
+   "id": "B",
+   "name": "Find your favorite",
+   "tag": "Built around the series you love",
+   "chips": [
+    "3 hours",
+    "Shopping",
+    "Made for you"
+   ],
+   "why": "Tell me the anime or games you love, and we go straight to the shops that have them. New goods first, then the used and rare shops where fans find things they cannot get at home.",
+   "steps": [
+    [
+     "16:00",
+     "Meet at Akihabara Station",
+     "Electric Town exit."
+    ],
+    [
+     "16:05",
+     "Animate Akihabara",
+     "New official goods for your series."
+    ],
+    [
+     "16:40",
+     "Mandarake Complex",
+     "Eight floors of used manga, figures and rare items. Real finds, honest prices."
+    ],
+    [
+     "17:30",
+     "Lashinbang or Surugaya",
+     "A second shop to dig through. I choose which one by your series."
+    ],
+    [
+     "18:10",
+     "Akihabara Gachapon Kaikan",
+     "Look for capsule toys of your favorite characters."
+    ],
+    [
+     "18:40",
+     "Chuo-dori at night",
+     "A photo with what you found, under the neon."
+    ]
+   ],
+   "stops": [
+    "Akihabara Station",
+    "Animate Akihabara",
+    "Mandarake Complex Akihabara",
+    "Lashinbang Akihabara",
+    "Akihabara Gachapon Kaikan"
+   ],
+   "moves": "All on foot, about 2 km. The shops are close together.",
+   "food": [],
+   "good": "Fans with a favorite series or character. Collectors.",
+   "mind": "Send me the names of the series you love before the day, and I will change the shops and floors to match. The sun sets around 16:40 in early November, so we do the outdoor photos first and the neon at the end. Closing times will be re-checked once the date is fixed.",
+   "links": [
+    [
+     "Mandarake",
+     "https://www.mandarake.co.jp/"
+    ]
+   ]
+  },
+  "photos": {
+   "card": {
+    "thumb": "img/goods.jpg",
+    "title": "Walls of anime acrylic stands and keychains in an Akihabara shop",
+    "lic": "own photo"
+   },
+   "detail": [],
+   "food": []
+  },
+  "genres": [
+   "アニメ・マンガ",
+   "買い物"
+  ],
+  "areas": [
+   "秋葉原・神田・御茶ノ水",
+   "池袋・巣鴨"
+  ]
+ },
+ {
+  "url": "https://yukitchy.github.io/akiba-3plans-sample/",
+  "guest": "Generic sample (sent to TOKI 2026-10-13)",
+  "date": "",
+  "area": "Akihabara",
+  "status": "sample",
+  "page": "akiba-3plans-sample",
+  "note": "Cecilia-akiba-dayを汎用化。B2B問い合わせ(TOKI等)に「3パターン例」として使い回す用",
+  "key": "akiba-3plans-sample:C",
+  "course": {
+   "id": "C",
+   "name": "Retro and games",
+   "tag": "The old electric town and the arcades",
+   "chips": [
+    "3 hours",
+    "Games",
+    "Retro"
+   ],
+   "why": "Akihabara before anime: tiny electronics stalls under the train tracks. Then retro consoles, rhythm games and fighting games, and the arcades at night.",
+   "steps": [
+    [
+     "16:00",
+     "Meet at Akihabara Station",
+     "Electric Town exit."
+    ],
+    [
+     "16:05",
+     "Akihabara Radio Center",
+     "Narrow alleys of electronic parts under the tracks, the way Akihabara started."
+    ],
+    [
+     "16:30",
+     "mAAch ecute Kanda Manseibashi",
+     "Red-brick railway arches at sunset."
+    ],
+    [
+     "17:00",
+     "Super Potato",
+     "Famicom and Super Famicom on the shelves, old arcade machines and Japanese snacks upstairs."
+    ],
+    [
+     "17:45",
+     "Taito Station and GiGO",
+     "Rhythm games, fighting games, crane games."
+    ],
+    [
+     "18:30",
+     "Akihabara Gachapon Kaikan",
+     "A last capsule toy, then a neon photo on Chuo-dori."
+    ]
+   ],
+   "stops": [
+    "Akihabara Station",
+    "Akihabara Radio Center",
+    "mAAch ecute Kanda Manseibashi",
+    "Super Potato Akihabara",
+    "Taito Station Akihabara",
+    "Akihabara Gachapon Kaikan"
+   ],
+   "moves": "All on foot, about 2 km.",
+   "food": [],
+   "good": "Gamers, retro fans, people who have seen Akihabara before.",
+   "mind": "The sun sets around 16:40 in early November, so we do the outdoor photos first and the neon at the end. Closing times will be re-checked once the date is fixed.",
+   "links": []
+  },
+  "photos": {
+   "card": {
+    "thumb": "img/arcade.jpg",
+    "title": "A guest playing Taiko no Tatsujin in an Akihabara arcade",
+    "lic": "own photo"
+   },
+   "detail": [],
+   "food": []
+  },
+  "genres": [
+   "アニメ・マンガ"
+  ],
+  "areas": [
+   "秋葉原・神田・御茶ノ水"
+  ]
+ },
+ {
+  "url": "https://yukitchy.github.io/pokemon-cards-nintendo-day/",
+  "guest": "Generic (Pokémon cards and Nintendo)",
+  "date": "",
+  "area": "Akihabara / Shibuya / Ikebukuro / Nihonbashi",
+  "status": "generic",
+  "page": "pokemon-cards-nintendo-day",
+  "note": "ポケカ・任天堂の1日ルート汎用版。Aモチーフ（カード）。事前アンケート付き。実在確認済みの店のみ",
+  "key": "pokemon-cards-nintendo-day:A",
+  "course": {
+   "id": "A",
+   "name": "Akihabara only, cards and retro games",
+   "tag": "On foot, no trains, finish by 16:30",
+   "chips": [
+    "Graded cards",
+    "Retro games",
+    "Arcade"
+   ],
+   "why": "Everything stays inside one square mile. The graded-card lounge opens at 11:00, so the day starts there and the rest follows on foot.",
+   "steps": [
+    [
+     "10:45",
+     "Akihabara Station",
+     "Meet at the Electric Town Exit.",
+     {
+      "maps": "Akihabara Station Electric Town Exit, Tokyo",
+      "img": "akiba"
+     }
+    ],
+    [
+     "11:00",
+     "SNKRDUNK Trading Card Akihabara",
+     "Trading cards on floors 1 to 3. PSA Lounge Tokyo is on the 5th floor, open 11:00 to 14:00 and 15:00 to 19:30, and closed on Tuesdays and Wednesdays.",
+     {
+      "url": "https://snkrdunk.com/store/tradingcard-akihabara",
+      "maps": "SNKRDUNK Trading Card Akihabara, 1-14-1 Sotokanda, Chiyoda, Tokyo",
+      "art": "slab"
+     }
+    ],
+    [
+     "12:30",
+     "Lunch",
+     "A quick lunch in Akihabara.",
+     {
+      "maps": "Akihabara Station, Tokyo",
+      "art": "orb"
+     }
+    ],
+    [
+     "13:30",
+     "Mandarake Complex",
+     "Eight floors of vintage toys, manga and collectibles. Open 12:00 to 20:00 every day.",
+     {
+      "url": "https://www.mandarake.co.jp/dir/cmp/",
+      "maps": "Mandarake Complex, 3-11-12 Sotokanda, Chiyoda, Tokyo",
+      "img": "mandarake"
+     }
+    ],
+    [
+     "14:30",
+     "Super Potato",
+     "Retro games on floors 3 to 5, with a retro arcade on the 5th floor. Open 11:00 to 20:00 every day.",
+     {
+      "url": "https://www.superpotato.com/shop/akihabara/",
+      "maps": "Super Potato Akihabara, 1-11-2 Sotokanda, Chiyoda, Tokyo",
+      "img": "potato1"
+     }
+    ],
+    [
+     "15:45",
+     "Hey",
+     "A large arcade near the station, open every day. Finish here, or keep browsing.",
+     {
+      "url": "https://www.taito.co.jp/en/store/00001703",
+      "maps": "Hey Akihabara, 1-10-5 Sotokanda, Chiyoda, Tokyo",
+      "img": "arcade"
+     }
+    ]
+   ],
+   "stops": [
+    "Akihabara Station Electric Town Exit, Tokyo",
+    "SNKRDUNK Trading Card Akihabara, 1-14-1 Sotokanda, Chiyoda, Tokyo",
+    "Mandarake Complex, 3-11-12 Sotokanda, Chiyoda, Tokyo",
+    "Super Potato Akihabara, 1-11-2 Sotokanda, Chiyoda, Tokyo",
+    "Hey Akihabara, 1-10-5 Sotokanda, Chiyoda, Tokyo"
+   ],
+   "moves": "Everything is a few minutes on foot.",
+   "food": [],
+   "good": "Collectors who want the most time in front of the cases.",
+   "mind": "The PSA Lounge is closed from 14:00 to 15:00 and on Tuesdays and Wednesdays. The first stop opens at 11:00.",
+   "links": [
+    [
+     "SNKRDUNK store page",
+     "https://snkrdunk.com/store/tradingcard-akihabara"
+    ],
+    [
+     "Super Potato",
+     "https://www.superpotato.com/shop/akihabara/"
+    ],
+    [
+     "Mandarake Complex",
+     "https://www.mandarake.co.jp/dir/cmp/"
+    ],
+    [
+     "Hey",
+     "https://www.taito.co.jp/en/store/00001703"
+    ]
+   ]
+  },
+  "photos": {
+   "card": {
+    "thumb": "img/akiba.jpg",
+    "title": "Electric Town crossing in Akihabara, Tokyo",
+    "lic": "CC BY 4.0"
+   },
+   "detail": [],
+   "food": []
+  },
+  "genres": [
+   "アニメ・マンガ",
+   "買い物",
+   "街歩き"
+  ],
+  "areas": [
+   "秋葉原・神田・御茶ノ水"
+  ]
+ },
+ {
+  "url": "https://yukitchy.github.io/pokemon-cards-nintendo-day/",
+  "guest": "Generic (Pokémon cards and Nintendo)",
+  "date": "",
+  "area": "Akihabara / Shibuya / Ikebukuro / Nihonbashi",
+  "status": "generic",
+  "page": "pokemon-cards-nintendo-day",
+  "note": "ポケカ・任天堂の1日ルート汎用版。Aモチーフ（カード）。事前アンケート付き。実在確認済みの店のみ",
+  "key": "pokemon-cards-nintendo-day:B",
+  "course": {
+   "id": "B",
+   "name": "Akihabara, then Shibuya for Nintendo",
+   "tag": "Half a day on foot, then one train ride",
+   "chips": [
+    "Graded cards",
+    "Nintendo",
+    "Pokémon Center"
+   ],
+   "why": "A shorter card round in the morning, then Nintendo TOKYO and the Pokémon Center on the same floor of Shibuya PARCO.",
+   "steps": [
+    [
+     "10:45",
+     "Akihabara Station",
+     "Meet at the Electric Town Exit.",
+     {
+      "maps": "Akihabara Station Electric Town Exit, Tokyo",
+      "img": "akiba"
+     }
+    ],
+    [
+     "11:00",
+     "SNKRDUNK Trading Card Akihabara",
+     "Trading cards on floors 1 to 3, and PSA Lounge Tokyo on the 5th floor. The lounge is open 11:00 to 14:00, so we go first.",
+     {
+      "url": "https://snkrdunk.com/store/tradingcard-akihabara",
+      "maps": "SNKRDUNK Trading Card Akihabara, 1-14-1 Sotokanda, Chiyoda, Tokyo",
+      "art": "slab"
+     }
+    ],
+    [
+     "12:15",
+     "Super Potato",
+     "Retro games on floors 3 to 5 and a retro arcade on the 5th. Open 11:00 to 20:00.",
+     {
+      "url": "https://www.superpotato.com/shop/akihabara/",
+      "maps": "Super Potato Akihabara, 1-11-2 Sotokanda, Chiyoda, Tokyo",
+      "img": "potato2"
+     }
+    ],
+    [
+     "13:15",
+     "Lunch",
+     "Lunch before the train.",
+     {
+      "maps": "Akihabara Station, Tokyo",
+      "art": "orb"
+     }
+    ],
+    [
+     "14:00",
+     "Train to Shibuya",
+     "One train ride on the Yamanote Line.",
+     {
+      "maps": "Shibuya Station, Tokyo",
+      "art": "ball"
+     }
+    ],
+    [
+     "14:45",
+     "Nintendo TOKYO",
+     "Shibuya PARCO, 6th floor. Open 10:00 to 21:00. On busy days entry is by free numbered ticket.",
+     {
+      "url": "https://www.nintendo.com/jp/officialstore/index.html",
+      "maps": "Nintendo TOKYO, Shibuya PARCO 6F, 15-1 Udagawacho, Shibuya, Tokyo",
+      "img": "nintendo"
+     }
+    ],
+    [
+     "15:45",
+     "Pokémon Center Shibuya",
+     "On the same floor of Shibuya PARCO. Open 10:00 to 21:00. The day ends here.",
+     {
+      "url": "https://shop.pokemon.co.jp/en/shop/pokemoncenter-shibuya/",
+      "maps": "Pokémon Center Shibuya, Shibuya PARCO 6F, 15-1 Udagawacho, Shibuya, Tokyo",
+      "img": "pcshibuya"
+     }
+    ]
+   ],
+   "stops": [
+    "Akihabara Station Electric Town Exit, Tokyo",
+    "SNKRDUNK Trading Card Akihabara, 1-14-1 Sotokanda, Chiyoda, Tokyo",
+    "Super Potato Akihabara, 1-11-2 Sotokanda, Chiyoda, Tokyo",
+    "Shibuya Station, Tokyo",
+    "Nintendo TOKYO, Shibuya PARCO 6F, 15-1 Udagawacho, Shibuya, Tokyo",
+    "Pokémon Center Shibuya, Shibuya PARCO 6F, 15-1 Udagawacho, Shibuya, Tokyo"
+   ],
+   "moves": "Short walks in Akihabara, then one train ride.",
+   "food": [],
+   "good": "A mix of card hunting and the big Nintendo and Pokémon stores.",
+   "mind": "Shibuya PARCO is crowded in the afternoon. The 6th floor is reached by the marked stairs, and the elevators do not stop there before 10:00.",
+   "links": [
+    [
+     "SNKRDUNK store page",
+     "https://snkrdunk.com/store/tradingcard-akihabara"
+    ],
+    [
+     "Nintendo TOKYO",
+     "https://www.nintendo.com/jp/officialstore/index.html"
+    ],
+    [
+     "Pokémon Center Shibuya",
+     "https://shop.pokemon.co.jp/en/shop/pokemoncenter-shibuya/"
+    ],
+    [
+     "Shibuya PARCO notice on 6F entry",
+     "https://shibuya.parco.jp/pnews/detail/?id=31525"
+    ]
+   ]
+  },
+  "photos": {
+   "card": {
+    "thumb": "img/nintendo.jpg",
+    "title": "Inside Nintendo TOKYO at Shibuya PARCO",
+    "lic": "CC BY 2.0"
+   },
+   "detail": [],
+   "food": []
+  },
+  "genres": [
+   "アニメ・マンガ",
+   "街歩き"
+  ],
+  "areas": [
+   "原宿・渋谷",
+   "秋葉原・神田・御茶ノ水"
+  ]
+ },
+ {
+  "url": "https://yukitchy.github.io/pokemon-cards-nintendo-day/",
+  "guest": "Generic (Pokémon cards and Nintendo)",
+  "date": "",
+  "area": "Akihabara / Shibuya / Ikebukuro / Nihonbashi",
+  "status": "generic",
+  "page": "pokemon-cards-nintendo-day",
+  "note": "ポケカ・任天堂の1日ルート汎用版。Aモチーフ（カード）。事前アンケート付き。実在確認済みの店のみ",
+  "key": "pokemon-cards-nintendo-day:C",
+  "course": {
+   "id": "C",
+   "name": "Pokémon Centers across the city",
+   "tag": "Three areas, trains between, a full day",
+   "chips": [
+    "Pokémon Center",
+    "Cafe",
+    "Graded cards"
+   ],
+   "why": "Two of the largest Pokémon Centers, with the Pokémon Cafe nearby, and a card stop in Akihabara to close the day.",
+   "steps": [
+    [
+     "10:45",
+     "Akihabara Station",
+     "Meet at the Electric Town Exit.",
+     {
+      "maps": "Akihabara Station Electric Town Exit, Tokyo",
+      "img": "akiba"
+     }
+    ],
+    [
+     "11:00",
+     "Train to Ikebukuro",
+     "One train ride to Ikebukuro.",
+     {
+      "maps": "Ikebukuro Station, Tokyo",
+      "art": "ball"
+     }
+    ],
+    [
+     "11:45",
+     "Pokémon Center MEGA TOKYO",
+     "Sunshine City alpa, 2nd floor. Open 10:00 to 20:00. The shop reopened on 24 August 2026 after a closure and entry may be limited, so we check its notices first.",
+     {
+      "url": "https://shop.pokemon.co.jp/en/shop/pokemoncenter-megatokyo/",
+      "maps": "Pokémon Center MEGA TOKYO, Sunshine City alpa 2F, 3-1-2 Higashiikebukuro, Toshima, Tokyo",
+      "img": "mega"
+     }
+    ],
+    [
+     "13:00",
+     "Lunch",
+     "Lunch near Sunshine City.",
+     {
+      "maps": "Sunshine City, Ikebukuro, Tokyo",
+      "art": "orb"
+     }
+    ],
+    [
+     "14:15",
+     "Train to Nihonbashi",
+     "One train ride to Nihonbashi.",
+     {
+      "maps": "Nihonbashi Station, Tokyo",
+      "art": "ball"
+     }
+    ],
+    [
+     "14:45",
+     "Pokémon Center TOKYO DX",
+     "Nihonbashi Takashimaya S.C. East Building, 5th floor. Open 10:30 to 21:00.",
+     {
+      "url": "https://shop.pokemon.co.jp/en/shop/pokemoncenter-tokyodx/",
+      "maps": "Pokémon Center TOKYO DX, Nihonbashi Takashimaya S.C. East Building 5F, 2-11-2 Nihonbashi, Chuo, Tokyo",
+      "img": "dx"
+     }
+    ],
+    [
+     "15:45",
+     "Pokémon Cafe TOKYO",
+     "Nearby in the same complex. Seats are booked on the official site only, so book before the day if you want a table.",
+     {
+      "url": "https://www.pokemon-cafe.jp/ja/cafe/reservation.html",
+      "maps": "Pokémon Cafe TOKYO, Nihonbashi Takashimaya S.C. East Building, 2-11-2 Nihonbashi, Chuo, Tokyo",
+      "art": "slab"
+     }
+    ],
+    [
+     "17:15",
+     "Back to Akihabara",
+     "One last card stop. SNKRDUNK is open until 21:00, and PSA Lounge Tokyo is open until 19:30 with last intake at 18:30.",
+     {
+      "url": "https://snkrdunk.com/store/tradingcard-akihabara",
+      "maps": "SNKRDUNK Trading Card Akihabara, 1-14-1 Sotokanda, Chiyoda, Tokyo",
+      "img": "sega"
+     }
+    ]
+   ],
+   "stops": [
+    "Akihabara Station Electric Town Exit, Tokyo",
+    "Pokémon Center MEGA TOKYO, Sunshine City alpa 2F, 3-1-2 Higashiikebukuro, Toshima, Tokyo",
+    "Pokémon Center TOKYO DX, Nihonbashi Takashimaya S.C. East Building 5F, 2-11-2 Nihonbashi, Chuo, Tokyo",
+    "SNKRDUNK Trading Card Akihabara, 1-14-1 Sotokanda, Chiyoda, Tokyo"
+   ],
+   "moves": "Three train rides between the areas.",
+   "food": [],
+   "good": "Anyone who wants the big stores and the merchandise.",
+   "mind": "The most train time of the three plans. The cafe needs a booking. Check the MEGA TOKYO notices for entry rules before the day.",
+   "links": [
+    [
+     "Pokémon Center MEGA TOKYO",
+     "https://shop.pokemon.co.jp/en/shop/pokemoncenter-megatokyo/"
+    ],
+    [
+     "Pokémon Center TOKYO DX",
+     "https://shop.pokemon.co.jp/en/shop/pokemoncenter-tokyodx/"
+    ],
+    [
+     "Pokémon Cafe reservations",
+     "https://www.pokemon-cafe.jp/ja/cafe/reservation.html"
+    ],
+    [
+     "SNKRDUNK store page",
+     "https://snkrdunk.com/store/tradingcard-akihabara"
+    ]
+   ]
+  },
+  "photos": {
+   "card": {
+    "thumb": "img/pcshibuya.jpg",
+    "title": "Entrance of Pokémon Center Shibuya",
+    "lic": "CC BY 2.0"
+   },
+   "detail": [],
+   "food": []
+  },
+  "genres": [
+   "アニメ・マンガ"
+  ],
+  "areas": [
+   "秋葉原・神田・御茶ノ水",
+   "池袋・巣鴨"
   ]
  }
 ]
